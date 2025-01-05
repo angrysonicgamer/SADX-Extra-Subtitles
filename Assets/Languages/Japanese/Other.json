@@ -1,0 +1,20 @@
+{
+    "Language": "Japanese",
+    "SkyChase1": [
+        "フン、これで勝ったと思うなよ！",
+        "エッグマン砲よい！",
+        "ほれ、発射！",
+        "わ、やられた！",
+        "わああああああ！"
+    ],
+    "SkyChase2": [
+        "システムモード、チェンジ！",
+        "わあああああう！",
+        "よし、行くよ！",
+        "NULL"
+    ],
+    "TwinklePark": [
+        "Welcome to Twinkle Park!",
+        "NULL"
+    ]
+}

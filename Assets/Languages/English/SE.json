@@ -1,0 +1,97 @@
+{
+    "Language": "English",    
+    "Subtitles": [
+        {
+            "Sonic": [
+                {
+                    "VoiceID": 1227,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Ready!"
+                },
+                {
+                    "VoiceID": 1228,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Go!"
+                }
+            ],
+            "Knuckles": [
+                {
+                    "VoiceID": 1261,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "No way!"
+                },
+                {
+                    "VoiceID": 1262,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Dang!"
+                },
+                {
+                    "VoiceID": 1268,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Two more!"
+                },
+                {
+                    "VoiceID": 1269,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "One more to go!"
+                }
+            ],
+            "Gamma": [
+                {
+                    "VoiceID": 1299,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Pick up."
+                },
+                {
+                    "VoiceID": 1300,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Put down."
+                },
+                {
+                    "VoiceID": 1301,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Throw."
+                },
+                {
+                    "VoiceID": 1302,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Push."
+                },
+                {
+                    "VoiceID": 1303,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Pull."
+                },
+                {
+                    "VoiceID": 1304,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Mode change."
+                },
+                {
+                    "VoiceID": 1305,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "No time left."
+                },
+                {
+                    "VoiceID": 1306,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Obtained item."
+                }
+            ]
+        }
+    ]
+}

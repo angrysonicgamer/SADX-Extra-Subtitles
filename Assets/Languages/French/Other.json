@@ -1,0 +1,20 @@
+{
+    "Language": "French",
+    "SkyChase1": [
+        "C'est l'heure d'employer un tour de force comme je les aime !",
+        "Egg Cannon prêt !",
+        "FEU !",
+        "Aah, on est touchés !",
+        "Ouais ! Woaaaaaah !"
+    ],
+    "SkyChase2": [
+        "Transformation, maintenant !",
+        "Woaaah !",
+        "Finissons-en !",
+        "NULL"
+    ],
+    "TwinklePark": [
+        "Bienvenue à Twinkle Park !",
+        "NULL"
+    ]
+}

@@ -1,11 +1,7 @@
 ﻿#include "pch.h"
 #include "Config.h"
 #include "ExtraSubs.h"
-#include "Languages/ExtraSubs_English.h"
-#include "Languages/ExtraSubs_English_Retranslated.h"
-#include "Languages/ExtraSubs_French.h"
-#include "Languages/ExtraSubs_French_Retranslated.h"
-#include "Languages/ExtraSubs_Japanese.h"
+#include "Json.h"
 #include "TextConv.hpp"
 #include "FunctionHook.h"
 
@@ -13,7 +9,6 @@
 FunctionHook<int, int, void*, int, void*> PlaySound_Hook(0x423D70);
 FunctionPointer(void, sub_40BC80, (), 0x40BC80);
 
-const int ShiftJIS = 932;
 const char* Buffer[] = { NULL, NULL };
 const char* TextBuffer = NULL;
 int SubtitleDisplayFrameCount = 0;
@@ -21,73 +16,66 @@ int SubtitleDuration = 0;
 int EggCannonFrameCount = 0;
 
 
-bool UseRetranslatedSubtitles()
-{
-	return Config::SubtitlesMode == "AlwaysRetranslated" || Config::SubtitlesMode == "Auto" && VoiceLanguage == Languages_Japanese;
-}
+// English
 
+static std::map<int, SubtitleData> ExtraSubs_English;
+static std::map<int, SubtitleData> ExtraSubs_SE_English;
+static std::vector<const char*> SkyChase1_English;
+static std::vector<const char*> SkyChase2_English;
+static std::vector<const char*> WelcomeToTwinklePark_English;
 
-// UTF16 to Shift-JIS conversion
+static std::map<int, SubtitleData> ExtraSubs_English_Retranslated;
+static std::vector<const char*> SkyChase1_English_Retranslated;
+static std::vector<const char*> SkyChase2_English_Retranslated;
 
-std::map<int, SubtitleData> ExtraSubs_Japanese;
-std::map<int, SubtitleData> ExtraSubs_SE_Japanese;
+// French
 
-const char* UTF16toSJIS(const wchar_t* text)
-{
-	return UTF16toMBS(text, ShiftJIS);
-}
+static std::map<int, SubtitleData> ExtraSubs_French;
+static std::map<int, SubtitleData> ExtraSubs_SE_French;
+static std::vector<const char*> SkyChase1_French;
+static std::vector<const char*> SkyChase2_French;
+static std::vector<const char*> WelcomeToTwinklePark_French;
 
-std::map<int, SubtitleData> ConvertMapToSjis(const std::map<int, SubtitleDataUTF16>& utf16Subs)
-{
-	std::map<int, SubtitleData> sjisSubs;
-	
-	for (auto& entry : utf16Subs)
-	{
-		int id = entry.first;
-		const char* text = UTF16toSJIS(entry.second.Text);
-		int duration = entry.second.Duration;
-		DisplayConditions condition = entry.second.Condition;
+static std::map<int, SubtitleData> ExtraSubs_French_Retranslated;
+static std::vector<const char*> SkyChase1_French_Retranslated;
+static std::vector<const char*> SkyChase2_French_Retranslated;
 
-		sjisSubs.insert({ id, { text, duration, condition } });
-	}
+// Japanese
 
-	return sjisSubs;
-}
-
-void ConvertJapaneseExtraSubs()
-{
-	ExtraSubs_Japanese = ConvertMapToSjis(ExtraSubs_Japanese_UTF16);
-	ExtraSubs_SE_Japanese = ConvertMapToSjis(ExtraSubs_SE_Japanese_UTF16);
-}
+static std::map<int, SubtitleData> ExtraSubs_Japanese;
+static std::map<int, SubtitleData> ExtraSubs_SE_Japanese;
+static std::vector<const char*> SkyChase1_Japanese;
+static std::vector<const char*> SkyChase2_Japanese;
+static std::vector<const char*> WelcomeToTwinklePark_Japanese;
 
 
 // Subtitle data
 
 const char** SkyChase1[]
 {
-	SkyChase1_Japanese,
-	SkyChase1_English,
-	SkyChase1_French,
-	NULL, //Spanish
-	NULL, //German
+	SkyChase1_Japanese.data(),
+	SkyChase1_English.data(),
+	SkyChase1_French.data(),
+	NULL, // Spanish
+	NULL, // German
 };
 
 const char** SkyChase2[]
 {
-	SkyChase2_Japanese,
-	SkyChase2_English,
-	SkyChase2_French,
-	NULL, //Spanish
-	NULL, //German
+	SkyChase2_Japanese.data(),
+	SkyChase2_English.data(),
+	SkyChase2_French.data(),
+	NULL, // Spanish
+	NULL, // German
 };
 
 const char** WelcomeToTwinkleParkCutscene[]
 {
-	WelcomeToTwinklePark_Japanese,
-	WelcomeToTwinklePark_English,
-	WelcomeToTwinklePark_French,
-	NULL, //Spanish
-	NULL, //German
+	WelcomeToTwinklePark_Japanese.data(),
+	WelcomeToTwinklePark_English.data(),
+	WelcomeToTwinklePark_French.data(),
+	NULL, // Spanish
+	NULL, // German
 };
 
 
@@ -96,8 +84,8 @@ std::map<int, SubtitleData>* ExtraSubs[]
 	&ExtraSubs_Japanese,
 	&ExtraSubs_English,
 	&ExtraSubs_French,
-	NULL, //Spanish
-	NULL, //German
+	NULL, // Spanish
+	NULL, // German
 };
 
 std::map<int, SubtitleData>* ExtraSubs_SE[]
@@ -105,8 +93,8 @@ std::map<int, SubtitleData>* ExtraSubs_SE[]
 	&ExtraSubs_SE_Japanese,
 	&ExtraSubs_SE_English,
 	&ExtraSubs_SE_French,
-	NULL, //Spanish
-	NULL, //German
+	NULL, // Spanish
+	NULL, // German
 };
 
 
@@ -125,9 +113,9 @@ void SetUpMenuSubtitle(int id)
 	SubtitleDuration = ExtraSubs[TextLanguage]->at(id).Duration;
 }
 
-void DisplayCutsceneSubtitle(int id) //for post-Egg Walker cutscene specifically
+void DisplayCutsceneSubtitle(int id) // for post-Egg Walker cutscene specifically
 {
-	if (VoiceLanguage == Languages_English && (id == 822 || id == 824)) return; //voice language can only be English or Japanese
+	if (VoiceLanguage == Languages_English && (id == 822 || id == 824)) return; // voice language can only be English or Japanese
 	
 	EV_Msg(ExtraSubs[TextLanguage]->at(id).Text);
 
@@ -154,30 +142,19 @@ void DisplaySkyChase2Subtitles()
 	}
 }
 
-void SetSubtitlesMode() //this will be a single option for multiple languages
+void SetSubtitlesMode() // this will be a single option for multiple languages
 {
-	if (TextLanguage == Languages_Japanese) return; //this obviously doesn't have a retranslated version
-	
-	if (UseRetranslatedSubtitles())
-	{
-		ExtraSubs[Languages_English] = &ExtraSubs_EnglishRetranslated;
-		SkyChase1[Languages_English] = SkyChase1_EnglishRetranslated;
-		SkyChase2[Languages_English] = SkyChase2_EnglishRetranslated;
+	if (TextLanguage == Languages_Japanese) return; // this obviously doesn't have a retranslated version
 
-		ExtraSubs[Languages_French] = &ExtraSubs_FrenchRetranslated;
-		SkyChase1[Languages_French] = SkyChase1_FrenchRetranslated;
-		SkyChase2[Languages_French] = SkyChase2_FrenchRetranslated;
-	}
-	else
-	{
-		ExtraSubs[Languages_English] = &ExtraSubs_English;
-		SkyChase1[Languages_English] = SkyChase1_English;
-		SkyChase2[Languages_English] = SkyChase2_English;
+	bool useRetranslatedSubs = Config::SubtitlesMode == "AlwaysRetranslated" || Config::SubtitlesMode == "Auto" && VoiceLanguage == Languages_Japanese;
 
-		ExtraSubs[Languages_French] = &ExtraSubs_French;
-		SkyChase1[Languages_French] = SkyChase1_French;
-		SkyChase2[Languages_French] = SkyChase2_French;
-	}
+	ExtraSubs[Languages_English] = useRetranslatedSubs ? &ExtraSubs_English_Retranslated : &ExtraSubs_English;
+	SkyChase1[Languages_English] = useRetranslatedSubs ? SkyChase1_English_Retranslated.data() : SkyChase1_English.data();
+	SkyChase2[Languages_English] = useRetranslatedSubs ? SkyChase2_English_Retranslated.data() : SkyChase2_English.data();
+
+	ExtraSubs[Languages_French] = useRetranslatedSubs ? &ExtraSubs_French_Retranslated : &ExtraSubs_French;
+	SkyChase1[Languages_French] = useRetranslatedSubs ? SkyChase1_French_Retranslated.data() : SkyChase1_French.data();
+	SkyChase2[Languages_French] = useRetranslatedSubs ? SkyChase2_French_Retranslated.data() : SkyChase2_French.data();
 }
 
 
@@ -185,16 +162,16 @@ void DisplaySubtitle(int id)
 {
 	SetSubtitlesMode();
 
-	if (id == 187) //Sky Chase 1 Egg Cannon sequence
+	if (id == 187) // Sky Chase 1 Egg Cannon sequence
 	{
 		SetUpSkyChase1Subtitles();
 	}
-	if (id == 2025) //Sky Chase 2 Tornado transformation sequence
+	if (id == 2025) // Sky Chase 2 Tornado transformation sequence
 	{
 		DisplaySkyChase2Subtitles();
 	}
 
-	if (id == 1575 && CurrentCutsceneID == 20) //for cutscene after Twinkle Park (Sonic) to prevent this subtitle overriding a cutscene one
+	if (id == 1575 && CurrentCutsceneID == 20) // for cutscene after Twinkle Park (Sonic) to prevent this subtitle overriding a cutscene one
 	{
 		if (WelcomeToTwinkleParkCutscene[TextLanguage] != NULL)
 		{
@@ -258,17 +235,53 @@ int __cdecl PlaySound_ExtraSub(int id, void* a2, int a3, void* a4)
 }
 
 
-void InitExtraSubs()
+// Loading text from json files
+
+void LoadText(const char* modPath)
 {
-	ConvertJapaneseExtraSubs();
-	WriteJump((void*)0x425710, PlayVoice_ExtraSub);
-	PlaySound_Hook.Hook(PlaySound_ExtraSub);
-	WriteData((char*)0x40BC9A, (char)52); //changing the text box height for menu screens, so two lines would fit properly
-	WriteData((int*)0x40BCA1, 384); //changing the y coordinate of the text box to match menu and gameplay display methods
+	ExtraSubs_English = Json::ReadExtraSubs(modPath, "English", "Main", Latin);
+	ExtraSubs_SE_English = Json::ReadExtraSubs(modPath, "English", "SE", Latin);
+	SkyChase1_English = Json::ReadArray(modPath, "English", "SkyChase1", Latin);
+	SkyChase2_English = Json::ReadArray(modPath, "English", "SkyChase2", Latin);
+	WelcomeToTwinklePark_English = Json::ReadArray(modPath, "English", "TwinklePark", Latin);
+
+	ExtraSubs_English_Retranslated = Json::ReadExtraSubs(modPath, "English (Retranslated)", "Main", Latin);
+	SkyChase1_English_Retranslated = Json::ReadArray(modPath, "English (Retranslated)", "SkyChase1", Latin);
+	SkyChase2_English_Retranslated = Json::ReadArray(modPath, "English (Retranslated)", "SkyChase2", Latin);
+
+	ExtraSubs_French = Json::ReadExtraSubs(modPath, "French", "Main", Latin);
+	ExtraSubs_SE_French = Json::ReadExtraSubs(modPath, "French", "SE", Latin);
+	SkyChase1_French = Json::ReadArray(modPath, "French", "SkyChase1", Latin);
+	SkyChase2_French = Json::ReadArray(modPath, "French", "SkyChase2", Latin);
+	WelcomeToTwinklePark_French = Json::ReadArray(modPath, "French", "TwinklePark", Latin);
+
+	ExtraSubs_French_Retranslated = Json::ReadExtraSubs(modPath, "French (Retranslated)", "Main", Latin);
+	SkyChase1_French_Retranslated = Json::ReadArray(modPath, "French (Retranslated)", "SkyChase1", Latin);
+	SkyChase2_French_Retranslated = Json::ReadArray(modPath, "French (Retranslated)", "SkyChase2", Latin);
+
+	ExtraSubs_Japanese = Json::ReadExtraSubs(modPath, "Japanese", "Main", Japanese);
+	ExtraSubs_SE_Japanese = Json::ReadExtraSubs(modPath, "Japanese", "SE", Japanese);
+	SkyChase1_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase1", Japanese);
+	SkyChase2_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase2", Japanese);
+	WelcomeToTwinklePark_Japanese = Json::ReadArray(modPath, "Japanese", "TwinklePark", Japanese);
+
+	PrintDebug("[SADX Extra Subtitles] Text has been successfully loaded from json files.\n");
 }
 
 
-/* OnFrame stuff */
+void ExtraSubs::Init(const char* modPath)
+{
+	LoadText(modPath);
+
+	WriteJump((void*)0x425710, PlayVoice_ExtraSub);
+	PlaySound_Hook.Hook(PlaySound_ExtraSub);
+
+	WriteData((char*)0x40BC9A, (char)52);		// changing the text box height for menu screens, so two lines would fit properly
+	WriteData((int*)0x40BCA1, 384);				// changing the y coordinate of the text box to match menu and gameplay display methods
+}
+
+
+// OnFrame stuff
 
 void DisplaySubtitleForOneFrame()
 {
@@ -311,7 +324,7 @@ void DisplayEggCannonSubtitles()
 }
 
 
-void DisplaySubtitleOnFrame()
+void ExtraSubs::OnFrame()
 {
 	if (SubtitleDisplayFrameCount > 0 && SubtitleDisplayFrameCount <= SubtitleDuration)
 	{

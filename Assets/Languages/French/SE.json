@@ -1,0 +1,97 @@
+{
+    "Language": "French",    
+    "Subtitles": [
+        {
+            "Sonic": [
+                {
+                    "VoiceID": 1227,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Prêt !"
+                },
+                {
+                    "VoiceID": 1228,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "On y va !"
+                }
+            ],
+            "Knuckles": [
+                {
+                    "VoiceID": 1261,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Non !"
+                },
+                {
+                    "VoiceID": 1262,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Mince !"
+                },
+                {
+                    "VoiceID": 1268,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Encore deux !"
+                },
+                {
+                    "VoiceID": 1269,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Plus qu'une !"
+                }
+            ],
+            "Gamma": [
+                {
+                    "VoiceID": 1299,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Porter."
+                },
+                {
+                    "VoiceID": 1300,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Déposer."
+                },
+                {
+                    "VoiceID": 1301,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Jeter."
+                },
+                {
+                    "VoiceID": 1302,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Pousser."
+                },
+                {
+                    "VoiceID": 1303,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Tirer."
+                },
+                {
+                    "VoiceID": 1304,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Changement de mode."
+                },
+                {
+                    "VoiceID": 1305,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Plus de temps."
+                },
+                {
+                    "VoiceID": 1306,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Objet obtenu."
+                }
+            ]
+        }
+    ]
+}

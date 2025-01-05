@@ -1,5 +1,11 @@
 #pragma once
 
+enum Codepage
+{
+	Latin = 1252,
+	Japanese = 932
+};
+
 enum DisplayConditions
 {
 	Menu,
@@ -14,13 +20,9 @@ struct SubtitleData
 	DisplayConditions Condition;
 };
 
-struct SubtitleDataUTF16
+class ExtraSubs
 {
-	const wchar_t* Text;
-	int Duration;
-	DisplayConditions Condition;
+public:
+	static void Init(const char* modPath);
+	static void OnFrame();
 };
-
-const char* UTF16toSJIS(const wchar_t* text);
-void InitExtraSubs();
-void DisplaySubtitleOnFrame();

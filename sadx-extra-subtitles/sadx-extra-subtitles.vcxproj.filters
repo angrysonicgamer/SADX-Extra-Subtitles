@@ -4,8 +4,8 @@
     <Filter Include="Mod">
       <UniqueIdentifier>{bdf34e03-8ac4-45d4-a758-c866295e6404}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Mod\Languages">
-      <UniqueIdentifier>{b77a024f-f4fb-44f2-a820-807b7dcde993}</UniqueIdentifier>
+    <Filter Include="nlohmann-json">
+      <UniqueIdentifier>{d60e4b93-35a0-4a0f-93b0-236edac892a3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -15,23 +15,14 @@
     <ClInclude Include="Mod\ExtraSubs.h">
       <Filter>Mod</Filter>
     </ClInclude>
-    <ClInclude Include="Mod\Languages\ExtraSubs_English.h">
-      <Filter>Mod\Languages</Filter>
-    </ClInclude>
-    <ClInclude Include="Mod\Languages\ExtraSubs_English_Retranslated.h">
-      <Filter>Mod\Languages</Filter>
-    </ClInclude>
-    <ClInclude Include="Mod\Languages\ExtraSubs_French.h">
-      <Filter>Mod\Languages</Filter>
-    </ClInclude>
-    <ClInclude Include="Mod\Languages\ExtraSubs_French_Retranslated.h">
-      <Filter>Mod\Languages</Filter>
-    </ClInclude>
-    <ClInclude Include="Mod\Languages\ExtraSubs_Japanese.h">
-      <Filter>Mod\Languages</Filter>
-    </ClInclude>
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Mod\Json.h">
+      <Filter>Mod</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann-json\json.hpp">
+      <Filter>nlohmann-json</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mod\Config.cpp">
@@ -45,5 +36,8 @@
     </ClCompile>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Mod\Json.cpp">
+      <Filter>Mod</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

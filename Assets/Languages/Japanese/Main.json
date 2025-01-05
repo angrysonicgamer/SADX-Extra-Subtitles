@@ -1,0 +1,3342 @@
+{
+    "Language": "Japanese",
+    "Subtitles": [
+        {
+            "Menu voices: default": [
+                {
+                    "VoiceID": 0,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選んでください"
+                },
+                {
+                    "VoiceID": 1,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ファイルを選んでください"
+                },
+                {
+                    "VoiceID": 2,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "シナリオを進めるアドベンチャーモードです"
+                },
+                {
+                    "VoiceID": 3,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つのステージを遊ぶトライアルモードです"
+                },
+                {
+                    "VoiceID": 4,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "キャラクターを選んでください"
+                },
+                {
+                    "VoiceID": 5,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ソニックの操作方法です"
+                },
+                {
+                    "VoiceID": 6,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "テイルスの操作方法です"
+                },
+                {
+                    "VoiceID": 7,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ナックルズの操作方法です"
+                },
+                {
+                    "VoiceID": 8,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "エミーの操作方法です"
+                },
+                {
+                    "VoiceID": 9,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Ｅ－１０２ガンマの操作方法です"
+                },
+                {
+                    "VoiceID": 10,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ビッグの操作方法です"
+                },
+                {
+                    "VoiceID": 11,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明です"
+                },
+                {
+                    "VoiceID": 12,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ステージを選んでください"
+                },
+                {
+                    "VoiceID": 13,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ゲームを選んでください"
+                },
+                {
+                    "VoiceID": 14,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "オプション画面です\n設定項目を変更できます"
+                },
+                {
+                    "VoiceID": 15,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストです\nＢＧＭを聴くことができます"
+                },
+                {
+                    "VoiceID": 16,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードが準備できていません"
+                },
+                {
+                    "VoiceID": 17,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの空き容量がありません"
+                },
+                {
+                    "VoiceID": 18,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選んで"
+                }
+            ]
+        },
+        {
+            "Menu voices: Tikal (alt)": [
+                {
+                    "VoiceID": 19,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ファイルを選んでね"
+                },
+                {
+                    "VoiceID": 20,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "シナリオを進めるアドベンチャーモードよ"
+                },
+                {
+                    "VoiceID": 21,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つのステージを遊ぶトライアルモードよ"
+                },
+                {
+                    "VoiceID": 22,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "キャラクターを選んで"
+                },
+                {
+                    "VoiceID": 23,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ソニックの操作方法よ"
+                },
+                {
+                    "VoiceID": 24,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "テイルスくんの操作方法よ"
+                },
+                {
+                    "VoiceID": 25,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ナックルズの操作方法よ"
+                },
+                {
+                    "VoiceID": 26,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "エミーちゃんの操作方法よ"
+                },
+                {
+                    "VoiceID": 27,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Ｅ－１０２ガンマの操作方法よ"
+                },
+                {
+                    "VoiceID": 28,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ビッグの操作方法よ"
+                },
+                {
+                    "VoiceID": 29,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明よ\nしっかり覚えてね"
+                },
+                {
+                    "VoiceID": 30,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのステージを遊ぶ？"
+                },
+                {
+                    "VoiceID": 31,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのミニゲームを遊ぶ？"
+                },
+                {
+                    "VoiceID": 32,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "オプション画面よ\n色んな設定を変更できるわ"
+                },
+                {
+                    "VoiceID": 33,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストよ\nゲーム中の曲を聴くことができるの"
+                },
+                {
+                    "VoiceID": 34,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードがないみたいね"
+                },
+                {
+                    "VoiceID": 35,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの容量が足りないわよ"
+                }
+            ]
+        },
+        {
+            "Menu voices: Sonic": [
+                {
+                    "VoiceID": 36,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Select your memory card"
+                },
+                {
+                    "VoiceID": 37,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Select a file"
+                },
+                {
+                    "VoiceID": 38,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Adventure mode\nストリーを進めるモードだ"
+                },
+                {
+                    "VoiceID": 39,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Trial mode\n一つのステージだけは遊べるんだ"
+                },
+                {
+                    "VoiceID": 40,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Select your character"
+                },
+                {
+                    "VoiceID": 41,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "How to play with me, Sonic"
+                },
+                {
+                    "VoiceID": 42,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "How to play with Tails"
+                },
+                {
+                    "VoiceID": 43,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "How to play with Knuckles"
+                },
+                {
+                    "VoiceID": 44,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "How to play with Amy"
+                },
+                {
+                    "VoiceID": 45,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "How to play with E-102 Gamma"
+                },
+                {
+                    "VoiceID": 46,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "How to play with Big"
+                },
+                {
+                    "VoiceID": 47,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "How to clear the game\nこれを知らなきゃ、ゲームがクリアできないぜ"
+                },
+                {
+                    "VoiceID": 48,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Select a stage"
+                },
+                {
+                    "VoiceID": 49,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Select a game"
+                },
+                {
+                    "VoiceID": 50,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Options\nエディットしたい項目を選んでくれ"
+                },
+                {
+                    "VoiceID": 51,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Sound Test\nクールサウンズを聴くことができるんだ"
+                },
+                {
+                    "VoiceID": 52,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーダード、ちゃんと刺さってるかい？"
+                },
+                {
+                    "VoiceID": 53,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "ヘイ、メモリーカードの容量が足りないぜ"
+                }
+            ]
+        },
+        {
+            "Menu voices: Tails": [
+                {
+                    "VoiceID": 54,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選んで"
+                },
+                {
+                    "VoiceID": 55,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "次はファイル選択だよ"
+                },
+                {
+                    "VoiceID": 56,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "シナリオを進めるアドベンチャーモードだよ"
+                },
+                {
+                    "VoiceID": 57,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つのステージが遊べるトライアルモードだよ"
+                },
+                {
+                    "VoiceID": 58,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "誰で遊ぶ？"
+                },
+                {
+                    "VoiceID": 59,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ソニックの操作方法だよ"
+                },
+                {
+                    "VoiceID": 60,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "僕の操作方法だよ"
+                },
+                {
+                    "VoiceID": 61,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ナックルズの操作方法だよ"
+                },
+                {
+                    "VoiceID": 62,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "エミーの操作方法だよ"
+                },
+                {
+                    "VoiceID": 63,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "E-102ガンマの操作方法だよ"
+                },
+                {
+                    "VoiceID": 64,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ビッグの操作方法だよ"
+                },
+                {
+                    "VoiceID": 65,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明だよ\nちゃんと覚えてね"
+                },
+                {
+                    "VoiceID": 66,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "どのステージにする？"
+                },
+                {
+                    "VoiceID": 67,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "どのミニゲームにする？"
+                },
+                {
+                    "VoiceID": 68,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "オプションだよ\n色んな設定を変更できるんだ"
+                },
+                {
+                    "VoiceID": 69,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストだよ\nゲーム中の曲が聴けるんだ"
+                },
+                {
+                    "VoiceID": 70,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーカード、ちゃんと刺してる？"
+                },
+                {
+                    "VoiceID": 71,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの空き容量がないみたいだよ"
+                }
+            ]
+        },
+        {
+            "Menu voices: Knuckles": [
+                {
+                    "VoiceID": 72,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選ぶんだ"
+                },
+                {
+                    "VoiceID": 73,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ファイルを選んでくれ"
+                },
+                {
+                    "VoiceID": 74,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "物語を進めるアドベンチャーモードだ"
+                },
+                {
+                    "VoiceID": 75,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つのステージだけを遊ぶモードだ"
+                },
+                {
+                    "VoiceID": 76,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "プレイするキャラクターを選ぶんだ"
+                },
+                {
+                    "VoiceID": 77,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ソニックの操作方法だ"
+                },
+                {
+                    "VoiceID": 78,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "テイルスの操作方法だ"
+                },
+                {
+                    "VoiceID": 79,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "俺の操作方法だ"
+                },
+                {
+                    "VoiceID": 80,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "エミーの操作方法だ"
+                },
+                {
+                    "VoiceID": 81,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "E-102ガンマの操作方法だ"
+                },
+                {
+                    "VoiceID": 82,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ビッグの操作方法だ"
+                },
+                {
+                    "VoiceID": 83,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明だ\nよく読んで、マスターするんだな"
+                },
+                {
+                    "VoiceID": 84,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "どのステージにするんだ？"
+                },
+                {
+                    "VoiceID": 85,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "どのゲームにするんだ？"
+                },
+                {
+                    "VoiceID": 86,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "オプション画面\nここで色んな設定ができるんだ"
+                },
+                {
+                    "VoiceID": 87,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストだ\nＢＧＭを聴くことができるぜ"
+                },
+                {
+                    "VoiceID": 88,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの準備ができていないらしいな"
+                },
+                {
+                    "VoiceID": 89,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの空き容量がないみたいだ"
+                }
+            ]
+        },
+        {
+            "Menu voices: Amy": [
+                {
+                    "VoiceID": 90,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選んで"
+                },
+                {
+                    "VoiceID": 91,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "ファイルを選んでね"
+                },
+                {
+                    "VoiceID": 92,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "物語を楽しむアドベンチャーモードよ"
+                },
+                {
+                    "VoiceID": 93,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つとことは遊ぶトライアルモードよ"
+                },
+                {
+                    "VoiceID": 94,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "キャラクターを選んで"
+                },
+                {
+                    "VoiceID": 95,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "愛しいのソニックの操作方法よ"
+                },
+                {
+                    "VoiceID": 96,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "テイルスの操作方法よ"
+                },
+                {
+                    "VoiceID": 97,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ナックルズの操作方法よ"
+                },
+                {
+                    "VoiceID": 98,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "あたしの操作方法よ"
+                },
+                {
+                    "VoiceID": 99,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ロボットさんの操作方法よ"
+                },
+                {
+                    "VoiceID": 100,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ビッグの操作方法よ"
+                },
+                {
+                    "VoiceID": 101,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明\nちゃんと覚えるのよ"
+                },
+                {
+                    "VoiceID": 102,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのステージを遊ぶの？"
+                },
+                {
+                    "VoiceID": 103,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのミニゲームを遊ぶの？"
+                },
+                {
+                    "VoiceID": 104,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "オプション画面\nここで色んな設定ができちゃうの"
+                },
+                {
+                    "VoiceID": 105,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "サウンドテスト\nゲーム中の曲が聴けちゃうのよ"
+                },
+                {
+                    "VoiceID": 106,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカード、ちゃんと刺さってる？"
+                },
+                {
+                    "VoiceID": 107,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの容量が足りないですって"
+                }
+            ]
+        },
+        {
+            "Menu voices: Gamma": [
+                {
+                    "VoiceID": 108,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "メモリーカード選択"
+                },
+                {
+                    "VoiceID": 109,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ファイルヲ選択セヨ"
+                },
+                {
+                    "VoiceID": 110,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "アドベンチャーモード"
+                },
+                {
+                    "VoiceID": 111,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "トライアルモード"
+                },
+                {
+                    "VoiceID": 112,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "プレイキャラクター選択"
+                },
+                {
+                    "VoiceID": 113,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "操作説明：ソニック"
+                },
+                {
+                    "VoiceID": 114,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "操作説明：テイルス"
+                },
+                {
+                    "VoiceID": 115,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "操作説明：ナックルズ"
+                },
+                {
+                    "VoiceID": 116,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "操作説明：エミー"
+                },
+                {
+                    "VoiceID": 117,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "操作説明：Ｅ－１０２ガンマ"
+                },
+                {
+                    "VoiceID": 118,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "操作説明：ビッグ"
+                },
+                {
+                    "VoiceID": 119,
+                    "Duration": 360,
+                    "Mode": "Menu",
+                    "Text": "アクションステージノ ルール説明\n直チニ インプットセヨ"
+                },
+                {
+                    "VoiceID": 120,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "プレイステージヲ選択セヨ"
+                },
+                {
+                    "VoiceID": 121,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "ミニゲームヲ選択セヨ"
+                },
+                {
+                    "VoiceID": 122,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "オプション画面\n設定項目ヲ選択セヨ"
+                },
+                {
+                    "VoiceID": 123,
+                    "Duration": 330,
+                    "Mode": "Menu",
+                    "Text": "サウンドテスト\nＢＧＭ選択可能"
+                },
+                {
+                    "VoiceID": 124,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "メモリーカード存在不明"
+                },
+                {
+                    "VoiceID": 125,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "警告：メモリーカード容量不足"
+                }
+            ]
+        },
+        {
+            "Menu voices: Big": [
+                {
+                    "VoiceID": 126,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選ぶんだよ"
+                },
+                {
+                    "VoiceID": 127,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "ファイルはどれにする？"
+                },
+                {
+                    "VoiceID": 128,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "物語を進めるモードだよ"
+                },
+                {
+                    "VoiceID": 129,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "一つのステージだけを遊べるんだよ"
+                },
+                {
+                    "VoiceID": 130,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "誰で遊ぶ？"
+                },
+                {
+                    "VoiceID": 131,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "ハリネズミくんの操作方法だよ"
+                },
+                {
+                    "VoiceID": 132,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "キツネくんの操作方法だよ"
+                },
+                {
+                    "VoiceID": 133,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "モグラくんの操作方法だよ"
+                },
+                {
+                    "VoiceID": 134,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "女の子の操作方法だよ"
+                },
+                {
+                    "VoiceID": 135,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "ロボットの操作方法だよ"
+                },
+                {
+                    "VoiceID": 136,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "僕の操作方法だよ"
+                },
+                {
+                    "VoiceID": 137,
+                    "Duration": 330,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルールだよ\nちゃんと覚えてね"
+                },
+                {
+                    "VoiceID": 138,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どこを遊ぶ？"
+                },
+                {
+                    "VoiceID": 139,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どれを遊ぶ？"
+                },
+                {
+                    "VoiceID": 140,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "オプションだよ\n何か変えられるらしいぞ"
+                },
+                {
+                    "VoiceID": 141,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストだよ\n音楽を聴けるんだ"
+                },
+                {
+                    "VoiceID": 142,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "メモリーカード、ちゃんと刺さってる？"
+                },
+                {
+                    "VoiceID": 143,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの容量が足りないよ"
+                }
+            ]
+        },
+        {
+            "Menu voices: Eggman": [
+                {
+                    "VoiceID": 144,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードを選ぶんじゃ"
+                },
+                {
+                    "VoiceID": 145,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "よし、次はファイルを選ぶんじゃ"
+                },
+                {
+                    "VoiceID": 146,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "ワシとの戦いを描いたアドベンチャーモードじゃ"
+                },
+                {
+                    "VoiceID": 147,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "トライアルモードで練習せい"
+                },
+                {
+                    "VoiceID": 148,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どいつで遊ぶんじゃ？"
+                },
+                {
+                    "VoiceID": 149,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "憎っくきソニックの操作方法じゃ"
+                },
+                {
+                    "VoiceID": 150,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "子ギツネテイルスの操作方法じゃ"
+                },
+                {
+                    "VoiceID": 151,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "アホ ナックルズの操作方法じゃ"
+                },
+                {
+                    "VoiceID": 152,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "小娘エミーの操作方法じゃ"
+                },
+                {
+                    "VoiceID": 153,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "我がしもべ、Ｅ－１０２ガンマの操作方法じゃ"
+                },
+                {
+                    "VoiceID": 154,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "ビッグとか言うデブ猫の操作方法じゃ"
+                },
+                {
+                    "VoiceID": 155,
+                    "Duration": 480,
+                    "Mode": "Menu",
+                    "Text": "アクションステージのルール説明じゃ\nこんなもの見とらんで、さっさとゲーム始めるか"
+                },
+                {
+                    "VoiceID": 156,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのステージをやるんじゃ？"
+                },
+                {
+                    "VoiceID": 157,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "どのミニゲームをやるんじゃ？"
+                },
+                {
+                    "VoiceID": 158,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "オプション画面じゃ\nさ、好きなように設定を変えて見るがよい"
+                },
+                {
+                    "VoiceID": 159,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "サウンドテストじゃ\nここで色んな曲が聴けるぜ"
+                },
+                {
+                    "VoiceID": 160,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードが刺さっとるか？"
+                },
+				{
+                    "VoiceID": 161,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "メモリーカードの容量がただ利用じゃの？",
+					"Comment": "The ending is most likely incorrect"
+                }
+            ]
+        },
+        {
+            "Character select lines": [
+                {
+                    "VoiceID": 1837,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Let's get them!"
+                },
+                {
+                    "VoiceID": 1800,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "ソニック！今行くよ！"
+                },
+                {
+                    "VoiceID": 1787,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "よし、行くぜ！"
+                },
+                {
+                    "VoiceID": 1730,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "あたしの出番ね！"
+                },
+                {
+                    "VoiceID": 1767,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "準備完了"
+                },
+                {
+                    "VoiceID": 1744,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "カエルくん、待っててね"
+                }
+            ]
+        },
+        {
+            "Common idle lines": [
+                {
+                    "VoiceID": 390,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "そろそろ行くか"
+                },
+                {
+                    "VoiceID": 392,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "急がないと"
+                },
+                {
+                    "VoiceID": 393,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "はぁぁ、疲れた…"
+                },
+                {
+                    "VoiceID": 394,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "戦闘準備完了"
+                },
+                {
+                    "VoiceID": 395,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "なんかお腹空いたなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (station area)": [
+                {
+                    "VoiceID": 288,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "この駅が街の中心地か"
+                },
+                {
+                    "VoiceID": 289,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "鉄道もかっこいいな"
+                },
+                {
+                    "VoiceID": 290,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここがステーションスクエアか"
+                },
+                {
+                    "VoiceID": 291,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "海が見える街っていいわよね！"
+                },
+                {
+                    "VoiceID": 292,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ここにもお魚いるかなぁ…"
+                },
+                {
+                    "VoiceID": 293,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ステーションスクエアヲ探索中"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (city hall area)": [
+                {
+                    "VoiceID": 274,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この辺もずいぶん変わったなぁ…"
+                },
+                {
+                    "VoiceID": 275,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "お腹空いたなぁ…"
+                },
+                {
+                    "VoiceID": 276,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "都会は苦手だ"
+                },
+                {
+                    "VoiceID": 277,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "お買い物しちゃうかな…"
+                },
+                {
+                    "VoiceID": 278,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "みんな、忙しそうだな"
+                },
+                {
+                    "VoiceID": 279,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "人間ノ生命反応ヲ確認"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (sewers)": [
+                {
+                    "VoiceID": 286,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "これじゃ、まるでドブネズミだぜ"
+                },
+                {
+                    "VoiceID": 287,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "暗いとこだなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (Twinkle Park entrance)": [
+                {
+                    "VoiceID": 300,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "苦手なんだよなぁ、こういうとこ…"
+                },
+                {
+                    "VoiceID": 301,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "遊園地に入らないのか"
+                },
+                {
+                    "VoiceID": 302,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "何なんだ、ここは？"
+                },
+                {
+                    "VoiceID": 303,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "なんだかワクワクしちゃう…"
+                },
+                {
+                    "VoiceID": 304,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "トゥインクルパーク？"
+                },
+                {
+                    "VoiceID": 305,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "カートコースヲ発見"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (hotel)": [
+                {
+                    "VoiceID": 294,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ヘイヘイ、休んでる場合じゃないぜ！"
+                },
+                {
+                    "VoiceID": 295,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ホテルか… ちょっと羨ましいな…"
+                },
+                {
+                    "VoiceID": 296,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "フン、リゾートホテルか"
+                },
+                {
+                    "VoiceID": 297,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "こんなホテルに泊まってみたいなぁ…"
+                },
+                {
+                    "VoiceID": 298,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "大きなお家だなぁ…"
+                },
+                {
+                    "VoiceID": 299,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "戦闘モード解除"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (casino/station)": [
+                {
+                    "VoiceID": 280,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "お、お、こんなとこで遊んでる場合じゃないぜ"
+                },
+                {
+                    "VoiceID": 281,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "大きな街だな"
+                },
+                {
+                    "VoiceID": 282,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "賑やかな街だぜ"
+                },
+                {
+                    "VoiceID": 283,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この街も変わらないなぁ…"
+                },
+                {
+                    "VoiceID": 284,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "カエルくん、どこだろう？"
+                },
+                {
+                    "VoiceID": 285,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ミスティックルインヘ行キノ列車ヲ確認"
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (station area)": [
+                {
+                    "VoiceID": 306,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "閑散としたところだなぁ…"
+                },
+                {
+                    "VoiceID": 307,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "駅が出来てこの辺も変わっちゃったなぁ…"
+                },
+                {
+                    "VoiceID": 308,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "早くマスターエメラルドを…"
+                },
+                {
+                    "VoiceID": 309,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "あたしってこういうとこ苦手なのよね"
+                },
+                {
+                    "VoiceID": 310,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "カエルくん、どこかなぁ？"
+                },
+                {
+                    "VoiceID": 311,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ミスティックルインヲ探索中"
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (Angel Island)": [
+                {
+                    "VoiceID": 312,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "エンジェルアイランドか"
+                },
+                {
+                    "VoiceID": 313,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "早くこの島を空に戻さないと！"
+                },
+                {
+                    "VoiceID": 314,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "エンジェルアイランドニ上陸"
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (jungle)": [
+                {
+                    "VoiceID": 315,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "やっぱこうでないとな!"
+                },
+                {
+                    "VoiceID": 316,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "僕はどっちから来たんだっけ？"
+                },
+                {
+                    "VoiceID": 317,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "何か… 懐かしい気持ちになる…"
+                },
+                {
+                    "VoiceID": 318,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "すごいところね！"
+                },
+                {
+                    "VoiceID": 319,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "お家へ帰ろうかなぁ…"
+                },
+                {
+                    "VoiceID": 320,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "気温上昇\n強制冷却モード１：スタート"
+                }
+            ]
+        },
+        {
+            "Idle: Final Egg entrance": [
+                {
+                    "VoiceID": 321,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここがエッグマンの基地か"
+                },
+                {
+                    "VoiceID": 322,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "これがエッグマンの要塞だね"
+                },
+                {
+                    "VoiceID": 323,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここが… 奴の？"
+                },
+                {
+                    "VoiceID": 324,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック… あたし頑張る！"
+                },
+                {
+                    "VoiceID": 325,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "私ノ生マレタ場所"
+                }
+            ]
+        },
+        {
+            "Idle: Past (normal)": [
+                {
+                    "VoiceID": 326,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "何だここ？"
+                },
+                {
+                    "VoiceID": 327,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここは… 一体…"
+                },
+                {
+                    "VoiceID": 328,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "やだ、ここどこ？"
+                },
+                {
+                    "VoiceID": 329,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "はぁて、ここはどこ？"
+                },
+                {
+                    "VoiceID": 330,
+                    "Duration": 330,
+                    "Mode": "Gameplay",
+                    "Text": "適合データナシ\n現在位置確認不能"
+                }
+            ]
+        },
+        {
+            "Idle: Past (fire)": [
+                {
+                    "VoiceID": 331,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "酷い！"
+                },
+                {
+                    "VoiceID": 332,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "何故だ？"
+                }
+            ]
+        },
+        {
+            "Idle: Egg Carrier (outside)": [
+                {
+                    "VoiceID": 333,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ふう、呆れるね、まったく…"
+                },
+                {
+                    "VoiceID": 334,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "すごいな、この船！"
+                },
+                {
+                    "VoiceID": 335,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "こんなものがよく空を飛んでいられるぜ"
+                },
+                {
+                    "VoiceID": 336,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "どうしてこんなものを作るのかしら？"
+                },
+                {
+                    "VoiceID": 337,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "任務継続中"
+                },
+                {
+                    "VoiceID": 338,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "何でお船が飛ぶのかなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Egg Carrier (inside)": [
+                {
+                    "VoiceID": 339,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "船の仲間で趣味丸出したな"
+                },
+                {
+                    "VoiceID": 340,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "僕もいつかこんな船を作ろう！"
+                },
+                {
+                    "VoiceID": 341,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "どこが出口なんだ？"
+                },
+                {
+                    "VoiceID": 342,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "見つかんないように静かに歩きましょう"
+                },
+                {
+                    "VoiceID": 343,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "任務継続中"
+                },
+                {
+                    "VoiceID": 344,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ンンと… 出口出口っと…"
+                }
+            ]
+        },
+        {
+            "Idle: Emerald Coast": [
+                {
+                    "VoiceID": 227,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "このまま海岸線を進めばいいんだなぁ"
+                },
+                {
+                    "VoiceID": 228,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "カエルノ生命反応ヲ確認"
+                },
+                {
+                    "VoiceID": 229,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "風が気持ちいいぜ！"
+                },
+                {
+                    "VoiceID": 230,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "大きな池だなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Windy Valley": [
+                {
+                    "VoiceID": 231,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "遠くで風の音が聞こえる"
+                },
+                {
+                    "VoiceID": 232,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０３ノ存在ヲ確認"
+                },
+                {
+                    "VoiceID": 233,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "早く脱出しないと！"
+                },
+                {
+                    "VoiceID": 234,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ずいぶん高いとこまで来ちまったなぁ…"
+                },
+                {
+                    "VoiceID": 235,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック、どこへ行っちゃったんだろう？"
+                }
+            ]
+        },
+        {
+            "Idle: Casinopolis": [
+                {
+                    "VoiceID": 236,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ハァ、ピンボールか"
+                },
+                {
+                    "VoiceID": 237,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "派手なところだ"
+                },
+                {
+                    "VoiceID": 238,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "酷い匂いだ… ゴミ捨て場か"
+                }
+            ]
+        },
+        {
+            "Idle: Icecap": [
+                {
+                    "VoiceID": 239,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "陽気に冷えるぜ"
+                },
+                {
+                    "VoiceID": 240,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "まるで氷の世界だなぁ…"
+                },
+                {
+                    "VoiceID": 241,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "氷が美味しそうだなぁ…"
+                },
+                {
+                    "VoiceID": 242,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "最高の技をキメるぜ！"
+                },
+                {
+                    "VoiceID": 243,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "そろそろ滑ろうかなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Twinkle Park": [
+                {
+                    "VoiceID": 244,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ここがカート場の入り口か"
+                },
+                {
+                    "VoiceID": 245,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "このエリアには誰もいないみたいだなぁ…"
+                },
+                {
+                    "VoiceID": 246,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "何が釣れるか楽しみだなぁ…"
+                },
+                {
+                    "VoiceID": 247,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック、どこへ行ったのかなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Speed Highway": [
+                {
+                    "VoiceID": 248,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "さぁて… 一気に行くぜ！"
+                },
+                {
+                    "VoiceID": 249,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "エッグマンはどこだ？"
+                },
+                {
+                    "VoiceID": 250,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ヘイヘイ、遊んでる場合か"
+                },
+                {
+                    "VoiceID": 251,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "車が止まって見えるぜ！"
+                },
+                {
+                    "VoiceID": 252,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "この街のどこかにエメラルドが…"
+                }
+            ]
+        },
+        {
+            "Idle: Red Mountain": [
+                {
+                    "VoiceID": 253,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "エッグキャリアはどこへ行った？"
+                },
+                {
+                    "VoiceID": 254,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "へえ… 溶岩に落ちたらイチコロだなぁ…"
+                },
+                {
+                    "VoiceID": 255,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０４ノ存在ヲ確認"
+                },
+                {
+                    "VoiceID": 256,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この崖から落ちたら終わりだな"
+                }
+            ]
+        },
+        {
+            "Idle: Sky Deck": [
+                {
+                    "VoiceID": 257,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ふう、落ちたらイチコロだぜ"
+                },
+                {
+                    "VoiceID": 258,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "高いなぁ… 足がすくんじゃうよ!"
+                },
+                {
+                    "VoiceID": 259,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Shoot! この風はうざったいぜ！"
+                },
+                {
+                    "VoiceID": 260,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "おいおい、どうなってんだ、この船？"
+                },
+                {
+                    "VoiceID": 261,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "さぁて… お宝はどこだ？"
+                }
+            ]
+        },
+        {
+            "Idle: Lost World": [
+                {
+                    "VoiceID": 262,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ずいぶん静かなところだなぁ…"
+                },
+                {
+                    "VoiceID": 263,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここは… 一体…？"
+                },
+                {
+                    "VoiceID": 264,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この部屋にエメラルドがあるはずなんだな"
+                }
+            ]
+        },
+        {
+            "Idle: Final Egg": [
+                {
+                    "VoiceID": 265,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "え、オイルの嫌な匂いだ"
+                },
+                {
+                    "VoiceID": 266,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "小鳥さん、元気出して行こう"
+                },
+                {
+                    "VoiceID": 267,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "どこまで続いてるんだ？"
+                },
+                {
+                    "VoiceID": 268,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "待ってろよ、エッグマン！"
+                },
+                {
+                    "VoiceID": 269,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "青イ ハリネズミハ 敵"
+                }
+            ]
+        },
+        {
+            "Idle: Hot Shelter": [
+                {
+                    "VoiceID": 270,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "エッグマンって本当最低よね！"
+                },
+                {
+                    "VoiceID": 271,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "カエルくん、大丈夫かなぁ…"
+                },
+                {
+                    "VoiceID": 272,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "もう、どっちへ行けばいいの？"
+                },
+                {
+                    "VoiceID": 273,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０５ノ存在ヲ確認"
+                }
+            ]
+        },
+        {
+            "Idle: Sonic's bosses": [
+                {
+                    "VoiceID": 368,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "何だこいつ？ 不死身か？"
+                },
+                {
+                    "VoiceID": 369,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "何をやっても無駄だぜ！"
+                },
+                {
+                    "VoiceID": 370,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ナックルズ？ どうしたんだ？"
+                },
+                {
+                    "VoiceID": 371,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ヘイ！今度は逃さないぜ！"
+                },
+                {
+                    "VoiceID": 372,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Not so bad! 結構やるね！"
+                },
+                {
+                    "VoiceID": 373,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "弱点はどこだ？"
+                },
+                {
+                    "VoiceID": 374,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "お遊びはここまでだ、エッグマン！"
+                }
+            ]
+        },
+        {
+            "Idle: Tails' bosses": [
+                {
+                    "VoiceID": 375,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "負けるもんか！"
+                },
+                {
+                    "VoiceID": 376,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ちょ… ちょっと待ってよ！"
+                },
+                {
+                    "VoiceID": 377,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "水の化け物め！"
+                },
+                {
+                    "VoiceID": 378,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "このロボット… 何が違う…"
+                },
+                {
+                    "VoiceID": 379,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "僕なって、一人でやれるんだ！"
+                }
+            ]
+        },
+        {
+            "Idle: Knuckles' bosses": [
+                {
+                    "VoiceID": 380,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "たっぷりでは返すぜ！"
+                },
+                {
+                    "VoiceID": 381,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "エメラルドを渡せ！"
+                },
+                {
+                    "VoiceID": 382,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "往生際の悪い野郎だ"
+                },
+                {
+                    "VoiceID": 383,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "今度こそ… 止めを刺してやる！"
+                }
+            ]
+        },
+        {
+            "Idle: Amy's boss (Zero)": [
+                {
+                    "VoiceID": 384,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "絶対に許さないだから！"
+                }
+            ]
+        },
+        {
+            "Idle: Gamma's bosses": [
+                {
+                    "VoiceID": 385,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ターゲット確認"
+                },
+                {
+                    "VoiceID": 386,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "青イ ハリネズミハ 敵"
+                },
+                {
+                    "VoiceID": 387,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ベータ！"
+                }
+            ]
+        },
+        {
+            "Idle: Super Sonic": [
+                {
+                    "VoiceID": 388,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "エメラルドの本当の力を見せてやる！"
+                },
+                {
+                    "VoiceID": 389,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "あれが奴のコアか"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Sonic)": [
+                {
+                    "VoiceID": 348,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "まったく、なんて平和な場所なんだ"
+                },
+                {
+                    "VoiceID": 349,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "よ！ いい子にしてたかい？"
+                },
+                {
+                    "VoiceID": 350,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Hey guys! 喧嘩しちゃダメだぜ！"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Tails)": [
+                {
+                    "VoiceID": 351,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ここに来ると、ホッとするんだよね"
+                },
+                {
+                    "VoiceID": 352,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "みんな、元気にしてた？"
+                },
+                {
+                    "VoiceID": 353,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "僕もみんなのこと大好き！"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Knuckles)": [
+                {
+                    "VoiceID": 354,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ここにはエメラルドはないようだなぁ…"
+                },
+                {
+                    "VoiceID": 355,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "こいつら… どこかで会ったような…"
+                },
+                {
+                    "VoiceID": 356,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "ここにいると、何故か故郷を思い出す…"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Amy)": [
+                {
+                    "VoiceID": 357,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "はぁぁ、ここって気持ちいいな…"
+                },
+                {
+                    "VoiceID": 358,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "はぁぁ…はぁぁ… 眠くなってきちゃった…"
+                },
+                {
+                    "VoiceID": 359,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "みんな、喧嘩してダメよ！"
+                },
+                {
+                    "VoiceID": 360,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ソニックがそばに行ってくれたのなぁ…"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Gamma)": [
+                {
+                    "VoiceID": 361,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ココハ？"
+                },
+                {
+                    "VoiceID": 362,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "戦闘モード解除"
+                },
+                {
+                    "VoiceID": 363,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "生命反応アリ"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Big)": [
+                {
+                    "VoiceID": 364,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "なんかいい感じ"
+                },
+                {
+                    "VoiceID": 365,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "みんな元気？"
+                },
+                {
+                    "VoiceID": 366,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "なんかお腹減ってきちゃったなぁ…"
+                },
+                {
+                    "VoiceID": 367,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ンン、釣り会いしたいの！"
+                }
+            ]
+        },
+        {
+            "Idle: Sand Hill": [
+                {
+                    "VoiceID": 345,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Shoot! 砂が目に入っちまった！"
+                },
+                {
+                    "VoiceID": 346,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この砂、柔らかくて滑りやすいや！"
+                }
+            ]
+        },
+        {
+            "Idle: Hedgehog Hammer": [
+                {
+                    "VoiceID": 347,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ええ、とこどこ？"
+                }
+            ]
+        },
+        {
+            "Sky Chase 1 (before Egg Cannon fires)": [
+                {
+                    "VoiceID": 491,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やった！"
+                },
+                {
+                    "VoiceID": 716,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やった！"
+                },
+                {
+                    "VoiceID": 492,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "軽いもんだぜ！"
+                },
+                {
+                    "VoiceID": 717,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "軽いもんだぜ！"
+                }
+            ]
+        },
+        {
+            "Sky Chase 2 (before transformation)": [
+                {
+                    "VoiceID": 765,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "よし、第１次防衛ライン通過！"
+                },
+                {
+                    "VoiceID": 766,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "まだ次が来るぞ！"
+                },
+                {
+                    "VoiceID": 767,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "分かってるって！"
+                }
+            ]
+        },
+        {
+            "Sky Chase 2 (transformation alt lines)": [
+                {
+                    "VoiceID": 530,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "よし、第１次防衛ライン通過！"
+                },
+                {
+                    "VoiceID": 531,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "まだ次が来るぞ！"
+                },
+                {
+                    "VoiceID": 532,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "分かってるって！"
+                },
+                {
+                    "VoiceID": 533,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "システムモード、チェンジ！"
+                },
+                {
+                    "VoiceID": 534,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "わあああああう！"
+                },
+                {
+                    "VoiceID": 535,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "よし、行くよ！"
+                }
+            ]
+        },
+        {
+            "Tails' stages - Sonic's voices": [
+                {
+                    "VoiceID": 205,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Come on, Tails!"
+                },
+                {
+                    "VoiceID": 206,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ヘイヘイヘイ！"
+                },
+                {
+                    "VoiceID": 207,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "いいぞ、テイルス！ その調子だ！"
+                },
+                {
+                    "VoiceID": 208,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "お、おい、テイルス！"
+                },
+                {
+                    "VoiceID": 209,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "You made it!"
+                },
+                {
+                    "VoiceID": 210,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Come on!"
+                },
+                {
+                    "VoiceID": 211,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "テイルス、先へ行くぜ！"
+                },
+                {
+                    "VoiceID": 212,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "テイルス、急げ！"
+                },
+                {
+                    "VoiceID": 213,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Hooray!"
+                },
+                {
+                    "VoiceID": 214,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "I got it!"
+                },
+                {
+                    "VoiceID": 215,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "テイルス、リングはないぞ！\n気をつけろ！"
+                }
+            ]
+        },
+        {
+            "Speed Highway (Tails) - Eggman's voices": [
+                {
+                    "VoiceID": 216,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "このワシについて来られるかな？"
+                },
+                {
+                    "VoiceID": 217,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "つかまえたぞ、テイルス！"
+                },
+                {
+                    "VoiceID": 218,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "なんと？ 追いつけおったわ？"
+                },
+                {
+                    "VoiceID": 219,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "くそ、この子ギツネめ！"
+                },
+                {
+                    "VoiceID": 220,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "テ、テイルスちゃん、待って！"
+                },
+                {
+                    "VoiceID": 222,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "さらばじゃ、テイルス！"
+                },
+                {
+                    "VoiceID": 223,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "この街もろども破壊してくれるわ！"
+                },
+                {
+                    "VoiceID": 224,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ワシに勝とうなんて１００年早いわ！"
+                },
+                {
+                    "VoiceID": 225,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ワシの勝ちじゃ！ ぬははははは！"
+                },
+                {
+                    "VoiceID": 226,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "さ、降参するのじゃ、テイルス！"
+                }
+            ]
+        },
+        {
+            "Final Egg": [
+                {
+                    "VoiceID": 1588,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "緊急実態発生！ 緊急実態発生！\n直ちに侵入者を排除せよ！"
+                },
+                {
+                    "VoiceID": 1589,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "緊急実態発生！ 緊急実態発生！\n直ちに侵入者を排除せよ！"
+                },
+                {
+                    "VoiceID": 1590,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "ファイナルエッグ：レベル２隔壁オープン！"
+                },
+                {
+                    "VoiceID": 1591,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "ファイナルエッグ：レベル２隔壁オープン！"
+                },
+                {
+                    "VoiceID": 1592,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "ターゲットを破壊すれば、\nタイムが加算されるぞい！"
+                },
+                {
+                    "VoiceID": 1593,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ソニックターゲットを破壊するのじゃ！"
+                }
+            ]
+        },
+        {
+            "Bosses: vs character": [
+                {
+                    "VoiceID": 166,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やるな、ソニック！"
+                },
+                {
+                    "VoiceID": 167,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "やるな、ナックルズ！"
+                },
+                {
+                    "VoiceID": 168,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やるな、テイルス！"
+                },
+                {
+                    "VoiceID": 169,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "命令ハ絶対"
+                },
+                {
+                    "VoiceID": 170,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "こいつ… 強い…"
+                }
+            ]
+        },
+        {
+            "Bosses: Eggman": [
+                {
+                    "VoiceID": 171,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "パワー全開じゃ！"
+                },
+                {
+                    "VoiceID": 174,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "おりゃ！"
+                },
+                {
+                    "VoiceID": 176,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "おのれ、ちょこまかと！"
+                },
+                {
+                    "VoiceID": 177,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "な、何と？"
+                },
+                {
+                    "VoiceID": 178,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "おらおらおらおらおらおら！"
+                },
+                {
+                    "VoiceID": 1902,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "ふはははははは！\nソニック、ここまで来てみろ！"
+                },
+                {
+                    "VoiceID": 1903,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック、この攻撃を受けてみろ！"
+                }
+            ]
+        },
+        {
+            "Announcers: Station Square": [
+                {
+                    "VoiceID": 1567,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "ご利用のお客さまは\nご乗車になってお待ちください！"
+                },
+                {
+                    "VoiceID": 1568,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "ご利用のお客さまは\nご乗車になってお待ちください！"
+                },
+                {
+                    "VoiceID": 1569,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "ミスティックルインへ行き列車、\nまもなく発車いたします！"
+                },
+                {
+                    "VoiceID": 1570,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "ミスティックルインへ行き列車、\nまもなく発車いたします！"
+                },
+                {
+                    "VoiceID": 1571,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "まもなく列車が到着いたします！\n下がってお待ちください！"
+                },
+                {
+                    "VoiceID": 1572,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "まもなく列車が到着いたします！\n下がってお待ちください！"
+                },
+                {
+                    "VoiceID": 1573,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ただいまの時間、\n列車は運行いたしておりません！"
+                },
+                {
+                    "VoiceID": 1574,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "ただいまの時間、\n列車は運行いたしておりません！"
+                }
+            ]
+        },
+        {
+            "Announcer: Twinkle Park entrance": [
+                {
+                    "VoiceID": 1575,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Welcome to Twinkle Park!"
+                }
+            ]
+        },
+        {
+            "Announcers: Mystic Ruins": [
+                {
+                    "VoiceID": 1654,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "ご利用のお客さまは\nご乗車になってお待ちください！"
+                },
+                {
+                    "VoiceID": 1655,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "ステーションスクエアへ行き列車、\nまもなく発車いたします！"
+                },
+                {
+                    "VoiceID": 1656,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "まもなく列車が到着いたします！\n下がってお待ちください！"
+                },
+                {
+                    "VoiceID": 1657,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "ただいまの時間、\n列車は運行いたしておりません！"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Sonic": [
+                {
+                    "VoiceID": 1838,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Yeees!"
+                },
+                {
+                    "VoiceID": 1839,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Yahoo!"
+                },
+                {
+                    "VoiceID": 1840,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Yes!"
+                },
+                {
+                    "VoiceID": 1841,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Hey, pump it up!"
+                },
+                {
+                    "VoiceID": 1842,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "It's sweet!"
+                },
+                {
+                    "VoiceID": 1843,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Hey guy! また遊んでやるぜ！"
+                },
+                {
+                    "VoiceID": 1844,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Yeah! It's okay!"
+                },
+                {
+                    "VoiceID": 1845,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "は、離せ！"
+                },
+                {
+                    "VoiceID": 1847,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "No!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Tails": [
+                {
+                    "VoiceID": 1801,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やった！"
+                },
+                {
+                    "VoiceID": 1802,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ひゃほぉ！"
+                },
+                {
+                    "VoiceID": 1803,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やった！"
+                },
+                {
+                    "VoiceID": 1804,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ふう、何とか間に合った"
+                },
+                {
+                    "VoiceID": 1805,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "やったよ、ソニック！"
+                },
+                {
+                    "VoiceID": 1806,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "僕なって強いだからね！"
+                },
+                {
+                    "VoiceID": 1807,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ま、こんな感じかな"
+                },
+                {
+                    "VoiceID": 1808,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ちょ、ちょっと！"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Knuckles": [
+                {
+                    "VoiceID": 1788,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "よしゃ！"
+                },
+                {
+                    "VoiceID": 1789,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "おっと！"
+                },
+                {
+                    "VoiceID": 1790,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "見つけたぜ！"
+                },
+                {
+                    "VoiceID": 1791,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "フン、手間取っちまった"
+                },
+                {
+                    "VoiceID": 1792,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "軽いもんだぜ！"
+                },
+                {
+                    "VoiceID": 1793,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "フン、口程にもない奴め！"
+                },
+                {
+                    "VoiceID": 1794,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ま、こんなもんだろう"
+                },
+                {
+                    "VoiceID": 1795,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "くそおおお！"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Amy": [
+                {
+                    "VoiceID": 1731,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やったね！"
+                },
+                {
+                    "VoiceID": 1732,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "やあああい！"
+                },
+                {
+                    "VoiceID": 1733,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "やったぁ！"
+                },
+                {
+                    "VoiceID": 1734,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "ふう、危なかった…"
+                },
+                {
+                    "VoiceID": 1735,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "あたしだってやる時はやるんだから！"
+                },
+                {
+                    "VoiceID": 1736,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "脱出成功！"
+                },
+                {
+                    "VoiceID": 1737,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "やぁぁ、あたしって最高！"
+                },
+                {
+                    "VoiceID": 1738,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "いやぁ、離して！"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Big": [
+                {
+                    "VoiceID": 1334,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "ほぉぉ、また行っちゃった…"
+                },
+                {
+                    "VoiceID": 1747,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "カエルくん！"
+                },
+                {
+                    "VoiceID": 1748,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "今度は頑張る…"
+                },
+                {
+                    "VoiceID": 1749,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "大漁！ 大漁！"
+                },
+                {
+                    "VoiceID": 1750,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "大丈夫かい、カエルくん？"
+                },
+                {
+                    "VoiceID": 1751,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "結構釣れたなぁ…"
+                },
+                {
+                    "VoiceID": 1758,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "釣れた！ 釣れた！"
+                },
+                {
+                    "VoiceID": 1759,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "来たぁ！"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Gamma": [
+                {
+                    "VoiceID": 1768,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "走行完了"
+                },
+                {
+                    "VoiceID": 1770,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ミッションコンプリート"
+                },
+                {
+                    "VoiceID": 1771,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０１ベタ：救出完了"
+                },
+                {
+                    "VoiceID": 1772,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "カエル捕獲完了"
+                },
+                {
+                    "VoiceID": 1773,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０５ゼタ：救出完了"
+                },
+                {
+                    "VoiceID": 1774,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０４イプシロン：救出完了"
+                },
+                {
+                    "VoiceID": 1775,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Ｅ－１０３デルタ：救出完了"
+                },
+                {
+                    "VoiceID": 1777,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "脱出不能"
+                },
+                {
+                    "VoiceID": 1778,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ミッション失敗"
+                },
+                {
+                    "VoiceID": 1786,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "活動不能"
+                }
+            ]
+        },
+        {
+            "Cutscene: before Egg Walker": [
+                {
+                    "VoiceID": 816,
+                    "Duration": 30,
+                    "Mode": "Gameplay",
+                    "Text": "エ、エッグマンだ！"
+                },
+                {
+                    "VoiceID": 818,
+                    "Duration": 30,
+                    "Mode": "Gameplay",
+                    "Text": "大丈夫かな？"
+                }
+            ]
+        },
+        {
+            "Cutscene: after Egg Walker": [
+                {
+                    "VoiceID": 821,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "やったぞ！"
+                },
+                {
+                    "VoiceID": 822,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "大したもんだ"
+                },
+                {
+                    "VoiceID": 823,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "助かった！"
+                },
+                {
+                    "VoiceID": 824,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "すごいぞ！"
+                },
+                {
+                    "VoiceID": 825,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "わぁぁ！ やったやった！"
+                }
+            ]
+        },
+        {
+            "Cutscene: after Emerald Coast (Gamma)": [
+                {
+                    "VoiceID": 1223,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "俺ノハ本物ダ"
+                },
+                {
+                    "VoiceID": 1224,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "イヤ、俺ダ"
+                },
+                {
+                    "VoiceID": 1225,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "俺ノホウガ色ガイイ"
+                }
+            ]
+        },
+        {
+            "Beta restores: Big's unused fishing lines": [
+                {
+                    "VoiceID": 1763,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "小っちゃい…"
+                },
+                {
+                    "VoiceID": 1761,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "まあまあかな…"
+                },
+                {
+                    "VoiceID": 1745,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "でかいぞ！"
+                },
+                {
+                    "VoiceID": 1753,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ダメだ、こりゃ…"
+                },
+                {
+                    "VoiceID": 1756,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ダメか…"
+                },
+                {
+                    "VoiceID": 1876,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "よぉし、もう一回だ"
+                },
+                {
+                    "VoiceID": 1877,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "惜しい、もう一度"
+                }
+            ]
+        },
+        {
+            "Beta restores: Final Egg 1 (Sonic) intercom": [
+                {
+                    "VoiceID": 1706,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "侵入者発見！ 侵入者発見！\nエッグキーパーは直ちに急行せよ！"
+                },
+                {
+                    "VoiceID": 1707,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "侵入者発見！ 侵入者発見！\nエッグキーパーは直ちに急行せよ！"
+                }
+            ]
+        },
+        {
+            "Beta restores: Final Egg (Amy) Eggman's taunts": [
+                {
+                    "VoiceID": 1984,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ははははは！ ハズレじゃ！"
+                },
+                {
+                    "VoiceID": 1985,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "はははは！ またまたハズレじゃ！"
+                },
+                {
+                    "VoiceID": 1986,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "はははははは！ もう諦めて観念せい！"
+                }
+            ]
+        },
+        {
+            "Beta restores: Sky Deck unused lines": [
+                {
+                    "VoiceID": 1704,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "緊急実態発生！ 緊急実態発生！\n直ちに侵入者を排除せよ！"
+                },
+                {
+                    "VoiceID": 1705,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "緊急実態発生！ 緊急実態発生！\n直ちに侵入者を排除せよ！"
+                },
+                {
+                    "VoiceID": 1727,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "強風接近！ 強風接近！"
+                },
+                {
+                    "VoiceID": 1728,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "強風警戒解除！"
+                },
+                {
+                    "VoiceID": 1723,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "向かいに先行！ スピードを落とせ！"
+                },
+                {
+                    "VoiceID": 1724,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "向かいに先行！ スピードを落とせ！"
+                },
+                {
+                    "VoiceID": 1725,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "浮上フロー！ 全速前進！"
+                },
+                {
+                    "VoiceID": 1726,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "こしゃくなハリネズミめ！\n振り落してくれるわ！"
+                }
+            ]
+        },
+        {
+            "Beta restores: vs E-101 mk.2 unused line": [
+                {
+                    "VoiceID": 1681,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ヤメルンダ、ベタ！"
+                }
+            ]
+        },
+        {
+            "Beta restores: characters taking damage with no rings": [
+                {
+                    "VoiceID": 1809,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック…"
+                },
+                {
+                    "VoiceID": 1796,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ここまでか…"
+                },
+                {
+                    "VoiceID": 1740,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "もう、いや！"
+                },
+                {
+                    "VoiceID": 1755,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "もう、ダメ…"
+                }
+            ]
+        },
+        {
+            "Beta restores: Tails' stages alt Sonic's voices": [
+                {
+                    "VoiceID": 1823,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "You made it!"
+                },
+                {
+                    "VoiceID": 1824,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "You got it!"
+                },
+                {
+                    "VoiceID": 1825,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "I made it!"
+                },
+                {
+                    "VoiceID": 1826,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "I got it!"
+                },
+                {
+                    "VoiceID": 1827,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Good going!"
+                },
+                {
+                    "VoiceID": 1828,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "ヘイヘイヘイ！"
+                },
+                {
+                    "VoiceID": 1829,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Come on!"
+                },
+                {
+                    "VoiceID": 1830,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "I win!"
+                },
+                {
+                    "VoiceID": 1831,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Let's get going!"
+                },
+                {
+                    "VoiceID": 1832,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Hang in there!"
+                },
+                {
+                    "VoiceID": 1833,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Wait-wait-wait!"
+                },
+                {
+                    "VoiceID": 1834,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Hold it!"
+                },
+                {
+                    "VoiceID": 1835,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Hooray!"
+                },
+                {
+                    "VoiceID": 1836,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Okey-dokey!"
+                }
+            ]
+        },
+        {
+            "Beta restores: Perfect Chaos unused Tikal's cheers": [
+                {
+                    "VoiceID": 1713,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "ソニック？\n分かったわ！"
+                },
+                {
+                    "VoiceID": 1714,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "あなたの勇気に掛けてみる！"
+                },
+                {
+                    "VoiceID": 1716,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "スーパーソニックでいるにはリングが必要よ！\n気をつけて！"
+                }
+            ]
+        }
+    ]
+}
