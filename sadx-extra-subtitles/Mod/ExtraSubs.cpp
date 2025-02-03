@@ -51,33 +51,10 @@ static std::vector<const char*> WelcomeToTwinklePark_Japanese;
 
 // Subtitle data
 
-const char** SkyChase1[]
-{
-	SkyChase1_Japanese.data(),
-	SkyChase1_English.data(),
-	SkyChase1_French.data(),
-	NULL, // Spanish
-	NULL, // German
-};
-
-const char** SkyChase2[]
-{
-	SkyChase2_Japanese.data(),
-	SkyChase2_English.data(),
-	SkyChase2_French.data(),
-	NULL, // Spanish
-	NULL, // German
-};
-
-const char** WelcomeToTwinkleParkCutscene[]
-{
-	WelcomeToTwinklePark_Japanese.data(),
-	WelcomeToTwinklePark_English.data(),
-	WelcomeToTwinklePark_French.data(),
-	NULL, // Spanish
-	NULL, // German
-};
-
+// these will be filled at loading
+const char** SkyChase1[5];
+const char** SkyChase2[5];
+const char** WelcomeToTwinkleParkCutscene[5];
 
 std::map<int, SubtitleData>* ExtraSubs[]
 {
@@ -244,6 +221,9 @@ void LoadText(const char* modPath)
 	SkyChase1_English = Json::ReadArray(modPath, "English", "SkyChase1", Latin);
 	SkyChase2_English = Json::ReadArray(modPath, "English", "SkyChase2", Latin);
 	WelcomeToTwinklePark_English = Json::ReadArray(modPath, "English", "TwinklePark", Latin);
+	SkyChase1[Languages_English] = SkyChase1_English.data();
+	SkyChase2[Languages_English] = SkyChase2_English.data();
+	WelcomeToTwinkleParkCutscene[Languages_English] = WelcomeToTwinklePark_English.data();
 
 	ExtraSubs_English_Retranslated = Json::ReadExtraSubs(modPath, "English (Retranslated)", "Main", Latin);
 	SkyChase1_English_Retranslated = Json::ReadArray(modPath, "English (Retranslated)", "SkyChase1", Latin);
@@ -254,6 +234,9 @@ void LoadText(const char* modPath)
 	SkyChase1_French = Json::ReadArray(modPath, "French", "SkyChase1", Latin);
 	SkyChase2_French = Json::ReadArray(modPath, "French", "SkyChase2", Latin);
 	WelcomeToTwinklePark_French = Json::ReadArray(modPath, "French", "TwinklePark", Latin);
+	SkyChase1[Languages_French] = SkyChase1_French.data();
+	SkyChase2[Languages_French] = SkyChase2_French.data();
+	WelcomeToTwinkleParkCutscene[Languages_French] = WelcomeToTwinklePark_French.data();
 
 	ExtraSubs_French_Retranslated = Json::ReadExtraSubs(modPath, "French (Retranslated)", "Main", Latin);
 	SkyChase1_French_Retranslated = Json::ReadArray(modPath, "French (Retranslated)", "SkyChase1", Latin);
@@ -264,6 +247,9 @@ void LoadText(const char* modPath)
 	SkyChase1_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase1", Japanese);
 	SkyChase2_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase2", Japanese);
 	WelcomeToTwinklePark_Japanese = Json::ReadArray(modPath, "Japanese", "TwinklePark", Japanese);
+	SkyChase1[Languages_Japanese] = SkyChase1_Japanese.data();
+	SkyChase2[Languages_Japanese] = SkyChase2_Japanese.data();
+	WelcomeToTwinkleParkCutscene[Languages_Japanese] = WelcomeToTwinklePark_Japanese.data();
 
 	PrintDebug("[SADX Extra Subtitles] Text has been successfully loaded from json files.\n");
 }
