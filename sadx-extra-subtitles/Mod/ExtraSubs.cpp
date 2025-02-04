@@ -9,8 +9,8 @@
 FunctionHook<int, int, void*, int, void*> PlaySound_Hook(0x423D70);
 FunctionPointer(void, sub_40BC80, (), 0x40BC80);
 
-const char* Buffer[] = { NULL, NULL };
-const char* TextBuffer = NULL;
+const char* Buffer[] = { nullptr, nullptr };
+const char* TextBuffer = nullptr;
 int SubtitleDisplayFrameCount = 0;
 int SubtitleDuration = 0;
 int EggCannonFrameCount = 0;
@@ -56,8 +56,8 @@ static std::vector<const char*>* SkyChase1[]
 	&SkyChase1_Japanese,
 	&SkyChase1_English,
 	&SkyChase1_French,
-	NULL, // Spanish
-	NULL
+	nullptr,	// Spanish
+	nullptr		// German
 };
 
 static std::vector<const char*>* SkyChase2[]
@@ -65,8 +65,8 @@ static std::vector<const char*>* SkyChase2[]
 	&SkyChase2_Japanese,
 	&SkyChase2_English,
 	&SkyChase2_French,
-	NULL,	// Spanish
-	NULL	// German
+	nullptr,	// Spanish
+	nullptr		// German
 };
 
 static std::vector<const char*>* WelcomeToTwinkleParkCutscene[]
@@ -74,8 +74,8 @@ static std::vector<const char*>* WelcomeToTwinkleParkCutscene[]
 	&WelcomeToTwinklePark_Japanese,
 	&WelcomeToTwinklePark_English,
 	&WelcomeToTwinklePark_French,
-	NULL,	// Spanish
-	NULL	// German
+	nullptr,	// Spanish
+	nullptr		// German
 };
 
 static std::map<int, SubtitleData>* ExtraSubs[]
@@ -83,8 +83,8 @@ static std::map<int, SubtitleData>* ExtraSubs[]
 	&ExtraSubs_Japanese,
 	&ExtraSubs_English,
 	&ExtraSubs_French,
-	NULL,	// Spanish
-	NULL	// German
+	nullptr,	// Spanish
+	nullptr		// German
 };
 
 static std::map<int, SubtitleData>* ExtraSubs_SE[]
@@ -92,8 +92,8 @@ static std::map<int, SubtitleData>* ExtraSubs_SE[]
 	&ExtraSubs_SE_Japanese,
 	&ExtraSubs_SE_English,
 	&ExtraSubs_SE_French,
-	NULL,	// Spanish
-	NULL	// German
+	nullptr,	// Spanish
+	nullptr		// German
 };
 
 
@@ -127,7 +127,7 @@ void DisplayCutsceneSubtitle(int id) // for post-Egg Walker cutscene specificall
 
 void SetUpSkyChase1Subtitles()
 {
-	if (SkyChase1[TextLanguage] != NULL)
+	if (SkyChase1[TextLanguage] != nullptr)
 	{
 		EggCannonFrameCount = 1;
 	}
@@ -135,7 +135,7 @@ void SetUpSkyChase1Subtitles()
 
 void DisplaySkyChase2Subtitles()
 {
-	if (SkyChase2[TextLanguage] != NULL)
+	if (SkyChase2[TextLanguage] != nullptr)
 	{
 		DisplayHintText(SkyChase2[TextLanguage]->data(), 270);
 	}
@@ -172,14 +172,14 @@ void DisplaySubtitle(int id)
 
 	if (id == 1575 && CurrentCutsceneID == 20) // for cutscene after Twinkle Park (Sonic) to prevent this subtitle overriding a cutscene one
 	{
-		if (WelcomeToTwinkleParkCutscene[TextLanguage] != NULL)
+		if (WelcomeToTwinkleParkCutscene[TextLanguage] != nullptr)
 		{
 			DisplayHintText(WelcomeToTwinkleParkCutscene[TextLanguage]->data(), 30);
 		}		
 		return;
 	}
 
-	if (ExtraSubs[TextLanguage] == NULL) return;
+	if (ExtraSubs[TextLanguage] == nullptr) return;
 	if (!ExtraSubs[TextLanguage]->count(id)) return;
 	
 	if (ExtraSubs[TextLanguage]->at(id).Condition == Menu)
@@ -215,7 +215,7 @@ void __cdecl PlayVoice_ExtraSub(int id)
 
 void DisplaySoundEffectSubtitle(int id)
 {
-	if (ExtraSubs_SE[TextLanguage] == NULL) return;
+	if (ExtraSubs_SE[TextLanguage] == nullptr) return;
 	if (!ExtraSubs_SE[TextLanguage]->count(id)) return;
 	
 	Buffer[0] = ExtraSubs_SE[TextLanguage]->at(id).Text;

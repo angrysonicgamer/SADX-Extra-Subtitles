@@ -42,7 +42,7 @@ std::map<int, SubtitleData> Json::ReadExtraSubs(const char* modPath, const char*
 				int duration = subtitle["Duration"];
 				std::string mode = subtitle["Mode"];
 
-				extraSubs.insert({ voiceID, { ConvertToCodepage(text, codepage), duration, displayModes[mode]} });
+				extraSubs.insert({ voiceID, { ConvertToCodepage(text, codepage), duration, displayModes[mode] } });
 			}
 		}
 	}
@@ -61,7 +61,7 @@ std::vector<const char*> Json::ReadArray(const char* modPath, const char* langua
 
 		if (text == "NULL")
 		{
-			subtitleArray.push_back(NULL);
+			subtitleArray.push_back(nullptr);
 		}
 		else
 		{
