@@ -51,27 +51,49 @@ static std::vector<const char*> WelcomeToTwinklePark_Japanese;
 
 // Subtitle data
 
-// these will be filled at loading
-const char** SkyChase1[5];
-const char** SkyChase2[5];
-const char** WelcomeToTwinkleParkCutscene[5];
+static std::vector<const char*>* SkyChase1[]
+{
+	&SkyChase1_Japanese,
+	&SkyChase1_English,
+	&SkyChase1_French,
+	NULL, // Spanish
+	NULL
+};
 
-std::map<int, SubtitleData>* ExtraSubs[]
+static std::vector<const char*>* SkyChase2[]
+{
+	&SkyChase2_Japanese,
+	&SkyChase2_English,
+	&SkyChase2_French,
+	NULL,	// Spanish
+	NULL	// German
+};
+
+static std::vector<const char*>* WelcomeToTwinkleParkCutscene[]
+{
+	&WelcomeToTwinklePark_Japanese,
+	&WelcomeToTwinklePark_English,
+	&WelcomeToTwinklePark_French,
+	NULL,	// Spanish
+	NULL	// German
+};
+
+static std::map<int, SubtitleData>* ExtraSubs[]
 {
 	&ExtraSubs_Japanese,
 	&ExtraSubs_English,
 	&ExtraSubs_French,
-	NULL, // Spanish
-	NULL, // German
+	NULL,	// Spanish
+	NULL	// German
 };
 
-std::map<int, SubtitleData>* ExtraSubs_SE[]
+static std::map<int, SubtitleData>* ExtraSubs_SE[]
 {
 	&ExtraSubs_SE_Japanese,
 	&ExtraSubs_SE_English,
 	&ExtraSubs_SE_French,
-	NULL, // Spanish
-	NULL, // German
+	NULL,	// Spanish
+	NULL	// German
 };
 
 
@@ -115,7 +137,7 @@ void DisplaySkyChase2Subtitles()
 {
 	if (SkyChase2[TextLanguage] != NULL)
 	{
-		DisplayHintText(SkyChase2[TextLanguage], 270);
+		DisplayHintText(SkyChase2[TextLanguage]->data(), 270);
 	}
 }
 
@@ -126,12 +148,12 @@ void SetSubtitlesMode() // this will be a single option for multiple languages
 	bool useRetranslatedSubs = Config::SubtitlesMode == "AlwaysRetranslated" || Config::SubtitlesMode == "Auto" && VoiceLanguage == Languages_Japanese;
 
 	ExtraSubs[Languages_English] = useRetranslatedSubs ? &ExtraSubs_English_Retranslated : &ExtraSubs_English;
-	SkyChase1[Languages_English] = useRetranslatedSubs ? SkyChase1_English_Retranslated.data() : SkyChase1_English.data();
-	SkyChase2[Languages_English] = useRetranslatedSubs ? SkyChase2_English_Retranslated.data() : SkyChase2_English.data();
+	SkyChase1[Languages_English] = useRetranslatedSubs ? &SkyChase1_English_Retranslated : &SkyChase1_English;
+	SkyChase2[Languages_English] = useRetranslatedSubs ? &SkyChase2_English_Retranslated : &SkyChase2_English;
 
 	ExtraSubs[Languages_French] = useRetranslatedSubs ? &ExtraSubs_French_Retranslated : &ExtraSubs_French;
-	SkyChase1[Languages_French] = useRetranslatedSubs ? SkyChase1_French_Retranslated.data() : SkyChase1_French.data();
-	SkyChase2[Languages_French] = useRetranslatedSubs ? SkyChase2_French_Retranslated.data() : SkyChase2_French.data();
+	SkyChase1[Languages_French] = useRetranslatedSubs ? &SkyChase1_French_Retranslated : &SkyChase1_French;
+	SkyChase2[Languages_French] = useRetranslatedSubs ? &SkyChase2_French_Retranslated : &SkyChase2_French;
 }
 
 
@@ -152,7 +174,7 @@ void DisplaySubtitle(int id)
 	{
 		if (WelcomeToTwinkleParkCutscene[TextLanguage] != NULL)
 		{
-			DisplayHintText(WelcomeToTwinkleParkCutscene[TextLanguage], 30);
+			DisplayHintText(WelcomeToTwinkleParkCutscene[TextLanguage]->data(), 30);
 		}		
 		return;
 	}
@@ -221,9 +243,6 @@ void LoadText(const char* modPath)
 	SkyChase1_English = Json::ReadArray(modPath, "English", "SkyChase1", Latin);
 	SkyChase2_English = Json::ReadArray(modPath, "English", "SkyChase2", Latin);
 	WelcomeToTwinklePark_English = Json::ReadArray(modPath, "English", "TwinklePark", Latin);
-	SkyChase1[Languages_English] = SkyChase1_English.data();
-	SkyChase2[Languages_English] = SkyChase2_English.data();
-	WelcomeToTwinkleParkCutscene[Languages_English] = WelcomeToTwinklePark_English.data();
 
 	ExtraSubs_English_Retranslated = Json::ReadExtraSubs(modPath, "English (Retranslated)", "Main", Latin);
 	SkyChase1_English_Retranslated = Json::ReadArray(modPath, "English (Retranslated)", "SkyChase1", Latin);
@@ -234,9 +253,6 @@ void LoadText(const char* modPath)
 	SkyChase1_French = Json::ReadArray(modPath, "French", "SkyChase1", Latin);
 	SkyChase2_French = Json::ReadArray(modPath, "French", "SkyChase2", Latin);
 	WelcomeToTwinklePark_French = Json::ReadArray(modPath, "French", "TwinklePark", Latin);
-	SkyChase1[Languages_French] = SkyChase1_French.data();
-	SkyChase2[Languages_French] = SkyChase2_French.data();
-	WelcomeToTwinkleParkCutscene[Languages_French] = WelcomeToTwinklePark_French.data();
 
 	ExtraSubs_French_Retranslated = Json::ReadExtraSubs(modPath, "French (Retranslated)", "Main", Latin);
 	SkyChase1_French_Retranslated = Json::ReadArray(modPath, "French (Retranslated)", "SkyChase1", Latin);
@@ -247,9 +263,6 @@ void LoadText(const char* modPath)
 	SkyChase1_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase1", Japanese);
 	SkyChase2_Japanese = Json::ReadArray(modPath, "Japanese", "SkyChase2", Japanese);
 	WelcomeToTwinklePark_Japanese = Json::ReadArray(modPath, "Japanese", "TwinklePark", Japanese);
-	SkyChase1[Languages_Japanese] = SkyChase1_Japanese.data();
-	SkyChase2[Languages_Japanese] = SkyChase2_Japanese.data();
-	WelcomeToTwinkleParkCutscene[Languages_Japanese] = WelcomeToTwinklePark_Japanese.data();
 
 	PrintDebug("[SADX Extra Subtitles] Text has been successfully loaded from json files.\n");
 }
@@ -288,23 +301,23 @@ void DisplayEggCannonSubtitles()
 	sub_40BC80();
 	if (EggCannonFrameCount <= 180)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage][0]);
+		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(0));
 	}
 	else if (EggCannonFrameCount <= 270)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage][1]);
+		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(1));
 	}
 	else if (EggCannonFrameCount > 360 && EggCannonFrameCount <= 480)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage][2]);
+		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(2));
 	}
 	else if (EggCannonFrameCount > 660 && EggCannonFrameCount <= 780)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage][3]);
+		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(3));
 	}
 	else if (EggCannonFrameCount > 780)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage][4]);
+		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(4));
 	}
 	EggCannonFrameCount++;
 }
