@@ -7,7 +7,6 @@
 
 
 FunctionHook<int, int, void*, int, void*> PlaySound_Hook(0x423D70);
-FunctionPointer(void, sub_40BC80, (), 0x40BC80);
 
 const char* Buffer[] = { nullptr, nullptr };
 const char* TextBuffer = nullptr;
@@ -284,8 +283,8 @@ void ExtraSubs::Init(const char* modPath)
 
 void DisplaySubtitleForOneFrame()
 {
-	sub_40BC80();
-	DoSomethingRelatedToText_(TextBuffer);
+	DialogJimakuInit();
+	DialogJimakuPut(TextBuffer);
 	SubtitleDisplayFrameCount++;
 }
 
@@ -298,26 +297,26 @@ void ClearSubtitle()
 
 void DisplayEggCannonSubtitles()
 {
-	sub_40BC80();
+	DialogJimakuInit();
 	if (EggCannonFrameCount <= 180)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(0));
+		DialogJimakuPut(SkyChase1[TextLanguage]->at(0));
 	}
 	else if (EggCannonFrameCount <= 270)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(1));
+		DialogJimakuPut(SkyChase1[TextLanguage]->at(1));
 	}
 	else if (EggCannonFrameCount > 360 && EggCannonFrameCount <= 480)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(2));
+		DialogJimakuPut(SkyChase1[TextLanguage]->at(2));
 	}
 	else if (EggCannonFrameCount > 660 && EggCannonFrameCount <= 780)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(3));
+		DialogJimakuPut(SkyChase1[TextLanguage]->at(3));
 	}
 	else if (EggCannonFrameCount > 780)
 	{
-		DoSomethingRelatedToText_(SkyChase1[TextLanguage]->at(4));
+		DialogJimakuPut(SkyChase1[TextLanguage]->at(4));
 	}
 	EggCannonFrameCount++;
 }
