@@ -1,25 +1,20 @@
 #include "pch.h"
-#include "ExtraSubs.h"
 #include "Json.h"
-#include "TextConv.hpp"
+#include "Encoding.h"
+#include "Mod/Global/MyMod.h"
 #include <fstream>
 
 
-const char* ConvertToCodepage(std::string& text, Codepage codepage)
-{
-	return UTF8toCodepage(("\a" + text).c_str(), (int)codepage);
-}
-
-json ReadJsonFile(const char* modPath, const char* language, const char* type)
+json ReadJsonFile(const char* language, const char* type)
 {
 	char path[MAX_PATH];
-	sprintf(path, "%s\\Languages\\%s\\%s.json", modPath, language, type);
+	sprintf(path, "%s\\Languages\\%s\\%s.json", MyMod::Path.c_str(), language, type);
 
 	std::ifstream jsonFile(path);
 	return json::parse(jsonFile);
 }
 
-std::map<int, SubtitleData> Json::ReadExtraSubs(const char* modPath, const char* language, const char* type, Codepage codepage)
+std::map<int, SubtitleData> Json::ReadExtraSubs(const char* language, const char* type, int codepage)
 {
 	std::map<std::string, DisplayConditions> displayModes
 	{
@@ -28,7 +23,7 @@ std::map<int, SubtitleData> Json::ReadExtraSubs(const char* modPath, const char*
 		{ "Cutscene", Cutscene }
 	};	
 
-	json j = ReadJsonFile(modPath, language, type);
+	json j = ReadJsonFile(language, type);
 	std::map<int, SubtitleData> extraSubs;
 
 	for (auto& subtitleArray : j["Subtitles"])
@@ -42,7 +37,7 @@ std::map<int, SubtitleData> Json::ReadExtraSubs(const char* modPath, const char*
 				int duration = subtitle["Duration"];
 				std::string mode = subtitle["Mode"];
 
-				extraSubs.insert({ voiceID, { ConvertToCodepage(text, codepage), duration, displayModes[mode] } });
+				extraSubs.insert({ voiceID, { Encode("\a" + text, codepage), duration, displayModes[mode] } });
 			}
 		}
 	}
@@ -50,9 +45,9 @@ std::map<int, SubtitleData> Json::ReadExtraSubs(const char* modPath, const char*
 	return extraSubs;
 }
 
-std::vector<const char*> Json::ReadArray(const char* modPath, const char* language, const char* key, Codepage codepage)
+std::vector<const char*> Json::ReadArray(const char* language, const char* key, int codepage)
 {
-	json j = ReadJsonFile(modPath, language, "Other");
+	json j = ReadJsonFile(language, "Other");
 	std::vector<const char*> subtitleArray;
 
 	for (auto& subtitle : j[key])
@@ -65,7 +60,7 @@ std::vector<const char*> Json::ReadArray(const char* modPath, const char* langua
 		}
 		else
 		{
-			subtitleArray.push_back(ConvertToCodepage(text, codepage));
+			subtitleArray.push_back(Encode("\a" + text, codepage));
 		}		
 	}
 

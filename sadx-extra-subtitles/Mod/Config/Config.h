@@ -7,5 +7,5 @@ public:
 	static bool DisableMenuExtraSubs;	
 	static bool DisplaySESubtitles;
 
-	static void Read(const char* modPath);
+	static void Read();
 };

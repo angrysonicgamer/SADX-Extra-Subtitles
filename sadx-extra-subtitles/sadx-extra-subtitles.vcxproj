@@ -20,18 +20,26 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
-    <ClInclude Include="Mod\Config.h" />
-    <ClInclude Include="Mod\ExtraSubs.h" />
-    <ClInclude Include="Mod\Json.h" />
+    <ClInclude Include="Mod\Config\Config.h" />
+    <ClInclude Include="Mod\Global\MyMod.h" />
+    <ClInclude Include="Mod\Messages\Message.h" />
+    <ClInclude Include="Mod\Text\Encoding.h" />
+    <ClInclude Include="Mod\Text\ExtraSubs.h" />
+    <ClInclude Include="Mod\Text\Json.h" />
+    <ClInclude Include="Mod\Text\LoadedSubtitles.h" />
     <ClInclude Include="nlohmann-json\json.hpp" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="Mod\Config.cpp" />
-    <ClCompile Include="Mod\ExtraSubs.cpp" />
-    <ClCompile Include="Mod\Json.cpp" />
+    <ClCompile Include="Mod\Config\Config.cpp" />
+    <ClCompile Include="Mod\Global\MyMod.cpp" />
     <ClCompile Include="Mod\Main.cpp" />
+    <ClCompile Include="Mod\Messages\Message.cpp" />
+    <ClCompile Include="Mod\Text\Encoding.cpp" />
+    <ClCompile Include="Mod\Text\ExtraSubs.cpp" />
+    <ClCompile Include="Mod\Text\Json.cpp" />
+    <ClCompile Include="Mod\Text\LoadedSubtitles.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>

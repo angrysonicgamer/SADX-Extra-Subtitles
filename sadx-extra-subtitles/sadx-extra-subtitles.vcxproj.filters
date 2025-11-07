@@ -7,37 +7,73 @@
     <Filter Include="nlohmann-json">
       <UniqueIdentifier>{d60e4b93-35a0-4a0f-93b0-236edac892a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Mod\Config">
+      <UniqueIdentifier>{3dbb5f85-2b1a-419c-9223-c77b33fa4032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mod\Text">
+      <UniqueIdentifier>{e001bcc3-eab7-4c91-8fa4-61fa602c0dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mod\Global">
+      <UniqueIdentifier>{e158ee75-3d00-41b5-881a-fbfaf7216856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mod\Messages">
+      <UniqueIdentifier>{ae60b535-0912-4e6e-a01e-54f1de855b49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Mod\Config.h">
-      <Filter>Mod</Filter>
-    </ClInclude>
-    <ClInclude Include="Mod\ExtraSubs.h">
-      <Filter>Mod</Filter>
-    </ClInclude>
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="Mod\Json.h">
-      <Filter>Mod</Filter>
-    </ClInclude>
     <ClInclude Include="nlohmann-json\json.hpp">
       <Filter>nlohmann-json</Filter>
     </ClInclude>
+    <ClInclude Include="Mod\Config\Config.h">
+      <Filter>Mod\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Text\ExtraSubs.h">
+      <Filter>Mod\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Text\Json.h">
+      <Filter>Mod\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Global\MyMod.h">
+      <Filter>Mod\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Text\LoadedSubtitles.h">
+      <Filter>Mod\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Text\Encoding.h">
+      <Filter>Mod\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="Mod\Messages\Message.h">
+      <Filter>Mod\Messages</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Mod\Config.cpp">
-      <Filter>Mod</Filter>
-    </ClCompile>
-    <ClCompile Include="Mod\ExtraSubs.cpp">
-      <Filter>Mod</Filter>
-    </ClCompile>
     <ClCompile Include="Mod\Main.cpp">
       <Filter>Mod</Filter>
     </ClCompile>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp" />
-    <ClCompile Include="Mod\Json.cpp">
-      <Filter>Mod</Filter>
+    <ClCompile Include="Mod\Config\Config.cpp">
+      <Filter>Mod\Config</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Text\ExtraSubs.cpp">
+      <Filter>Mod\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Text\Json.cpp">
+      <Filter>Mod\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Global\MyMod.cpp">
+      <Filter>Mod\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Text\LoadedSubtitles.cpp">
+      <Filter>Mod\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Text\Encoding.cpp">
+      <Filter>Mod\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="Mod\Messages\Message.cpp">
+      <Filter>Mod\Messages</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

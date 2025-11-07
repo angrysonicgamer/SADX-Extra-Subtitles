@@ -1,14 +1,16 @@
 #include "pch.h"
-#include "ExtraSubs.h"
-#include "Config.h"
+#include "Mod/Global/MyMod.h"
+#include "Mod/Config/Config.h"
+#include "Mod/Text/ExtraSubs.h"
 
 
 extern "C"
 {
 	__declspec(dllexport) void __cdecl Init(const char* modPath, const HelperFunctions& helperFunctions)
 	{
-		Config::Read(modPath);
-		ExtraSubs::Init(modPath);
+		MyMod::Init(modPath, helperFunctions);
+		Config::Read();
+		ExtraSubs::Init();
 	}
 
 	__declspec(dllexport) void OnFrame()

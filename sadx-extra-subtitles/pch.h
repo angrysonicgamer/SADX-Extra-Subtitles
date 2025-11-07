@@ -11,5 +11,6 @@
 #include "framework.h"
 #include "SADXModLoader.h"
 #include <map>
+#include <vector>
 
 #endif //PCH_H
