@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "LoadedSubtitles.h"
 #include "Json.h"
-#include "Mod/Messages/Message.h"
+#include "Mod/Messages/DebugMessage.h"
 
 
 void LoadedSubtitles::Load(const char* language, int codepage)
@@ -14,11 +14,11 @@ void LoadedSubtitles::Load(const char* language, int codepage)
 		SkyChase2 = Json::ReadArray(language, "SkyChase2", codepage);
 		TwinklePark = Json::ReadArray(language, "TwinklePark", codepage);
 
-		Message::Success(language);
+		DebugMessage::Success(language);
 	}
 	catch (std::exception& ex)
 	{
-		Message::Error(language);
+		DebugMessage::Error(language);
 	}
 }
 
@@ -30,10 +30,10 @@ void LoadedSubtitles::LoadRetranslated(const char* language, int codepage)
 		SkyChase1Retranslated = Json::ReadArray(language, "SkyChase1", codepage);
 		SkyChase2Retranslated = Json::ReadArray(language, "SkyChase2", codepage);
 
-		Message::Success(language);
+		DebugMessage::Success(language);
 	}
 	catch (std::exception& ex)
 	{
-		Message::Error(language);
+		DebugMessage::Error(language);
 	}
 }

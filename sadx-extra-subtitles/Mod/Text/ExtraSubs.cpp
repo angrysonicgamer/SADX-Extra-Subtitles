@@ -4,7 +4,7 @@
 #include "Encoding.h"
 #include "Mod/Global/MyMod.h"
 #include "Mod/Config/Config.h"
-#include "Mod/Messages/Message.h"
+#include "Mod/Messages/DebugMessage.h"
 #include "FunctionHook.h"
 
 
@@ -205,7 +205,7 @@ int __cdecl PlaySound_ExtraSub(int id, void* a2, int a3, void* a4)
 
 void LoadText()
 {
-	Message::Loading();
+	DebugMessage::Loading();
 	
 	Subtitles[Languages_Japanese].Load("Japanese", ShiftJIS);
 	
@@ -224,7 +224,7 @@ void LoadText()
 	//Subtitles[Languages_German].Load("German", Windows1252);
 	//Subtitles[Languages_German].LoadRetranslated("German (Retranslated)", Windows1252);
 
-	Message::Finished();
+	DebugMessage::Finished();
 }
 
 

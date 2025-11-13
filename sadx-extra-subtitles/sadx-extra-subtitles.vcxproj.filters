@@ -44,7 +44,7 @@
     <ClInclude Include="Mod\Text\Encoding.h">
       <Filter>Mod\Text</Filter>
     </ClInclude>
-    <ClInclude Include="Mod\Messages\Message.h">
+    <ClInclude Include="Mod\Messages\DebugMessage.h">
       <Filter>Mod\Messages</Filter>
     </ClInclude>
   </ItemGroup>
@@ -72,7 +72,7 @@
     <ClCompile Include="Mod\Text\Encoding.cpp">
       <Filter>Mod\Text</Filter>
     </ClCompile>
-    <ClCompile Include="Mod\Messages\Message.cpp">
+    <ClCompile Include="Mod\Messages\DebugMessage.cpp">
       <Filter>Mod\Messages</Filter>
     </ClCompile>
   </ItemGroup>

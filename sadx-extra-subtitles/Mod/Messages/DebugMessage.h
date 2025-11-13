@@ -1,6 +1,6 @@
 #pragma once
 
-class Message
+class DebugMessage
 {
 public:
 	static void Success(const char* language);

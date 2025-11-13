@@ -22,7 +22,7 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="Mod\Config\Config.h" />
     <ClInclude Include="Mod\Global\MyMod.h" />
-    <ClInclude Include="Mod\Messages\Message.h" />
+    <ClInclude Include="Mod\Messages\DebugMessage.h" />
     <ClInclude Include="Mod\Text\Encoding.h" />
     <ClInclude Include="Mod\Text\ExtraSubs.h" />
     <ClInclude Include="Mod\Text\Json.h" />
@@ -35,7 +35,7 @@
     <ClCompile Include="Mod\Config\Config.cpp" />
     <ClCompile Include="Mod\Global\MyMod.cpp" />
     <ClCompile Include="Mod\Main.cpp" />
-    <ClCompile Include="Mod\Messages\Message.cpp" />
+    <ClCompile Include="Mod\Messages\DebugMessage.cpp" />
     <ClCompile Include="Mod\Text\Encoding.cpp" />
     <ClCompile Include="Mod\Text\ExtraSubs.cpp" />
     <ClCompile Include="Mod\Text\Json.cpp" />
