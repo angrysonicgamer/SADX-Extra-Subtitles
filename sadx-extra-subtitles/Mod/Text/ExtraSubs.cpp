@@ -216,13 +216,13 @@ void LoadText()
 	Subtitles[Languages_French].Load("French", Windows1252);
 	Subtitles[Languages_French].LoadRetranslated("French (Retranslated)", Windows1252);
 
-	// German and Spanish are not currently supported, waiting for contributions
+	// German is without retranslated variant, Spanish is not currently supported, waiting for contributions
+	
+	Subtitles[Languages_German].Load("German", Windows1252);
+	//Subtitles[Languages_German].LoadRetranslated("German (Retranslated)", Windows1252);
 	
 	//Subtitles[Languages_Spanish].Load("Spanish", Windows1252);
 	//Subtitles[Languages_Spanish].LoadRetranslated("Spanish (Retranslated)", Windows1252);
-
-	//Subtitles[Languages_German].Load("German", Windows1252);
-	//Subtitles[Languages_German].LoadRetranslated("German (Retranslated)", Windows1252);
 
 	DebugMessage::Finished();
 }

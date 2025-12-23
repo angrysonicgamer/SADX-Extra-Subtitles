@@ -1,115 +1,115 @@
 {
-    "Language": "French (Retranslated)",
+    "Language": "German",
     "Subtitles": [
         {
             "Menu voices: default": [
                 {
                     "VoiceID": 0,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 1,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Choisissez un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 2,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù vous pouvez faire l'histoire."
+                    "Text": "Dies ist der Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 3,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode épreuve\noù vous pouvez jouer au niveau de votre choix."
+                    "Text": "Dies ist der Übungs-Modus.\nHier kannst du üben."
                 },
                 {
                     "VoiceID": 4,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez un personnage."
+                    "Text": "Wähle einen Charakter aus."
                 },
                 {
                     "VoiceID": 5,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 6,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 7,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 8,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 9,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec E-102 Gamma."
+                    "Text": "Wie man als E-102 spielt."
                 },
                 {
                     "VoiceID": 10,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 11,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action."
+                    "Text": "Die Regeln für die Action-Level."
                 },
                 {
                     "VoiceID": 12,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez un niveau."
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 13,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez un mini-jeu."
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 14,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Ceci est le menu des options.\nVous pouvez y changer les paramètres."
+                    "Text": "Optionen.\nDu kannst verschiedene Optionen anpassen."
                 },
                 {
                     "VoiceID": 15,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Ceci est le menu du test sonore.\nVous pouvez y écouter les musiques de fond."
+                    "Text": "Sound Test.\nDu kannst dir verschiedene Musikstücke anhören."
                 },
                 {
                     "VoiceID": 16,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "La carte mémoire n'est pas prête."
+                    "Text": "Die Speicherkarte ist nicht bereit."
                 },
                 {
                     "VoiceID": 17,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Il n'y a pas d'espace libre\ndans la carte mémoire."
+                    "Text": " Es ist nicht genügend Speicherplatz \nauf der Speicherkarte vorhanden."
                 }
             ]
         },
@@ -119,109 +119,109 @@
                     "VoiceID": 18,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 19,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 20,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù vous pouvez faire l'histoire."
+                    "Text": "Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 21,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode épreuve\noù vous pouvez jouer au niveau de votre choix."
+                    "Text": "Dies ist der Übungs-Modus.\nHier kannst du üben."
                 },
                 {
                     "VoiceID": 22,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisissez un personnage."
+                    "Text": "Wähle einen Charakter aus."
                 },
                 {
                     "VoiceID": 23,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 24,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec ce cher Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 25,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 26,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec cette chère Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 27,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec E-102 Gamma."
+                    "Text": "Wie man als E-102 spielt."
                 },
                 {
                     "VoiceID": 28,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 29,
-                    "Duration": 210,
+                    "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action.\nFaites de votre mieux pour les mémoriser !"
+                    "Text": "Die Regeln für die Action-Level.\nVergiss nicht sie dir zu merken!"
                 },
                 {
                     "VoiceID": 30,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Quel niveau voulez-vous jouer ?"
+                    "Text": "Welches Level willst du spielen?"
                 },
                 {
                     "VoiceID": 31,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Quel mini-jeu voulez-vous jouer ?"
+                    "Text": "Welches Spiel willst du spielen?"
                 },
                 {
                     "VoiceID": 32,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le menu des options.\nVous pouvez y changer divers options."
+                    "Text": "Optionen.\nDu kannst verschiedene Optionen anpassen."
                 },
                 {
                     "VoiceID": 33,
-                    "Duration": 240,
+                    "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Ceci est le menu du test sonore.\nVous pouvez y écouter les sons du jeu."
+                    "Text": "Sound Test. Du kannst dir die Musik anhören\ndie während des Spiels läuft."
                 },
                 {
                     "VoiceID": 34,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Il semblerait qu'il n'y ait pas de carte mémoire."
+                    "Text": "Du hast keine konfigurierte Speicherkarte."
                 },
                 {
                     "VoiceID": 35,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Il n'y a pas assez de place\ndans la carte mémoire."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -231,109 +231,109 @@
                     "VoiceID": 36,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Select your memory card."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 37,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Select a file."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 38,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Adventure Mode.\nTu peux faire l'histoire dans ce mode."
+                    "Text": "Abenteuer-Modus.\nDu startest hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 39,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Trial Mode.\nTu peux jouer à un niveau de ton choix"
+                    "Text": "Übungs-Modus.\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 40,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Select your character."
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 41,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "How to play with me, Sonic."
+                    "Text": "Wie man als mich, Sonic spielt."
                 },
                 {
                     "VoiceID": 42,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "How to play with Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 43,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "How to play with Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 44,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "How to play with Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 45,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "How to play with E-102 Gamma."
+                    "Text": "Wie man als E-102 Gamma spielt"
                 },
                 {
                     "VoiceID": 46,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "How to play with Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 47,
-                    "Duration": 270,
+                    "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "How to clear the game. Tu dois le savoir,\nsinon tu ne pourras pas finir le jeu !"
+                    "Text": "Wie man das Spiel schafft. Es könnte schwer\nwerden es sei denn du kennst dich aus."
                 },
                 {
                     "VoiceID": 48,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Select a stage."
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 49,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Select a game."
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 50,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Options.\nChoisis les options que tu veux modifier."
+                    "Text": "Optionen.\nWähle die Option aus die du anpassen willst."
                 },
                 {
                     "VoiceID": 51,
-                    "Duration": 240,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nTu peux y écouter des sons cools."
+                    "Text": "Sound Test.\nDu kannst dir hier coole Sounds anhören."
                 },
                 {
                     "VoiceID": 52,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Fais bien attention à ce que ta carte mémoire\nsoit correctement positionnée."
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 53,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Hé ! Tu n'as pas assez d'espace\ndans ta carte mémoire."
+                    "Text": "Hey! Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -343,109 +343,109 @@
                     "VoiceID": 54,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 55,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Ensuite, choisis un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 56,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù tu peux faire l'histoire."
+                    "Text": "Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 57,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode épreuve\noù tu peux jouer au niveau de ton choix."
+                    "Text": "Übungs-Modus.\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 58,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Avec qui voudrais-tu jouer ?"
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 59,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 60,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec moi."
+                    "Text": "Wie man als mich, Tails spielt."
                 },
                 {
                     "VoiceID": 61,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 62,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 63,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec E-102 Gamma."
+                    "Text": "Wie man als E-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 64,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 65,
-                    "Duration": 240,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action.\nFais bien attention à les retenir !"
+                    "Text": "Wie man das Spiel schafft.\nVersuch es dir zu merken."
                 },
                 {
                     "VoiceID": 66,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Quel niveau vas-tu faire ?"
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 67,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Quel mini-jeu vas-tu faire ?"
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 68,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Options.\nTu peux changer divers paramètres ici."
+                    "Text": "Optionen.\nSuch dir die Option aus die du anpassen willst."
                 },
                 {
                     "VoiceID": 69,
-                    "Duration": 240,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nTu peux écouter les sons du jeu ici."
+                    "Text": "Sound Test.\nDu kannst dir hier coole Sounds anhören."
                 },
                 {
                     "VoiceID": 70,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Fais attention à ce que ta carte mémoire\nsoit placée correctement."
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 71,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Il semblerait que tu n'aies pas assez\nd'espace dans ta carte mémoire."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -455,109 +455,109 @@
                     "VoiceID": 72,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 73,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 74,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù tu peux faire l'histoire."
+                    "Text": "Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 75,
-                    "Duration": 180,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode où tu peux\nfaire un niveau au choix."
+                    "Text": "Übungs-Modus.\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 76,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis un personnage à jouer."
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 77,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 78,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 79,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec moi."
+                    "Text": "Wie man als mich, Knuckles spielt."
                 },
                 {
                     "VoiceID": 80,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 81,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec E-102 Gamma."
+                    "Text": "Wie man als E-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 82,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 83,
-                    "Duration": 300,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action.\nLis-les bien, et tu deviendras un maître à ce jeu."
+                    "Text": "Wie man das Spiel schafft.\nLese es dir besser aufmerksam durch."
                 },
                 {
                     "VoiceID": 84,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Quel niveau vas-tu jouer ?"
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 85,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Quel mini-jeu vas-tu jouer ?"
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 86,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Écran des options.\nTu peux y changer divers paramètres."
+                    "Text": "Optionen.\nSuch dir die Option aus die du anpassen willst."
                 },
                 {
                     "VoiceID": 87,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nTu peux y écouter les musiques de fond."
+                    "Text": "Sound Test.\nHöre dir etwas coole Musik an."
                 },
                 {
                     "VoiceID": 88,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Il semblerait que ta carte mémoire ne soit pas prête."
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 89,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Il semblerait que tu n'aies pas\nassez d'espace dans ta carte mémoire."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -567,109 +567,109 @@
                     "VoiceID": 90,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 91,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 92,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù tu peux profiter de l'histoire."
+                    "Text": "Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 93,
-                    "Duration": 180,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode épreuve où\ntu peux jouer à un niveau."
+                    "Text": "Übungs-Modus .\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 94,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis un personnage."
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 95,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec mon amour, Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 96,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 97,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 98,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec moi."
+                    "Text": "Wie man als mich, Amy spielt."
                 },
                 {
                     "VoiceID": 99,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec M. Robot."
+                    "Text": "Wie man als E-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 100,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 101,
-                    "Duration": 240,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action.\nFais attention à bien les mémoriser !"
+                    "Text": "Wie man das Spiel schafft.\nLese es dir gut durch."
                 },
                 {
                     "VoiceID": 102,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Quel niveau veux-tu jouer ?"
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 103,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Quel mini-jeu veux-tu jouer ?"
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 104,
-                    "Duration": 240,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Écran des options.\nTu peux y changer divers paramètres."
+                    "Text": "Optionen.\nDu kannst verschiedene Optionen anpassen."
                 },
                 {
                     "VoiceID": 105,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nTu peux écouter la musique du jeu ici."
+                    "Text": "Sound Test.\nDu kannst dir hier die Musik des Spiels anhören."
                 },
                 {
                     "VoiceID": 106,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Ta carte mémoire est-elle placée correctement ?"
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 107,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Tu n'as pas assez d'espace\nsur ta carte mémoire."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -677,111 +677,111 @@
             "Menu voices: Gamma": [
                 {
                     "VoiceID": 108,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 109,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Choisis un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 110,
-                    "Duration": 120,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Mode aventure."
+                    "Text": "Abenteuer-Modus.\nStart hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 111,
-                    "Duration": 90,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Mode épreuve."
+                    "Text": "Übungs-Modus.\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 112,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisis un personnage à jouer."
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 113,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : Sonic."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 114,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : Tails."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 115,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : Knuckles."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 116,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : Amy."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 117,
-                    "Duration": 270,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : E-102 Gamma."
+                    "Text": "Wie man als mich, E-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 118,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Instructions de jeu : Big."
+                    "Text": "Wie man als Big spielt."
                 },
                 {
                     "VoiceID": 119,
-                    "Duration": 360,
+                    "Duration": 300,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action.\nPrenez immédiatement note de ces informations."
+                    "Text": "Wie man das Spiel schafft.\nBitte gebe diese Information an."
                 },
                 {
                     "VoiceID": 120,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisis un niveau à jouer."
+                    "Text": "Wähle ein Level aus."
                 },
                 {
                     "VoiceID": 121,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisissez un mini-jeu."
+                    "Text": "Wähle ein Spiel aus."
                 },
                 {
                     "VoiceID": 122,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Écran d'options.\nChoisissez un paramètre."
+                    "Text": "Optionen. Such dir die Option\naus die du dir wünschst anzupassen."
                 },
                 {
                     "VoiceID": 123,
-                    "Duration": 330,
+                    "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nDe la musique de fond peut être sélectionnée ici."
+                    "Text": "Sound Test.\nAuswählen um Hintergrund-Musik abzuspielen."
                 },
                 {
                     "VoiceID": 124,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Carte mémoire introuvable."
+                    "Text": "Speicherkarte kann nicht gefunden werden."
                 },
                 {
                     "VoiceID": 125,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Attention !\nEspace insuffisant dans la carte mémoire !"
+                    "Text": "Warnung! Nicht genügend Speicherplatz.\nWarnung!"
                 }
             ]
         },
@@ -789,111 +789,111 @@
             "Menu voices: Big": [
                 {
                     "VoiceID": 126,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Ehmm... Welche Speicherkarte?"
                 },
                 {
                     "VoiceID": 127,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Quel fichier voudrais-tu choisir ?"
+                    "Text": "Ehmm... Welcher Spielstand?"
                 },
                 {
                     "VoiceID": 128,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode où\ntu peux faire l'histoire."
+                    "Text": "Du kannst hier dein Abenteuer starten."
                 },
                 {
                     "VoiceID": 129,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Tu peux faire un niveau au choix."
+                    "Text": "Du kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 130,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Avec qui voudrais-tu jouer ?"
+                    "Text": "Ehmm... Welcher Charakter?"
                 },
                 {
                     "VoiceID": 131,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec le hérisson."
+                    "Text": "Wie man als Sonic spielt."
                 },
                 {
                     "VoiceID": 132,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec le renard."
+                    "Text": "Wie man als Tails spielt."
                 },
                 {
                     "VoiceID": 133,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec l'échidné."
+                    "Text": "Wie man als Knuckles spielt."
                 },
                 {
                     "VoiceID": 134,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec la fille."
+                    "Text": "Wie man als Amy spielt."
                 },
                 {
                     "VoiceID": 135,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec le robot."
+                    "Text": "Wie man als E-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 136,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec moi."
+                    "Text": "Wie man als mich, Big spielt."
                 },
                 {
                     "VoiceID": 137,
-                    "Duration": 330,
+                    "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Règles des niveaux d'action.\nAssure-toi de les mémoriser !"
+                    "Text": "Wie man das Spiel schafft.\nEhmm... Lies es, okay?"
                 },
                 {
                     "VoiceID": 138,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Où voudrais-tu jouer ?"
+                    "Text": "Wo möchtest du spielen?"
                 },
                 {
                     "VoiceID": 139,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Qu'est-ce que tu voudrais jouer ?"
+                    "Text": "Was möchtest du spielen?"
                 },
                 {
                     "VoiceID": 140,
-                    "Duration": 300,
+                    "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Options.\nIl semblerait que tu puisses changer des choses."
+                    "Text": "Ehmm... Optionen.\nSuch dir die Option aus die du anpassen willst."
                 },
                 {
                     "VoiceID": 141,
-                    "Duration": 270,
+                    "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nTu peux écouter de la musique."
+                    "Text": "Sound Test.\nHöre dir die coole Musik des Spiels an."
                 },
                 {
                     "VoiceID": 142,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Ta carte mémoire est-elle placée correctement ?"
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 143,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Tu n'as pas assez d'espace dans\nta carte mémoire."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -901,111 +901,111 @@
             "Menu voices: Eggman": [
                 {
                     "VoiceID": 144,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Choisis une carte mémoire."
+                    "Text": "Wähle eine Speicherkarte aus."
                 },
                 {
                     "VoiceID": 145,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Bien ! Maintenant, choisis un fichier."
+                    "Text": "Wähle einen Spielstand aus."
                 },
                 {
                     "VoiceID": 146,
-                    "Duration": 270,
+                    "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Ceci est le mode aventure\noù tu peux te mesurer à moi."
+                    "Text": "Abenteuer-Modus.\nStarte hier dein Abenteuer."
                 },
                 {
                     "VoiceID": 147,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Entraîne-toi dans le mode épreuve."
+                    "Text": "Übungs-Modus.\nDu kannst ein Level spielen."
                 },
                 {
                     "VoiceID": 148,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Avec qui voudrais-tu jouer ?"
+                    "Text": "Wähle deinen Charakter aus."
                 },
                 {
                     "VoiceID": 149,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec ce maudit Sonic."
+                    "Text": "Wie man als diesen Igel spielt."
                 },
                 {
                     "VoiceID": 150,
-                    "Duration": 150,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec ce gamin renard, Tails."
+                    "Text": "Wie man als diesen zweischwänzigen Fuchs spielt."
                 },
                 {
                     "VoiceID": 151,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec ce crétin, Knuckles."
+                    "Text": "Wie man als diesen Knucklehead spielt."
                 },
                 {
                     "VoiceID": 152,
-                    "Duration": 150,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec cette petite fille, Amy."
+                    "Text": "Wie man als dieses Kind, Amy spielt."
                 },
                 {
                     "VoiceID": 153,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec mon serviteur,\nE-102 Gamma."
+                    "Text": "Wie man als meine Kreation,\nE-102 Gamma spielt."
                 },
                 {
                     "VoiceID": 154,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Comment jouer avec ce gros chat,\nBig machin-chose."
+                    "Text": "Wie man als dieser fetten Katze spielt."
                 },
                 {
                     "VoiceID": 155,
-                    "Duration": 480,
+                    "Duration": 300,
                     "Mode": "Menu",
-                    "Text": "Explication des règles des niveaux d'action. Finis\nta lecture et grouille-toi de commencer une partie !"
+                    "Text": "Wie man das Spiel schafft.\nHör auf zu lesen und starte das Spiel!"
                 },
                 {
                     "VoiceID": 156,
-                    "Duration": 120,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Quel niveau vas-tu faire ?"
+                    "Text": "Also, welches Level willst du spielen?"
                 },
                 {
                     "VoiceID": 157,
-                    "Duration": 120,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Quel mini-jeu vas-tu faire ?"
+                    "Text": "Also, welches Spiel willst du spielen?"
                 },
                 {
                     "VoiceID": 158,
-                    "Duration": 300,
+                    "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Écran des options.\nDonc, change n'importe quelle option que tu veux."
+                    "Text": "Optionen.\nMach schon, pass sie an wie du willst."
                 },
                 {
                     "VoiceID": 159,
-                    "Duration": 300,
+                    "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Test sonore.\nTu peux écouter divers musiques ici."
+                    "Text": "Sound Test.\nDu kannst hier die Musik des Spiels hören."
                 },
                 {
                     "VoiceID": 160,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Ta carte mémoire est-elle placée correctement ?"
+                    "Text": "Ist deine Speicherkarte korrekt konfiguriert?"
                 },
                 {
                     "VoiceID": 161,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "La mémoire de ta carte mémoire\nest déjà remplie par autre chose."
+                    "Text": "Du hast nicht genügend Speicherplatz\nauf der Speicherkarte."
                 }
             ]
         },
@@ -1013,39 +1013,39 @@
             "Character select lines": [
                 {
                     "VoiceID": 1837,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Let's get them !"
+                    "Text": "Los gehts!"
                 },
                 {
                     "VoiceID": 1800,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Sonic ! Me voilà !"
+                    "Text": "Hier komm ich, Sonic!"
                 },
                 {
                     "VoiceID": 1787,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Très bien ! On y va !"
+                    "Text": "Okay! Los gehts!"
                 },
                 {
                     "VoiceID": 1730,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "C'est à moi maintenant !"
+                    "Text": "Jetzt bin ich dran!"
                 },
                 {
                     "VoiceID": 1767,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Préparations complétées."
+                    "Text": "Vorbereitung fertig."
                 },
                 {
                     "VoiceID": 1744,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Froggy, attends-moi !"
+                    "Text": "Halt durch, Froggy! Ich komme!"
                 }
             ]
         },
@@ -1053,33 +1053,33 @@
             "Common idle lines": [
                 {
                     "VoiceID": 390,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Il va bientôt falloir y aller..."
+                    "Text": "Ich sollte besser los!"
                 },
                 {
                     "VoiceID": 392,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Je dois me dépêcher !"
+                    "Text": "Ich sollte mich lieber beeilen!"
                 },
                 {
                     "VoiceID": 393,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Waah, je suis si fatiguée !"
+                    "Text": "Ich bin so müde!"
                 },
                 {
                     "VoiceID": 394,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Préparations au combat complétées."
+                    "Text": "Kampfsystem aktiviert."
                 },
                 {
                     "VoiceID": 395,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je commence à avoir faim."
+                    "Text": "Hey, ich bin etwas hungrig."
                 }
             ]
         },
@@ -1087,39 +1087,39 @@
             "Idle: Station Square (station area)": [
                 {
                     "VoiceID": 288,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Cette gare est donc\nle centre de la ville ?"
+                    "Text": "Diese Station muss\ndie Mitte der Stadt sein."
                 },
                 {
                     "VoiceID": 289,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Les chemins de fer sont cools, eux aussi !"
+                    "Text": "Züge sind auch cool!"
                 },
                 {
                     "VoiceID": 290,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Voici donc Station Square ?"
+                    "Text": "Dies ist also Station Square?"
                 },
                 {
                     "VoiceID": 291,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Une ville avec vue sur\nl'océan, c'est tellement génial !"
+                    "Text": "Es ist toll einen Ozean in der nähe zu haben."
                 },
                 {
                     "VoiceID": 292,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je me demande s'il y a des poissons,\nici..."
+                    "Text": "Ich frage mich ob es hier Fische gibt."
                 },
                 {
                     "VoiceID": 293,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Exploration de Station Square en cours..."
+                    "Text": "Suche Station Square..."
                 }
             ]
         },
@@ -1127,39 +1127,39 @@
             "Idle: Station Square (city hall area)": [
                 {
                     "VoiceID": 274,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Cet endroit a pas mal changé, lui aussi..."
+                    "Text": "Dieses Gebiet hat sich sehr verändert."
                 },
                 {
                     "VoiceID": 275,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai faim..."
+                    "Text": "Junge, bin ich hungrig."
                 },
                 {
                     "VoiceID": 276,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je ne me sens pas à ma place, dans une ville."
+                    "Text": "Ich hasse Großstädte."
                 },
                 {
                     "VoiceID": 277,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Devrais-je faire les magasins ?"
+                    "Text": "Ich will shoppen gehen!"
                 },
                 {
                     "VoiceID": 278,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Tout le monde a l'air d'être occupé."
+                    "Text": "Alle scheinen sehr beschäftigt zu sein."
                 },
                 {
                     "VoiceID": 279,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Détection d'êtres humains."
+                    "Text": "Mehrfache Lebensform-Lesungen erfasst."
                 }
             ]
         },
@@ -1167,15 +1167,15 @@
             "Idle: Station Square (sewers)": [
                 {
                     "VoiceID": 286,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai l'impression d'être un rat."
+                    "Text": "Ich fühl mich wi eine Ratte."
                 },
                 {
                     "VoiceID": 287,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "C'est tellement sombre, ici !"
+                    "Text": "Wow, hier ist es dunkel!"
                 }
             ]
         },
@@ -1185,37 +1185,37 @@
                     "VoiceID": 300,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ces endroits ne sont pas trop mon truc."
+                    "Text": "Ich bin nicht so gern an Orten wie diesen."
                 },
                 {
                     "VoiceID": 301,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je ne pense pas pouvoir aller\nau parc d'attraction."
+                    "Text": "Hmm, Ich komme nicht in den Park!"
                 },
                 {
                     "VoiceID": 302,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Quel est cet endroit ?"
+                    "Text": "Was ist das für ein Ort?"
                 },
                 {
                     "VoiceID": 303,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai le c?ur qui bat la chamade !"
+                    "Text": "Ich bin aufgeregt!"
                 },
                 {
                     "VoiceID": 304,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Twinkle Park ?"
+                    "Text": "Twinkle Park?"
                 },
                 {
                     "VoiceID": 305,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Circuit de karts détecté."
+                    "Text": "Auto-Scooter Gebiet bestätigt."
                 }
             ]
         },
@@ -1223,39 +1223,39 @@
             "Idle: Station Square (hotel)": [
                 {
                     "VoiceID": 294,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey hey ! C'est pas le moment de se reposer !"
+                    "Text": "Hey-hey! wir haben keine Zeit zum ausruhen!"
                 },
                 {
                     "VoiceID": 295,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Cet hôtel... J'envie ceux qui s'y reposent."
+                    "Text": "Dieses Hotel ist toll!"
                 },
                 {
                     "VoiceID": 296,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hm, un hôtel pour les vacanciers ?"
+                    "Text": "Super, ein Ferienhotel."
                 },
                 {
                     "VoiceID": 297,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "J'adorerais rester à un hôtel comme celui-ci !"
+                    "Text": "Hier würde ich gerne Urlaub machen!"
                 },
                 {
                     "VoiceID": 298,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Quelle grande maison !"
+                    "Text": "Was ein großes Haus!"
                 },
                 {
                     "VoiceID": 299,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Mode combat désengagé."
+                    "Text": "Kampfsystem deaktiviert."
                 }
             ]
         },
@@ -1263,39 +1263,39 @@
             "Idle: Station Square (casino/station)": [
                 {
                     "VoiceID": 280,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Oh oh ! Je n'ai pas le temps de jouer\ndans un endroit pareil !"
+                    "Text": "Wir haben keine Zeit zum faulenzen!"
                 },
                 {
                     "VoiceID": 281,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Quelle grande ville !"
+                    "Text": "Was für eine große Stadt!"
                 },
                 {
                     "VoiceID": 282,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Quelle ville pleine de vie !"
+                    "Text": "Dieser Ort ist laut!"
                 },
                 {
                     "VoiceID": 283,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Cette ville ne change jamais !"
+                    "Text": "Diese Stadt ändert sich nie!"
                 },
                 {
                     "VoiceID": 284,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Froggy, où peux-tu être ?"
+                    "Text": "Ich frage mich wo Froggy ist."
                 },
                 {
                     "VoiceID": 285,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Train se dirigeant vers les Mystic Ruins confirmé."
+                    "Text": "Zug nach Mystic Ruins bestätigt."
                 }
             ]
         },
@@ -1303,39 +1303,39 @@
             "Idle: Mystic Ruins (station area)": [
                 {
                     "VoiceID": 306,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Cet endroit est calme..."
+                    "Text": "Hier muss es ziemlich einsam werden."
                 },
                 {
                     "VoiceID": 307,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Cet endroit a quand même pas mal\nchangé depuis qu'ils ont construit la gare."
+                    "Text": "Diese Gebiet hat sich ziemlich verändert\nnachdem sie diese Station gebaut haben."
                 },
                 {
                     "VoiceID": 308,
-                    "Duration": 150,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Je dois me dépêcher\net restaurer l'Émeraude Mère."
+                    "Text": "Ich muss den Master Emerald finden."
                 },
                 {
                     "VoiceID": 309,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je n'aime pas spécialement ce genre d'endroit..."
+                    "Text": "Orte wie diese mag ich nicht."
                 },
                 {
                     "VoiceID": 310,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Je me demande bien où peut être Froggy..."
+                    "Text": "Froggy, wo bist du?"
                 },
                 {
                     "VoiceID": 311,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Exploration des Mystic Ruins..."
+                    "Text": "Suche Mystic Ruins..."
                 }
             ]
         },
@@ -1345,19 +1345,19 @@
                     "VoiceID": 312,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Donc, c'est Angel Island ?"
+                    "Text": "Also, dies ist Angel Island!"
                 },
                 {
                     "VoiceID": 313,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Il faut que je me dépêche\npour faire remonter cette île dans le ciel..."
+                    "Text": "Ich muss diese Insel wieder in\ndie Luft bekommen."
                 },
                 {
                     "VoiceID": 314,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Atterrissage sur Angel Island."
+                    "Text": "Ankunft bei Angel Island."
                 }
             ]
         },
@@ -1367,37 +1367,37 @@
                     "VoiceID": 315,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Là on peut parler !"
+                    "Text": "So mag ich das!"
                 },
                 {
                     "VoiceID": 316,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "D'où est-ce que je viens ?"
+                    "Text": " Aus welcher Richtung kam ich jetzt?"
                 },
                 {
                     "VoiceID": 317,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Cet endroit...\nIl me rend nostalgique, étrangement."
+                    "Text": "Dieser Ort gibt mir\ndas komischste Gefühl."
                 },
                 {
                     "VoiceID": 318,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Cet endroit est génial !"
+                    "Text": "Dieser Ort ist super!"
                 },
                 {
                     "VoiceID": 319,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je devrais peut-être rentrer..."
+                    "Text": "Vielleicht geh ich nach Haus..."
                 },
                 {
                     "VoiceID": 320,
-                    "Duration": 360,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Augmentation de la température.\nMode de refroidissement forcé 1 : enclenché."
+                    "Text": "Temperatur erhöht.\nKühlungssystem aktiviert."
                 }
             ]
         },
@@ -1407,31 +1407,31 @@
                     "VoiceID": 321,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Voici donc la base d'Eggman ?"
+                    "Text": "Dies muss wohl Robotniks Basis sein!"
                 },
                 {
                     "VoiceID": 322,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Voici donc la forteresse d'Eggman !"
+                    "Text": "Also dies ist Robotniks Festung!"
                 },
                 {
                     "VoiceID": 323,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "C'est... sa base ?"
+                    "Text": "Standort: Ort der Kreation."
                 },
                 {
                     "VoiceID": 324,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Sonic, je ferai de mon mieux !"
+                    "Text": "Ich werde mein bestes geben, Sonic."
                 },
                 {
                     "VoiceID": 325,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "L'endroit où j'ai été créé."
+                    "Text": "Der Ort an dem ich kreiert wurde."
                 }
             ]
         },
@@ -1439,33 +1439,33 @@
             "Idle: Past (normal)": [
                 {
                     "VoiceID": 326,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Quel est cet endroit ?"
+                    "Text": "Was ist das für ein Ort?"
                 },
                 {
                     "VoiceID": 327,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Où... suis-je ?"
+                    "Text": "Wo bin ich?"
                 },
                 {
                     "VoiceID": 328,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ouh là... Je suis où ?"
+                    "Text": "Hey! Wo bin ich?"
                 },
                 {
                     "VoiceID": 329,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Huum... Où suis-je ?"
+                    "Text": "Ehmm... Wo bin ich?"
                 },
                 {
                     "VoiceID": 330,
-                    "Duration": 330,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Données correspondantes introuvables.\nImpossible de déterminer la position actuelle."
+                    "Text": "Daten nicht verfügbar.\nJetziger Standort unbekannt."
                 }
             ]
         },
@@ -1475,13 +1475,13 @@
                     "VoiceID": 331,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "C'est horrible !"
+                    "Text": "Das ist schlecht!"
                 },
                 {
                     "VoiceID": 332,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pourquoi... ?"
+                    "Text": "Warum?"
                 }
             ]
         },
@@ -1489,39 +1489,39 @@
             "Idle: Egg Carrier (outside)": [
                 {
                     "VoiceID": 333,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Pfiou ! Magnifique !"
+                    "Text": "Dieses Schiff ist zu viel!"
                 },
                 {
                     "VoiceID": 334,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ce vaisseau est incroyable !"
+                    "Text": "Dieses Schiff ist cool!"
                 },
                 {
                     "VoiceID": 335,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Et dire qu'une telle chose\npeut voler..."
+                    "Text": "Wie fliegt dieses Ding?"
                 },
                 {
                     "VoiceID": 336,
-                    "Duration": 180,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Pourquoi voudrait-il\ncréer une chose pareille..."
+                    "Text": "Ich frage mich warum dieser Man sich die Mühe\nmachte Sachen wie diese zu machen."
                 },
                 {
                     "VoiceID": 337,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Poursuite de la mission..."
+                    "Text": "Fahre Mission fort."
                 },
                 {
                     "VoiceID": 338,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Comment ce vaisseau fait-il pour voler ?"
+                    "Text": "Ehmm... Wie fliegt dieses Schiff?"
                 }
             ]
         },
@@ -1529,39 +1529,39 @@
             "Idle: Egg Carrier (inside)": [
                 {
                     "VoiceID": 339,
-                    "Duration": 240,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ghh... Il n'essaye même pas de cacher\nses goûts à ses compagnons de voyage !"
+                    "Text": "Dieses Schiff ist einfach zu komisch!"
                 },
                 {
                     "VoiceID": 340,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Un jour, je créerai un vaisseau comme celui-ci !"
+                    "Text": "Eines Tages möchte ich\nein Schiff wie dieses bauen!"
                 },
                 {
                     "VoiceID": 341,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Où est la sortie ?"
+                    "Text": "Wo ist der Ausgang?"
                 },
                 {
                     "VoiceID": 342,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Marchons doucement pour ne pas\nnous faire repérer."
+                    "Text": "Schleiche lieber\ndamit sie uns nicht hören."
                 },
                 {
                     "VoiceID": 343,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Poursuite de la mission..."
+                    "Text": "Fahre Mission fort."
                 },
                 {
                     "VoiceID": 344,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Huum... Sortie ? Sortie ? Huum..."
+                    "Text": "Ehmm... Ausgänge? Ausgänge?"
                 }
             ]
         },
@@ -1569,27 +1569,27 @@
             "Idle: Emerald Coast": [
                 {
                     "VoiceID": 227,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "J'imagine que je n'ai qu'à\nlonger le bord de mer."
+                    "Text": "Alles was ich tun muss ist dieser Küste zu folgen!"
                 },
                 {
                     "VoiceID": 228,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Détection de grenouilles."
+                    "Text": "Frosch-Lebensform erfasst."
                 },
                 {
                     "VoiceID": 229,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Le vent fait du bien !"
+                    "Text": "Was für eine tolle Brise!"
                 },
                 {
                     "VoiceID": 230,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Quel grand lac !"
+                    "Text": "Was ein großer See!"
                 }
             ]
         },
@@ -1599,31 +1599,31 @@
                     "VoiceID": 231,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je peux entendre le vent, au loin."
+                    "Text": "Ich kann den Wind in der ferne hören."
                 },
                 {
                     "VoiceID": 232,
-                    "Duration": 240,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Présence d'E-103 confirmée."
+                    "Text": "E-103 erfasst."
                 },
                 {
                     "VoiceID": 233,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Mieux vaut sortir d'ici rapidement !"
+                    "Text": "Ich hau hier lieber ab!"
                 },
                 {
                     "VoiceID": 234,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai atterri assez haut !"
+                    "Text": "Wow, es ist ziemlich weit oben!"
                 },
                 {
                     "VoiceID": 235,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Où est passé Sonic ?"
+                    "Text": "Ich frag mich wo Sonic ist."
                 }
             ]
         },
@@ -1631,21 +1631,21 @@
             "Idle: Casinopolis": [
                 {
                     "VoiceID": 236,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hein... Des flippers ?"
+                    "Text": "Hmm, Flipper!"
                 },
                 {
                     "VoiceID": 237,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Que c'est brillant, ici !"
+                    "Text": "Ist so hell hier!"
                 },
                 {
                     "VoiceID": 238,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Quelle horrible odeur...\nC'est un vide-ordures ?"
+                    "Text": "Was ist dieser Geruch?\nRiecht nach Müll!"
                 }
             ]
         },
@@ -1653,33 +1653,33 @@
             "Idle: Icecap": [
                 {
                     "VoiceID": 239,
-                    "Duration": 150,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pfiou... Il fait froid à en geler, ici !"
+                    "Text": "Es wird kalt!"
                 },
                 {
                     "VoiceID": 240,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "C'est comme un royaume de glace..."
+                    "Text": "Man, alles ist eingefroren!"
                 },
                 {
                     "VoiceID": 241,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "La glace semble délicieuse !"
+                    "Text": "Das Eis sieht irgendwie lecker aus!"
                 },
                 {
                     "VoiceID": 242,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je vais faire des figures de malade !"
+                    "Text": "Schau zu und lerne!"
                 },
                 {
                     "VoiceID": 243,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "J'imagine qu'il va falloir descendre."
+                    "Text": "Zeit zum Jammen!"
                 }
             ]
         },
@@ -1689,25 +1689,25 @@
                     "VoiceID": 244,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ça doit être l'entrée de la\ncourse de karts."
+                    "Text": "Dies muss wohl der Eingang\nzum Auto-Scooter Gebiet sein."
                 },
                 {
                     "VoiceID": 245,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Il n'y a pas l'air d'y avoir des personnes ici."
+                    "Text": "Sieht so aus als wäre keiner hier."
                 },
                 {
                     "VoiceID": 246,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "J'ai hâte de voir ce que\nje vais pouvoir pêcher."
+                    "Text": "Ich frage mich ob die Fische beißen."
                 },
                 {
                     "VoiceID": 247,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je me demande où est passé Sonic..."
+                    "Text": "Ich frage mich wo Sonic hin ist."
                 }
             ]
         },
@@ -1715,33 +1715,33 @@
             "Idle: Speed Highway": [
                 {
                     "VoiceID": 248,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "OK... À fond les bananes !"
+                    "Text": "Zeit für etwas Supersonic-Geschwindigkeit!"
                 },
                 {
                     "VoiceID": 249,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Où est Eggman ?"
+                    "Text": "Wo ist Robotnik?"
                 },
                 {
                     "VoiceID": 250,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey hey, c'est pas le moment de faire joujou !"
+                    "Text": "Hey, wir haben keine Zeit zum ausruhen!"
                 },
                 {
                     "VoiceID": 251,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Les voitures ne semblent pas bouger !"
+                    "Text": "Die Autos sind so langsam!\nDie sehen aus als würden sie sich nicht bewegen."
                 },
                 {
                     "VoiceID": 252,
-                    "Duration": 180,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Les pièces de l'Émeraude doivent\nêtre quelque part dans cette ville."
+                    "Text": "Die Teile für den Master Emerald\nmüssen irgendwo in dieser Stadt sein."
                 }
             ]
         },
@@ -1749,27 +1749,27 @@
             "Idle: Red Mountain": [
                 {
                     "VoiceID": 253,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Où est passé l'Egg Carrier ?"
+                    "Text": "Wo ist der Egg-Carrier hin?"
                 },
                 {
                     "VoiceID": 254,
-                    "Duration": 270,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ouh là... S'en est fini de\nmoi si je tombe dans la lave."
+                    "Text": "Whoa! Diese Lava sieht sehr, sehr heiß aus!"
                 },
                 {
                     "VoiceID": 255,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Présence d'E-104 confirmée."
+                    "Text": "E-104 erfasst."
                 },
                 {
                     "VoiceID": 256,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Si je tombe de cette falaise, s'en est fini de moi."
+                    "Text": "Ich möchte hier echt nicht runterfallen!"
                 }
             ]
         },
@@ -1777,33 +1777,33 @@
             "Idle: Sky Deck": [
                 {
                     "VoiceID": 257,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Pfiou... Si je tombe ici, c'est terminé pour moi."
+                    "Text": "Whoa-whoa!\nIch möchte hier echt nicht runterfallen!"
                 },
                 {
                     "VoiceID": 258,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "C'est si haut...\nMes jambes commencent à faiblir !"
+                    "Text": "Es ist ziemlich hoch!\nMeine Beine sind am zittern!"
                 },
                 {
                     "VoiceID": 259,
-                    "Duration": 240,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Shoot ! Que ce vent est pénible !"
+                    "Text": "Verdammt! Ich hasse diesen Wind!"
                 },
                 {
                     "VoiceID": 260,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hey hey, c'est quoi le\nproblème de ce vaisseau ?"
+                    "Text": "Hey, was ist mit diesem Schiff los?"
                 },
                 {
                     "VoiceID": 261,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Bien... Où sont les trésors ?"
+                    "Text": "Okay wo ist nun der Schatz?"
                 }
             ]
         },
@@ -1811,21 +1811,21 @@
             "Idle: Lost World": [
                 {
                     "VoiceID": 262,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Qu'est-ce que c'est calme ici."
+                    "Text": "Hier ist es ungemein leise."
                 },
                 {
                     "VoiceID": 263,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "C'est quoi... cet endroit...?"
+                    "Text": "Wo bin ich?"
                 },
                 {
                     "VoiceID": 264,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Les pièces de l'Émeraude\ndevraient être à cet endroit."
+                    "Text": "Der Emerald ist irgendwo in diesem Raum."
                 }
             ]
         },
@@ -1833,33 +1833,33 @@
             "Idle: Final Egg": [
                 {
                     "VoiceID": 265,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Beurk... Quelle horrible odeur d'huile..."
+                    "Text": "Ich rieche Öl."
                 },
                 {
                     "VoiceID": 266,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Petit oiseau, reprenons-nous et partons !"
+                    "Text": "Hey, kleines Vögelchen. Gehts dir gut?"
                 },
                 {
                     "VoiceID": 267,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Où est-ce que ça va ?"
+                    "Text": "Wo endet das nur?"
                 },
                 {
                     "VoiceID": 268,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Attends pour voir, Eggman !"
+                    "Text": "Warts nur ab, Robotnik!"
                 },
                 {
                     "VoiceID": 269,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hérisson bleu : ennemi."
+                    "Text": "Blauer Igel: Gegner."
                 }
             ]
         },
@@ -1867,27 +1867,27 @@
             "Idle: Hot Shelter": [
                 {
                     "VoiceID": 270,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Eggman, t'es vraiment affreux !"
+                    "Text": "Ich hasse Robotnik so sehr!"
                 },
                 {
                     "VoiceID": 271,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je me demande si Froggy va bien."
+                    "Text": "Ich frage mich ob es Froggy gut geht."
                 },
                 {
                     "VoiceID": 272,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Rooh... Où est-ce que je devrais aller ?"
+                    "Text": "Ehmm... In welche Richtung geh ich nun?"
                 },
                 {
                     "VoiceID": 273,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Présence d'E-105 confirmée."
+                    "Text": "E-105 erfasst."
                 }
             ]
         },
@@ -1895,45 +1895,45 @@
             "Idle: Sonic's bosses": [
                 {
                     "VoiceID": 368,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "C'est quoi le problème de ce type ?\nIl n'est pas invincible, quand même ?"
+                    "Text": "Er kann nicht unverwundbar sein, oder?"
                 },
                 {
                     "VoiceID": 369,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je sais pas ce que t'as en tête,\nmais ça ne sert à rien !"
+                    "Text": "Du bist keine Herausforderung für mich!"
                 },
                 {
                     "VoiceID": 370,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Knuckles ? Qu'est-ce qui ne va pas ?"
+                    "Text": "Wie gehts, Knuckles?"
                 },
                 {
                     "VoiceID": 371,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hé ! Cette fois-ci, tu ne t'échapperas pas !"
+                    "Text": "Hey! Dieses mal entkommst du mir nicht!"
                 },
                 {
                     "VoiceID": 372,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Not so bad ! Pas mal du tout !"
+                    "Text": "Nicht schlecht, wirklich nicht schlecht!"
                 },
                 {
                     "VoiceID": 373,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Où est son point faible ?"
+                    "Text": "Wo könnte nur seine Schwachstelle sein?"
                 },
                 {
                     "VoiceID": 374,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Fini de jouer, Eggman !"
+                    "Text": "Du hattest deinen Spaß.\nJetzt bin ich dran!"
                 }
             ]
         },
@@ -1941,33 +1941,33 @@
             "Idle: Tails' bosses": [
                 {
                     "VoiceID": 375,
-                    "Duration": 60,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je ne vais pas perdre !"
+                    "Text": "Komm schon, Tails! Du kannst es schaffen!"
                 },
                 {
                     "VoiceID": 376,
-                    "Duration": 90,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "A-Attends !"
+                    "Text": "H-hey, warte kurz!"
                 },
                 {
                     "VoiceID": 377,
-                    "Duration": 90,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Sale monstre liquide !"
+                    "Text": "Du flüssiges Monster!"
                 },
                 {
                     "VoiceID": 378,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Il y a quelque chose de différent chez ce robot."
+                    "Text": "Etwas ist anders an diesem Roboter."
                 },
                 {
                     "VoiceID": 379,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je peux le faire par mes propres moyens !"
+                    "Text": "Ich weiß dass ich es selbst schaffen kann!"
                 }
             ]
         },
@@ -1975,27 +1975,27 @@
             "Idle: Knuckles' bosses": [
                 {
                     "VoiceID": 380,
-                    "Duration": 90,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je vais te retourner la faveur !"
+                    "Text": "Das reicht! Ich hab genug!"
                 },
                 {
                     "VoiceID": 381,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Redonne-moi l'Émeraude !"
+                    "Text": "Geb mir den Emerald!"
                 },
                 {
                     "VoiceID": 382,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Il ne sait jamais quand s'arrêter !"
+                    "Text": "Wann wirst du jemals lernen?"
                 },
                 {
                     "VoiceID": 383,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Cette fois-ci... Je vais en finir avec toi !"
+                    "Text": "Dieses mal, bist du erledigt!"
                 }
             ]
         },
@@ -2003,9 +2003,9 @@
             "Idle: Amy's boss (Zero)": [
                 {
                     "VoiceID": 384,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je ne te laisserai pas t'en tirer comme ça !"
+                    "Text": "Du wirst dafür bezahlen\nwas du getan hast!"
                 }
             ]
         },
@@ -2013,21 +2013,21 @@
             "Idle: Gamma's bosses": [
                 {
                     "VoiceID": 385,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Cible confirmée."
+                    "Text": "Ziel bestätigt."
                 },
                 {
                     "VoiceID": 386,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hérisson bleu : ennemi."
+                    "Text": "Blauer Igel: Gegner."
                 },
                 {
                     "VoiceID": 387,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Beta !"
+                    "Text": "Beta!"
                 }
             ]
         },
@@ -2035,15 +2035,15 @@
             "Idle: Super Sonic": [
                 {
                     "VoiceID": 388,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Je te montrerai le\nvrai pouvoir des Émeraudes !"
+                    "Text": "Ich zeig dir was\ndie Chaos Emeralds wirklich tun können!"
                 },
                 {
                     "VoiceID": 389,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Est-ce que c'est son cœur ?"
+                    "Text": "Also, dies ist sein Kern!"
                 }
             ]
         },
@@ -2051,21 +2051,21 @@
             "Idle: Chao Garden (Sonic)": [
                 {
                     "VoiceID": 348,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Quel endroit tranquille..."
+                    "Text": "Was für ein friedlicher Ort!"
                 },
                 {
                     "VoiceID": 349,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Yo ! Vous allez bien, les gars ?"
+                    "Text": "Yo! War alles gut bei euch?"
                 },
                 {
                     "VoiceID": 350,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey guys ! Pas de bagarre !"
+                    "Text": "Denk nur dran, kein kämpfen!"
                 }
             ]
         },
@@ -2073,21 +2073,21 @@
             "Idle: Chao Garden (Tails)": [
                 {
                     "VoiceID": 351,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je me sens détendu quand je viens ici."
+                    "Text": "Ich fühl mich hier wirklich zu hause!"
                 },
                 {
                     "VoiceID": 352,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Comment vous allez, les gars ?"
+                    "Text": "Wie gehts Leute?"
                 },
                 {
                     "VoiceID": 353,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je vous aime, moi aussi !"
+                    "Text": "Ihr seid die besten!"
                 }
             ]
         },
@@ -2095,21 +2095,21 @@
             "Idle: Chao Garden (Knuckles)": [
                 {
                     "VoiceID": 354,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je suppose qu'il n'y a pas d'Émeraudes ici..."
+                    "Text": "Ich denk mal hier sind keine Emeralds."
                 },
                 {
                     "VoiceID": 355,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "J'ai l'impression...\nd'avoir déjà rencontré ces gars quelque part..."
+                    "Text": "Ich hab dieses Gefühl als ob\nich diese Typen schonmal getroffen habe."
                 },
                 {
                     "VoiceID": 356,
-                    "Duration": 240,
+                    "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Être ici me rappelle ma contrée\npour d'étranges raisons..."
+                    "Text": "Dieser Ort erinnert mich an zu hause.\nIch frag mich warum?"
                 }
             ]
         },
@@ -2117,27 +2117,27 @@
             "Idle: Chao Garden (Amy)": [
                 {
                     "VoiceID": 357,
-                    "Duration": 270,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Aaah... C'est si tranquille, ici..."
+                    "Text": "Dieser Ort ist so entspannend!"
                 },
                 {
                     "VoiceID": 358,
-                    "Duration": 360,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "*baille* Je commence à avoir sommeil..."
+                    "Text": "*gähn* Ich werde müde."
                 },
                 {
                     "VoiceID": 359,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Les gars ! Ne vous battez pas s'il vous plaît !"
+                    "Text": "Ich will euch nicht kämpfen sehen!"
                 },
                 {
                     "VoiceID": 360,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Si seulement Sonic était là avec moi..."
+                    "Text": "Wenn doch nur Sonic hier wäre..."
                 }
             ]
         },
@@ -2145,21 +2145,21 @@
             "Idle: Chao Garden (Gamma)": [
                 {
                     "VoiceID": 361,
-                    "Duration": 60,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Quel est cet endroit ?"
+                    "Text": "Standort: unbekannt."
                 },
                 {
                     "VoiceID": 362,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Mode combat désengagé."
+                    "Text": "Kampfsystem deaktiviert."
                 },
                 {
                     "VoiceID": 363,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Détection d'êtres vivants."
+                    "Text": "Sensoren erfassen Leben."
                 }
             ]
         },
@@ -2167,27 +2167,27 @@
             "Idle: Chao Garden (Big)": [
                 {
                     "VoiceID": 364,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je me sens vraiment bien."
+                    "Text": "Siehst gut aus, Kumpel?"
                 },
                 {
                     "VoiceID": 365,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Vous allez bien ?"
+                    "Text": "Geht es euch gut?"
                 },
                 {
                     "VoiceID": 366,
-                    "Duration": 240,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je commence à avoir faim..."
+                    "Text": "Hey, Ich werde wieder hungrig."
                 },
                 {
                     "VoiceID": 367,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hmm... J'ai envie d'aller faire de la pêche !"
+                    "Text": "Ich will angeln gehen!"
                 }
             ]
         },
@@ -2197,13 +2197,13 @@
                     "VoiceID": 345,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Shoot ! J'ai du sable dans les yeux !"
+                    "Text": "Verdammt! Ich hab Sand im Auge!"
                 },
                 {
                     "VoiceID": 346,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ce sable est si doux\net il est si facile de glisser dessus !"
+                    "Text": "Dieser Sand ist irgendwie lose!"
                 }
             ]
         },
@@ -2211,9 +2211,9 @@
             "Idle: Hedgehog Hammer": [
                 {
                     "VoiceID": 347,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "H-Hé, où suis-je ?"
+                    "Text": "Hey, komm schon!"
                 }
             ]
         },
@@ -2223,25 +2223,25 @@
                     "VoiceID": 491,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "On a réussi !"
+                    "Text": "Wir habens geschafft!"
                 },
                 {
                     "VoiceID": 716,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "On a réussi !"
+                    "Text": "Wir haben es geschafft!"
                 },
                 {
                     "VoiceID": 492,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "C'était du gâteau !"
+                    "Text": "Gut gemacht, Tails!"
                 },
                 {
                     "VoiceID": 717,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "C'était du gâteau !"
+                    "Text": "Gut gemacht, Tails!"
                 }
             ]
         },
@@ -2249,21 +2249,21 @@
             "Sky Chase 2 (before transformation)": [
                 {
                     "VoiceID": 765,
-                    "Duration": 180,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Bien, on a réussi à passer la\npremière ligne de défense !"
+                    "Text": "Ha-ha! So weit so gut!"
                 },
                 {
                     "VoiceID": 766,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Il y en a d'autres qui viennent !"
+                    "Text": "Ich hoffe du weißt was du da tust."
                 },
                 {
                     "VoiceID": 767,
-                    "Duration": 90,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Oui, je sais !"
+                    "Text": "Darauf kannst du wetten! Schau dir das an!"
                 }
             ]
         },
@@ -2271,39 +2271,39 @@
             "Sky Chase 2 (transformation alt lines)": [
                 {
                     "VoiceID": 530,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Bien, on a réussi à passer la\npremière ligne de défense !"
+                    "Text": "Soweit sieht es gut aus!"
                 },
                 {
                     "VoiceID": 531,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Il y en a d'autres qui viennent !"
+                    "Text": "Hier kommt es nochmal!"
                 },
                 {
                     "VoiceID": 532,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Oui, je sais !"
+                    "Text": "Keine Sorge, Ich bin bereit."
                 },
                 {
                     "VoiceID": 533,
-                    "Duration": 120,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "System mode : change !"
+                    "Text": "Transformations-Modus: aktiviert!"
                 },
                 {
                     "VoiceID": 534,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wooooah !"
+                    "Text": "Whooooa!"
                 },
                 {
                     "VoiceID": 535,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Très bien ! On y va !"
+                    "Text": "Bereit? Los gehts!"
                 }
             ]
         },
@@ -2313,67 +2313,67 @@
                     "VoiceID": 205,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Come on, Tails !"
+                    "Text": "Komm schon, Tails!"
                 },
                 {
                     "VoiceID": 206,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hey hey hey !"
+                    "Text": "Hey-hey-hey!"
                 },
                 {
                     "VoiceID": 207,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Bien joué, Tails ! Continue comme ça !"
+                    "Text": "Alles klar, Tails!"
                 },
                 {
                     "VoiceID": 208,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "H-Hé, Tails !"
+                    "Text": "Hey, Tails!"
                 },
                 {
                     "VoiceID": 209,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "You made it !"
+                    "Text": "Du hast es geschafft!"
                 },
                 {
                     "VoiceID": 210,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Come on !"
+                    "Text": "Komm schon!"
                 },
                 {
                     "VoiceID": 211,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Tails, je pars devant !"
+                    "Text": "Man sieht sich, Tails!"
                 },
                 {
                     "VoiceID": 212,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Tails, dépêche-toi !"
+                    "Text": "Beeil dich, Tails!"
                 },
                 {
                     "VoiceID": 213,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hooray !"
+                    "Text": "Hurra!"
                 },
                 {
                     "VoiceID": 214,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "I got it !"
+                    "Text": "Ich hab ihn!"
                 },
                 {
                     "VoiceID": 215,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Tails, tu n'as plus de Rings !\nSois prudent !"
+                    "Text": "Du hast keine Ringe, Tails.\nPass auf!"
                 }
             ]
         },
@@ -2381,69 +2381,69 @@
             "Speed Highway (Tails) - Eggman's voices": [
                 {
                     "VoiceID": 216,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Tu penses pouvoir me tenir tête ?"
+                    "Text": "Denkst du dass du mit mir mithalten kannst?"
                 },
                 {
                     "VoiceID": 217,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je t'ai eu, Tails !"
+                    "Text": "Jetzt hab ich dich, Tails!"
                 },
                 {
                     "VoiceID": 218,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Quoi ? Il a rattrapé son retard ?"
+                    "Text": "Was? Er hat aufgeholt!"
                 },
                 {
                     "VoiceID": 219,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Maudit petit renard !"
+                    "Text": "Du kleiner Fuchs!"
                 },
                 {
                     "VoiceID": 220,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Mo... Mon petit Tails ! Attends-mooooi !"
+                    "Text": "Tails! Warte auf mich!"
                 },
                 {
                     "VoiceID": 221,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Whahahahahahahahaha !"
+                    "Text": "Wha-ha-ha-ha-ha-ha-ha-ha-ha!"
                 },
                 {
                     "VoiceID": 222,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Adieux, Tails !"
+                    "Text": "Auf Wiedersehen, Tails!"
                 },
                 {
                     "VoiceID": 223,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Je vais détruire cette ville toute entière !"
+                    "Text": "Ich nehme deren ganzen Stadt mit mir!"
                 },
                 {
                     "VoiceID": 224,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Il te manque 100 ans\npour pouvoir me battre !"
+                    "Text": "Du wirst mich nie schlagen!"
                 },
                 {
                     "VoiceID": 225,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "La victoire me revient !\nWhahahahahahahaha !"
+                    "Text": "Ich gewinne! Wha-ha-ha-ha-ha-ha-ha-ha!"
                 },
                 {
                     "VoiceID": 226,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Maintenant, rends-toi, Tails !"
+                    "Text": "Geb auf, Tails!"
                 }
             ]
         },
@@ -2451,73 +2451,85 @@
             "Final Egg": [
                 {
                     "VoiceID": 1588,
-                    "Duration": 420,
+                    "Duration": 300,
                     "Mode": "Gameplay",
-                    "Text": "Urgence ! Urgence !\nÉliminez les intrus immédiatement !"
+                    "Text": "Alarm! Alarm!\nAlle Eindringlinge sofort eliminieren!"
                 },
                 {
                     "VoiceID": 1589,
-                    "Duration": 420,
+                    "Duration": 300,
                     "Mode": "Gameplay",
-                    "Text": "Urgence ! Urgence !\nÉliminez les intrus immédiatement !"
+                    "Text": "Alarm! Alarm!\nAlle Eindringlinge sofort eliminieren!"
                 },
                 {
                     "VoiceID": 1590,
-                    "Duration": 300,
+                    "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Final Egg : cloison de niveau 2 ouverte."
+                    "Text": "Final Egg: Level 2 Isolierwand offen."
                 },
                 {
                     "VoiceID": 1591,
-                    "Duration": 300,
+                    "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Final Egg : cloison de niveau 2 ouverte."
+                    "Text": "Final Egg: Level 2 Isolierwand offen."
                 },
                 {
                     "VoiceID": 1592,
-                    "Duration": 240,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Détruis les cibles\net tu gagneras du temps en plus."
+                    "Text": "Zerstör die Ziele,\nund du bekommst extra Zeit."
                 },
                 {
                     "VoiceID": 1593,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Détruis la cible Sonic !"
+                    "Text": "Zerstör das Sonic-Ziel."
                 }
             ]
         },
         {
             "Bosses: vs character": [
                 {
-                    "VoiceID": 166,
+                    "VoiceID": 164,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pas mal, Sonic !"
+                    "Text": "Oh nein!"
+                },
+                {
+                    "VoiceID": 165,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Oh nein!"
+                },
+                {
+                    "VoiceID": 166,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Geb mir deinen besten Versuch!"
                 },
                 {
                     "VoiceID": 167,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pas mal, Knuckles !"
+                    "Text": "Ich hab genug!"
                 },
                 {
                     "VoiceID": 168,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Pas mal, Tails !"
+                    "Text": "Okay, nehm sie hoch!"
                 },
                 {
                     "VoiceID": 169,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Les ordres sont absolus."
+                    "Text": "Wiederstand ist zwecklos."
                 },
                 {
                     "VoiceID": 170,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Il est... fort..."
+                    "Text": "Oh nein!"
                 }
             ]
         },
@@ -2525,45 +2537,63 @@
             "Bosses: Eggman": [
                 {
                     "VoiceID": 171,
-                    "Duration": 90,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Tous les systèmes - puissance maximale !"
+                    "Text": "Alle Systeme - volle Power!"
                 },
                 {
                     "VoiceID": 172,
-                    "Duration": 30,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ouille !"
+                    "Text": "Ahhh!"
+                },
+                {
+                    "VoiceID": 173,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Aha!"
                 },
                 {
                     "VoiceID": 174,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Prends ça !"
+                    "Text": "Nimm dies!"
+                },
+                {
+                    "VoiceID": 175,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Ist nicht wahr! Ich glaub dass nicht!"
                 },
                 {
                     "VoiceID": 176,
-                    "Duration": 90,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Espèce de...!"
+                    "Text": "Ahhh!\nDamit kommt er nicht davon!"
                 },
                 {
                     "VoiceID": 177,
-                    "Duration": 60,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Q-Qu'est-ce que...?!"
+                    "Text": "Ist nicht wahr! Ich glaub dass nicht!"
+                },
+                {
+                    "VoiceID": 178,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Ho-ho! Es ist sinnlos. Gib auf!"
                 },
                 {
                     "VoiceID": 1902,
-                    "Duration": 270,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Whoohahahahahaha !\nSonic, essaye de m'atteindre !"
+                    "Text": "Whoo-ha-ha! Sehen wir mal ob du\nes hier durch schaffst, Sonic!"
                 },
                 {
                     "VoiceID": 1903,
-                    "Duration": 210,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Sonic, maintenant, prends ça !"
+                    "Text": "Nimm dies!"
                 }
             ]
         },
@@ -2571,51 +2601,51 @@
             "Announcers: Station Square": [
                 {
                     "VoiceID": 1567,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Chers passagers ! Veuillez prendre vos places\net attendre le départ."
+                    "Text": "Bitte steig in den Zug\nund warte auf Abfahrt."
                 },
                 {
                     "VoiceID": 1568,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Chers passagers ! Veuillez prendre vos places\net attendre le départ."
+                    "Text": "Bitte steig in den Zug\nund warte auf Abfahrt."
                 },
                 {
                     "VoiceID": 1569,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Le train en destination des Mystic Ruins\nva bientôt partir."
+                    "Text": "Der Zug nach Mystic Ruins\nwird bald abfahren."
                 },
                 {
                     "VoiceID": 1570,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Le train en destination des Mystic Ruins\nva bientôt partir."
+                    "Text": "Der Zug nach Mystic Ruins\nwird bald abfahren."
                 },
                 {
                     "VoiceID": 1571,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Un train devrait bientôt arriver.\nVeuillez-vous écarter !"
+                    "Text": "Ein Zug wird bald ankommen.\nBitte warten."
                 },
                 {
                     "VoiceID": 1572,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Un train devrait bientôt arriver.\nVeuillez-vous écarter !"
+                    "Text": "Ein Zug wird bald ankommen.\nBitte warten."
                 },
                 {
                     "VoiceID": 1573,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Aucun train n'est actuellement en service."
+                    "Text": "Keine Züge sind im Moment in Betrieb."
                 },
                 {
                     "VoiceID": 1574,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Aucun train n'est actuellement en service."
+                    "Text": "Keine Züge sind im Moment in Betrieb."
                 }
             ]
         },
@@ -2625,7 +2655,7 @@
                     "VoiceID": 1575,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Welcome to Twinkle Park !"
+                    "Text": "Willkommen in Twinkle Park!"
                 }
             ]
         },
@@ -2633,27 +2663,27 @@
             "Announcers: Mystic Ruins": [
                 {
                     "VoiceID": 1654,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Chers passagers ! Veuillez prendre vos places\net attendre le départ."
+                    "Text": "Passagiere werden gebeten\nan Bord des Zuges zu warten."
                 },
                 {
                     "VoiceID": 1655,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Le train en destination de Station Square\nva bientôt partir."
+                    "Text": "Der Zug nach Station Square\nwird bald abfahren."
                 },
                 {
                     "VoiceID": 1656,
                     "Duration": 300,
                     "Mode": "Gameplay",
-                    "Text": "Un train devrait bientôt arriver.\nVeuillez-vous écarter!"
+                    "Text": "Ein Zug wird bald ankommen.\nBitte warten."
                 },
                 {
                     "VoiceID": 1657,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Aucun train n'est actuellement en service."
+                    "Text": "Keine Züge sind im Moment in Betrieb."
                 }
             ]
         },
@@ -2661,57 +2691,57 @@
             "Gameplay voices: Sonic": [
                 {
                     "VoiceID": 1838,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Yeeees !"
+                    "Text": "Ja!"
                 },
                 {
                     "VoiceID": 1839,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Yahou !"
+                    "Text": "Juuhuu!"
                 },
                 {
                     "VoiceID": 1840,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Yes !"
+                    "Text": "Ja."
                 },
                 {
                     "VoiceID": 1841,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hey, pump it up !"
+                    "Text": "Hey, gib Gas!"
                 },
                 {
                     "VoiceID": 1842,
-                    "Duration": 180,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "*sifflement* It's sweet !"
+                    "Text": "*pfeift* Wunderbar!"
                 },
                 {
                     "VoiceID": 1843,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey guy !\nJe m'amuserai avec toi une autre fois !"
+                    "Text": "Hey, mit dir Spiel ich ein anderes mal!"
                 },
                 {
                     "VoiceID": 1844,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Yeah ! It's okay !"
+                    "Text": "Ja, nicht schlecht!"
                 },
                 {
                     "VoiceID": 1845,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "L-Laisse-moi partir !"
+                    "Text": "Hey, los gehts!"
                 },
                 {
                     "VoiceID": 1847,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "No !"
+                    "Text": "Nein!"
                 }
             ]
         },
@@ -2721,49 +2751,49 @@
                     "VoiceID": 1801,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ouais !"
+                    "Text": "Wooo!"
                 },
                 {
                     "VoiceID": 1802,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Yahou !"
+                    "Text": "Alles klar!"
                 },
                 {
                     "VoiceID": 1803,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ouais !"
+                    "Text": "Yeeaah!"
                 },
                 {
                     "VoiceID": 1804,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Pfiou, c'est pas passé loin."
+                    "Text": "Puh! Grade noch rechtzeitig!"
                 },
                 {
                     "VoiceID": 1805,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai réussi, Sonic !"
+                    "Text": "Ich has geschafft, Sonic!"
                 },
                 {
                     "VoiceID": 1806,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je suis plus fort que tu ne le crois !"
+                    "Text": "Alles klar, Ich habs geschafft!"
                 },
                 {
                     "VoiceID": 1807,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Bah, je suppose que c'est pas si mal."
+                    "Text": "Das war nicht zu schlecht."
                 },
                 {
                     "VoiceID": 1808,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "H-Hé !"
+                    "Text": "Hey!"
                 }
             ]
         },
@@ -2773,43 +2803,49 @@
                     "VoiceID": 1788,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Génial !"
+                    "Text": "Yeeah!"
+                },
+                {
+                    "VoiceID": 1789,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Whoa!"
                 },
                 {
                     "VoiceID": 1790,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Trouvées !"
+                    "Text": "Gefunden!"
                 },
                 {
                     "VoiceID": 1791,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hmph, ça m'a pris du temps."
+                    "Text": "Ich kann dass besser."
                 },
                 {
                     "VoiceID": 1792,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "C'était facile."
+                    "Text": "Das war einfach."
                 },
                 {
                     "VoiceID": 1793,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hmph, de belles paroles dans le vide."
+                    "Text": "Ist dass alles was du drauf hast?"
                 },
                 {
                     "VoiceID": 1794,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Bah, ça passe."
+                    "Text": "Naja. Gut genug."
                 },
                 {
                     "VoiceID": 1795,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Miiince !"
+                    "Text": "Ohh!"
                 }
             ]
         },
@@ -2819,101 +2855,107 @@
                     "VoiceID": 1731,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "J'ai réussi !"
+                    "Text": "Alles klar!"
                 },
                 {
                     "VoiceID": 1732,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Youpi !"
+                    "Text": "Yaaay!"
                 },
                 {
                     "VoiceID": 1733,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "J'ai réussi !"
+                    "Text": "Alles klar!"
                 },
                 {
                     "VoiceID": 1734,
-                    "Duration": 120,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Pfiou... C'est pas passé loin..."
+                    "Text": "*puh* Das war knapp!"
                 },
                 {
                     "VoiceID": 1735,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Quand je fais quelque chose,\nje ne le fais pas à moitié !"
+                    "Text": "Siehst du? Ich kann das!"
                 },
                 {
                     "VoiceID": 1736,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Je suis sauvée !"
+                    "Text": "Ich bin frei!"
                 },
                 {
                     "VoiceID": 1737,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Trop bien ! Je suis la meilleure !"
+                    "Text": "Wow! Ich bin gut!"
                 },
                 {
                     "VoiceID": 1738,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hé, laisse-moi partir !"
+                    "Text": "Hey, lass mich los!"
                 }
             ]
         },
         {
             "Gameplay voices: Big": [
                 {
-                    "VoiceID": 1334,
-                    "Duration": 240,
+                    "VoiceID": 1746,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ooooh, il est reparti..."
+                    "Text": "Hmm!"
+                },
+                {
+                    "VoiceID": 1334,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Aw, was soll ich nun tun?"
                 },
                 {
                     "VoiceID": 1747,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Froggy !"
+                    "Text": "Froggy!"
                 },
                 {
                     "VoiceID": 1748,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je ferai de mon mieux, la prochaine fois."
+                    "Text": "Vielleicht nächstes mal."
                 },
                 {
                     "VoiceID": 1749,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Grosse prise ! Grosse prise !"
+                    "Text": "Was für ein Fang!"
                 },
                 {
                     "VoiceID": 1750,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Tu vas bien, Froggy ?"
+                    "Text": "Froggy! Gehts dir gut?"
                 },
                 {
                     "VoiceID": 1751,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "C'était une bonne pêche !"
+                    "Text": "Nicht schlecht!"
                 },
                 {
                     "VoiceID": 1758,
-                    "Duration": 120,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Attrapé ! Attrapé !"
+                    "Text": "Ich hab einen Fisch!"
                 },
                 {
                     "VoiceID": 1759,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ça mord !"
+                    "Text": "Etwas beißt an!"
                 }
             ]
         },
@@ -2921,63 +2963,63 @@
             "Gameplay voices: Gamma": [
                 {
                     "VoiceID": 1768,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Conduite complétée."
+                    "Text": "Fahren geschafft."
                 },
                 {
                     "VoiceID": 1770,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Mission accomplie."
+                    "Text": "Mission geschafft."
                 },
                 {
                     "VoiceID": 1771,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "E-101 Beta : sauvetage accompli."
+                    "Text": "E-101 Beta: Rettung geschafft."
                 },
                 {
                     "VoiceID": 1772,
-                    "Duration": 240,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Capture de la grenouille accomplie."
+                    "Text": "Frosch-Fang geschafft."
                 },
                 {
                     "VoiceID": 1773,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "E-105 Zeta : sauvetage accompli."
+                    "Text": "E-105 Zeta: Rettung geschafft."
                 },
                 {
                     "VoiceID": 1774,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "E-104 Epsilon : sauvetage accompli."
+                    "Text": "E-104 Epsilon: Rettung geschafft."
                 },
                 {
                     "VoiceID": 1775,
-                    "Duration": 300,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "E-103 Delta : sauvetage accompli."
+                    "Text": "E-103 Delta: Rettung geschafft."
                 },
                 {
                     "VoiceID": 1777,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Impossible de s'échapper."
+                    "Text": "Rennen unmöglich."
                 },
                 {
                     "VoiceID": 1778,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Mission échouée."
+                    "Text": "Mission gescheitert."
                 },
                 {
                     "VoiceID": 1786,
-                    "Duration": 150,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Activité interrompue."
+                    "Text": "Aktivität eingestellt."
                 }
             ]
         },
@@ -2987,13 +3029,13 @@
                     "VoiceID": 816,
                     "Duration": 30,
                     "Mode": "Gameplay",
-                    "Text": "C'est Eggman !"
+                    "Text": "Oh nein! Es ist Robotnik!"
                 },
                 {
                     "VoiceID": 818,
                     "Duration": 30,
                     "Mode": "Gameplay",
-                    "Text": "Est-ce que ça va bien se passer ?"
+                    "Text": "Lasst uns hier abhauen!"
                 }
             ]
         },
@@ -3003,31 +3045,19 @@
                     "VoiceID": 821,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "Tu as réussi !"
-                },
-                {
-                    "VoiceID": 822,
-                    "Duration": 20,
-                    "Mode": "Cutscene",
-                    "Text": "Bien joué !"
+                    "Text": "Du bist der beste!"
                 },
                 {
                     "VoiceID": 823,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "Tu nous as sauvés !"
-                },
-                {
-                    "VoiceID": 824,
-                    "Duration": 20,
-                    "Mode": "Cutscene",
-                    "Text": "Tu es tellement cool !"
+                    "Text": "Wir sind für immer dankbar!"
                 },
                 {
                     "VoiceID": 825,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "Tu nous as tous sauvés !"
+                    "Text": "Du hast den Tag gerettet!"
                 }
             ]
         },
@@ -3037,19 +3067,19 @@
                     "VoiceID": 1223,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "Cette grenouille est celle que nous cherchons !"
+                    "Text": "Dieser Frosch ist der den wir wollen!"
                 },
                 {
                     "VoiceID": 1224,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "Non, voici la vraie !"
+                    "Text": "Nein, hier ist der echte!"
                 },
                 {
                     "VoiceID": 1225,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "Ma grenouille est la bonne !"
+                    "Text": "Mein Frosch ist der richtige!"
                 }
             ]
         },
@@ -3059,43 +3089,43 @@
                     "VoiceID": 1763,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Il est petit..."
+                    "Text": "Meine Güte, ist es klein."
                 },
                 {
                     "VoiceID": 1761,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Celui-là est pas mal."
+                    "Text": "nun ja. Ist okay."
                 },
                 {
                     "VoiceID": 1745,
-                    "Duration": 150,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Un gros !"
+                    "Text": "Wow, es ist groß!"
                 },
                 {
                     "VoiceID": 1753,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pas bon."
+                    "Text": "Oh nein."
                 },
                 {
                     "VoiceID": 1756,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Pas bon."
+                    "Text": "Oh nein!"
                 },
                 {
                     "VoiceID": 1876,
-                    "Duration": 210,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "OK ! On recommence !"
+                    "Text": "Okay! Noch ein mal!"
                 },
                 {
                     "VoiceID": 1877,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Presque !\nOK, on recommence."
+                    "Text": "Fast gekriegt!\nOkay, noch ein mal."
                 }
             ]
         },
@@ -3105,13 +3135,13 @@
                     "VoiceID": 1706,
                     "Duration": 360,
                     "Mode": "Gameplay",
-                    "Text": "Alerte intrusion ! Alerte intrusion !\nEgg Keepers, rejoignez la zone de combat !"
+                    "Text": "Eindringlingsalarm! Eindringlingsalarm!\nEgg Keepers, meldet euch bei den Kampfstationen!"
                 },
                 {
                     "VoiceID": 1707,
                     "Duration": 360,
                     "Mode": "Gameplay",
-                    "Text": "Alerte intrusion ! Alerte intrusion !\nEgg Keepers, rejoignez la zone de combat !"
+                    "Text": "Eindringlingsalarm! Eindringlingsalarm!\nEgg Keepers, meldet euch bei den Kampfstationen!"
                 }
             ]
         },
@@ -3121,19 +3151,19 @@
                     "VoiceID": 1984,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ha ha ha ha ha ! Mauvais chemin !"
+                    "Text": "Ha-ha-ha-ha-ha! Falsche Richtung."
                 },
                 {
                     "VoiceID": 1985,
-                    "Duration": 180,
+                    "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ha ha ha ha ! Encore raté !"
+                    "Text": "Ha-ha-ha-ha! Wieder falsch."
                 },
                 {
                     "VoiceID": 1986,
-                    "Duration": 210,
+                    "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ha ha ha ha ha ha ! Abandonne !"
+                    "Text": "Who-ha-ha! Wieso gibst du nicht einfach auf?"
                 }
             ]
         },
@@ -3141,51 +3171,51 @@
             "Beta restores: Sky Deck unused lines": [
                 {
                     "VoiceID": 1704,
-                    "Duration": 420,
+                    "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Urgence ! Urgence !\nÉliminer les intrus immédiatement !"
+                    "Text": "Alarm! Alarm!\nAlle Eindringlinge sofort eliminieren!"
                 },
                 {
                     "VoiceID": 1705,
-                    "Duration": 420,
+                    "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Urgence ! Urgence !\nÉliminer les intrus immédiatement !"
+                    "Text": "Alarm! Alarm!\nAlle Eindringlinge sofort eliminieren!"
                 },
                 {
                     "VoiceID": 1727,
-                    "Duration": 150,
+                    "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Vents violents en approche.\nVents violents en approche."
+                    "Text": "Warnung: starker Wind nähert sich."
                 },
                 {
                     "VoiceID": 1728,
-                    "Duration": 120,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Alerte de vents violents terminée."
+                    "Text": "Starker Wind Alarm storniert."
                 },
                 {
                     "VoiceID": 1723,
                     "Duration": 360,
                     "Mode": "Gameplay",
-                    "Text": "Descente dans les nuages.\nRalentissez le vaisseau."
+                    "Text": "Abstieg in die Wolken.\nVerlangsame Schiff."
                 },
                 {
                     "VoiceID": 1724,
                     "Duration": 360,
                     "Mode": "Gameplay",
-                    "Text": "Descente dans les nuages.\nRalentissez le vaisseau."
+                    "Text": "Abstieg in die Wolken.\nVerlangsame Schiff."
                 },
                 {
                     "VoiceID": 1725,
                     "Duration": 300,
                     "Mode": "Gameplay",
-                    "Text": "Montez. Vitesse maximale !"
+                    "Text": "Nach oben. Volle Kraft voraus!"
                 },
                 {
                     "VoiceID": 1726,
                     "Duration": 300,
                     "Mode": "Gameplay",
-                    "Text": "Sale hérisson insolent !\nJe vais te virer d'ici !"
+                    "Text": "Was für ein hartnäckiger Igel!\nIch schüttle dich ab."
                 }
             ]
         },
@@ -3195,7 +3225,7 @@
                     "VoiceID": 1681,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Arrête, Beta."
+                    "Text": "Du musst aufhören, Beta."
                 }
             ]
         },
@@ -3203,27 +3233,27 @@
             "Beta restores: characters taking damage with no rings": [
                 {
                     "VoiceID": 1809,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
                     "Text": "Sonic..."
                 },
                 {
                     "VoiceID": 1796,
-                    "Duration": 60,
+                    "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Est-ce que c'est la fin...?"
+                    "Text": "Ich bin ein Verlierer."
                 },
                 {
                     "VoiceID": 1740,
-                    "Duration": 90,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Oh non !"
+                    "Text": "Oh nein!"
                 },
                 {
                     "VoiceID": 1755,
-                    "Duration": 120,
+                    "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Pas bon !"
+                    "Text": "Uuf!"
                 }
             ]
         },
@@ -3233,85 +3263,85 @@
                     "VoiceID": 1823,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "You made it !"
+                    "Text": "Du hast es geschafft!"
                 },
                 {
                     "VoiceID": 1824,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "You got it !"
+                    "Text": "Du schaffst das!"
                 },
                 {
                     "VoiceID": 1825,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "I made it !"
+                    "Text": "Ich habs geschafft!"
                 },
                 {
                     "VoiceID": 1826,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "I got it !"
+                    "Text": "Ich hab ihn!"
                 },
                 {
                     "VoiceID": 1827,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Good going !"
+                    "Text": "Gutes gelingen!"
                 },
                 {
                     "VoiceID": 1828,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hey hey hey !"
+                    "Text": "Hey-hey-hey!"
                 },
                 {
                     "VoiceID": 1829,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Come on !"
+                    "Text": "Komm schon!"
                 },
                 {
                     "VoiceID": 1830,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "I win !"
+                    "Text": "Ich gewinne!"
                 },
                 {
                     "VoiceID": 1831,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Let's get going !"
+                    "Text": "Lass uns los!"
                 },
                 {
                     "VoiceID": 1832,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hang in there !"
+                    "Text": "Halt durch!"
                 },
                 {
                     "VoiceID": 1833,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wait-wait-wait !"
+                    "Text": "Warte-warte-warte!"
                 },
                 {
                     "VoiceID": 1834,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hold it !"
+                    "Text": "Halt!"
                 },
                 {
                     "VoiceID": 1835,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hooray !"
+                    "Text": "Hurra!"
                 },
                 {
                     "VoiceID": 1836,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Okey-Dokey !"
+                    "Text": "Okey-dokey!"
                 }
             ]
         },
@@ -3321,19 +3351,19 @@
                     "VoiceID": 1713,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Sonic...?\nJe vois..."
+                    "Text": "Sonic! Es hängt alles von dir ab."
                 },
                 {
                     "VoiceID": 1714,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Je vais tout miser sur votre courage."
+                    "Text": "Sei mutig, blauer Igel."
                 },
                 {
                     "VoiceID": 1716,
-                    "Duration": 210,
+                    "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Vous avez besoin de Rings pour rester Super Sonic.\nSoyez prudent !"
+                    "Text": "Um Super Sonic zu bleiben,\nbrauchst du Ringe!"
                 }
             ]
         }

@@ -1509,7 +1509,7 @@
                     "VoiceID": 336,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Je me demande pourquoi ce bonhomme s'est embêté\nà faire les choses comme ça."
+                    "Text": "Je me demande pourquoi ce bonhomme\ns'est embêté à faire les choses comme ça."
                 },
                 {
                     "VoiceID": 337,
@@ -1537,7 +1537,7 @@
                     "VoiceID": 340,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "J'aimerais faire un vaisseau comme celui-là un jour !"
+                    "Text": "J'aimerais faire un vaisseau\ncomme celui-là un jour !"
                 },
                 {
                     "VoiceID": 341,
@@ -1549,7 +1549,7 @@
                     "VoiceID": 342,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Mieux vaut traverser tout ça\ntranquillement si l'on ne veut pas qu'on nous entende."
+                    "Text": "Mieux vaut traverser tout ça tranquillement\nsi l'on ne veut pas qu'on nous entende."
                 },
                 {
                     "VoiceID": 343,
