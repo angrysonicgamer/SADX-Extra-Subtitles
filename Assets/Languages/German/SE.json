@@ -33,13 +33,13 @@
                     "VoiceID": 1268,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Nur noch zwei mehr!"
+                    "Text": "Nur noch zwei Teile!"
                 },
                 {
                     "VoiceID": 1269,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Nur noch einer mehr!"
+                    "Text": "Nur noch ein Teil!"
                 }
             ],
             "Gamma": [
@@ -53,7 +53,7 @@
                     "VoiceID": 1300,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Runter tun."
+                    "Text": "Ablegen."
                 },
                 {
                     "VoiceID": 1301,
@@ -77,7 +77,7 @@
                     "VoiceID": 1304,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Modus-Änderung."
+                    "Text": "Modus gewechselt!"
                 },
                 {
                     "VoiceID": 1305,

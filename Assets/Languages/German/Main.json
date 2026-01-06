@@ -97,7 +97,7 @@
                     "VoiceID": 15,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nDu kannst dir verschiedene Musikstücke anhören."
+                    "Text": "Soundtest.\nDu kannst dir verschiedene Musikstücke anhören."
                 },
                 {
                     "VoiceID": 16,
@@ -185,19 +185,19 @@
                     "VoiceID": 29,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Die Regeln für die Action-Level.\nVergiss nicht sie dir zu merken!"
+                    "Text": "Die Regeln für die Action-Level.\nVergiss nicht, sie dir zu merken!"
                 },
                 {
                     "VoiceID": 30,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Welches Level willst du spielen?"
+                    "Text": "Welches Level möchtest du spielen?"
                 },
                 {
                     "VoiceID": 31,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Welches Spiel willst du spielen?"
+                    "Text": "Welches Spiel möchtest du spielen?"
                 },
                 {
                     "VoiceID": 32,
@@ -209,7 +209,7 @@
                     "VoiceID": 33,
                     "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Sound Test. Du kannst dir die Musik anhören\ndie während des Spiels läuft."
+                    "Text": "Soundtest. Du kannst dir die Musik anhören,\ndie während des Spiels läuft."
                 },
                 {
                     "VoiceID": 34,
@@ -261,7 +261,7 @@
                     "VoiceID": 41,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, Sonic spielt."
+                    "Text": "Wie man als ich, Sonic, spielt."
                 },
                 {
                     "VoiceID": 42,
@@ -297,7 +297,7 @@
                     "VoiceID": 47,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft. Es könnte schwer\nwerden es sei denn du kennst dich aus."
+                    "Text": "Wie man das Spiel schafft. Es könnte schwer\nwerden, es sei denn, du kennst dich aus."
                 },
                 {
                     "VoiceID": 48,
@@ -315,13 +315,13 @@
                     "VoiceID": 50,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Optionen.\nWähle die Option aus die du anpassen willst."
+                    "Text": "Optionen.\nWähle die Option aus, die du anpassen willst."
                 },
                 {
                     "VoiceID": 51,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nDu kannst dir hier coole Sounds anhören."
+                    "Text": "Soundtest.\nDu kannst dir hier coole Sounds anhören."
                 },
                 {
                     "VoiceID": 52,
@@ -379,7 +379,7 @@
                     "VoiceID": 60,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, Tails spielt."
+                    "Text": "Wie man als ich, Tails, spielt."
                 },
                 {
                     "VoiceID": 61,
@@ -409,7 +409,7 @@
                     "VoiceID": 65,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft.\nVersuch es dir zu merken."
+                    "Text": "Wie man das Spiel schafft.\nVersuche es dir zu merken."
                 },
                 {
                     "VoiceID": 66,
@@ -427,13 +427,13 @@
                     "VoiceID": 68,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Optionen.\nSuch dir die Option aus die du anpassen willst."
+                    "Text": "Optionen.\nSuch dir die Option aus, die du anpassen willst."
                 },
                 {
                     "VoiceID": 69,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nDu kannst dir hier coole Sounds anhören."
+                    "Text": "Soundtest.\nDu kannst dir hier coole Sounds anhören."
                 },
                 {
                     "VoiceID": 70,
@@ -497,7 +497,7 @@
                     "VoiceID": 79,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, Knuckles spielt."
+                    "Text": "Wie man als ich, Knuckles, spielt."
                 },
                 {
                     "VoiceID": 80,
@@ -521,7 +521,7 @@
                     "VoiceID": 83,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft.\nLese es dir besser aufmerksam durch."
+                    "Text": "Wie man das Spiel schafft.\nLies es dir besser aufmerksam durch."
                 },
                 {
                     "VoiceID": 84,
@@ -539,13 +539,13 @@
                     "VoiceID": 86,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Optionen.\nSuch dir die Option aus die du anpassen willst."
+                    "Text": "Optionen.\nSuch dir die Option aus, die du anpassen willst."
                 },
                 {
                     "VoiceID": 87,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nHöre dir etwas coole Musik an."
+                    "Text": "Soundtest.\nHöre dir etwas coole Musik an."
                 },
                 {
                     "VoiceID": 88,
@@ -615,7 +615,7 @@
                     "VoiceID": 98,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, Amy spielt."
+                    "Text": "Wie man als ich, Amy, spielt."
                 },
                 {
                     "VoiceID": 99,
@@ -633,7 +633,7 @@
                     "VoiceID": 101,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft.\nLese es dir gut durch."
+                    "Text": "Wie man das Spiel schafft.\nLies es dir gut durch."
                 },
                 {
                     "VoiceID": 102,
@@ -657,7 +657,7 @@
                     "VoiceID": 105,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nDu kannst dir hier die Musik des Spiels anhören."
+                    "Text": "Soundtest.\nDu kannst dir hier die Musik des Spiels anhören."
                 },
                 {
                     "VoiceID": 106,
@@ -733,7 +733,7 @@
                     "VoiceID": 117,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, E-102 Gamma spielt."
+                    "Text": "Wie man als ich, E-102 Gamma, spielt."
                 },
                 {
                     "VoiceID": 118,
@@ -745,7 +745,7 @@
                     "VoiceID": 119,
                     "Duration": 300,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft.\nBitte gebe diese Information an."
+                    "Text": "Wie man das Spiel schafft.\nBitte gib diese Information an."
                 },
                 {
                     "VoiceID": 120,
@@ -763,13 +763,13 @@
                     "VoiceID": 122,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Optionen. Such dir die Option\naus die du dir wünschst anzupassen."
+                    "Text": "Optionen. Such dir die Option\naus, die du dir wünschst anzupassen."
                 },
                 {
                     "VoiceID": 123,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nAuswählen um Hintergrund-Musik abzuspielen."
+                    "Text": "Soundtest.\nAuswählen, um Hintergrund-Musik abzuspielen."
                 },
                 {
                     "VoiceID": 124,
@@ -791,13 +791,13 @@
                     "VoiceID": 126,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Ehmm... Welche Speicherkarte?"
+                    "Text": "Ähm... welche Speicherkarte?"
                 },
                 {
                     "VoiceID": 127,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Ehmm... Welcher Spielstand?"
+                    "Text": "Ähm... welcher Spielstand?"
                 },
                 {
                     "VoiceID": 128,
@@ -815,7 +815,7 @@
                     "VoiceID": 130,
                     "Duration": 120,
                     "Mode": "Menu",
-                    "Text": "Ehmm... Welcher Charakter?"
+                    "Text": "Ähm... welcher Charakter?"
                 },
                 {
                     "VoiceID": 131,
@@ -851,13 +851,13 @@
                     "VoiceID": 136,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Wie man als mich, Big spielt."
+                    "Text": "Wie man als ich, Big, spielt."
                 },
                 {
                     "VoiceID": 137,
                     "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Wie man das Spiel schafft.\nEhmm... Lies es, okay?"
+                    "Text": "Wie man das Spiel schafft.\nÄhm... lies es, okay?"
                 },
                 {
                     "VoiceID": 138,
@@ -875,13 +875,13 @@
                     "VoiceID": 140,
                     "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Ehmm... Optionen.\nSuch dir die Option aus die du anpassen willst."
+                    "Text": "Ähm... Optionen.\nSuch dir die Option aus, die du anpassen willst."
                 },
                 {
                     "VoiceID": 141,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nHöre dir die coole Musik des Spiels an."
+                    "Text": "Soundtest.\nHöre dir die coole Musik des Spiels an."
                 },
                 {
                     "VoiceID": 142,
@@ -933,37 +933,37 @@
                     "VoiceID": 149,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Wie man als diesen Igel spielt."
+                    "Text": "Wie man als dieser Igel spielt."
                 },
                 {
                     "VoiceID": 150,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Wie man als diesen zweischwänzigen Fuchs spielt."
+                    "Text": "Wie man als dieser zweischwänzige Fuchs spielt."
                 },
                 {
                     "VoiceID": 151,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Wie man als diesen Knucklehead spielt."
+                    "Text": "Wie man als Knucklehead spielt."
                 },
                 {
                     "VoiceID": 152,
                     "Duration": 180,
                     "Mode": "Menu",
-                    "Text": "Wie man als dieses Kind, Amy spielt."
+                    "Text": "Wie man als dieses Kind, Amy, spielt."
                 },
                 {
                     "VoiceID": 153,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Wie man als meine Kreation,\nE-102 Gamma spielt."
+                    "Text": "Wie man als meine Kreation,\nE-102 Gamma, spielt."
                 },
                 {
                     "VoiceID": 154,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Wie man als dieser fetten Katze spielt."
+                    "Text": "Wie man als diese fette Katze spielt."
                 },
                 {
                     "VoiceID": 155,
@@ -987,13 +987,13 @@
                     "VoiceID": 158,
                     "Duration": 240,
                     "Mode": "Menu",
-                    "Text": "Optionen.\nMach schon, pass sie an wie du willst."
+                    "Text": "Optionen.\nMach schon, pass sie an, wie du willst."
                 },
                 {
                     "VoiceID": 159,
                     "Duration": 270,
                     "Mode": "Menu",
-                    "Text": "Sound Test.\nDu kannst hier die Musik des Spiels hören."
+                    "Text": "Soundtest.\nDu kannst hier die Musik des Spiels hören."
                 },
                 {
                     "VoiceID": 160,
@@ -1015,19 +1015,19 @@
                     "VoiceID": 1837,
                     "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Los gehts!"
+                    "Text": "Los geht’s!"
                 },
                 {
                     "VoiceID": 1800,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Hier komm ich, Sonic!"
+                    "Text": "Auf geht’s, Sonic!"
                 },
                 {
                     "VoiceID": 1787,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Okay! Los gehts!"
+                    "Text": "Okay, auf geht’s!"
                 },
                 {
                     "VoiceID": 1730,
@@ -1039,13 +1039,13 @@
                     "VoiceID": 1767,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Vorbereitung fertig."
+                    "Text": "Alles bereit!"
                 },
                 {
                     "VoiceID": 1744,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "Halt durch, Froggy! Ich komme!"
+                    "Text": "Halt dich fest, Froggy, ich komme!"
                 }
             ]
         },
@@ -1055,7 +1055,7 @@
                     "VoiceID": 390,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ich sollte besser los!"
+                    "Text": "Ich sollte lieber weiter!"
                 },
                 {
                     "VoiceID": 392,
@@ -1107,19 +1107,19 @@
                     "VoiceID": 291,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Es ist toll einen Ozean in der nähe zu haben."
+                    "Text": "Es ist toll, einen Ozean in der Nähe zu haben."
                 },
                 {
                     "VoiceID": 292,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich ob es hier Fische gibt."
+                    "Text": "Ich frage mich, ob es hier Fische gibt."
                 },
                 {
                     "VoiceID": 293,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Suche Station Square..."
+                    "Text": "Suche Station Square ab..."
                 }
             ]
         },
@@ -1129,19 +1129,19 @@
                     "VoiceID": 274,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Dieses Gebiet hat sich sehr verändert."
+                    "Text": "In diesem Gebiet hat sich viel verändert."
                 },
                 {
                     "VoiceID": 275,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Junge, bin ich hungrig."
+                    "Text": "Junge, bin ich hungrig!"
                 },
                 {
                     "VoiceID": 276,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich hasse Großstädte."
+                    "Text": "Ich hasse Großstädte!"
                 },
                 {
                     "VoiceID": 277,
@@ -1169,13 +1169,13 @@
                     "VoiceID": 286,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich fühl mich wi eine Ratte."
+                    "Text": "Ich fühle mich wie eine Ratte."
                 },
                 {
                     "VoiceID": 287,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Wow, hier ist es dunkel!"
+                    "Text": "Ui, hier ist es aber dunkel!"
                 }
             ]
         },
@@ -1215,7 +1215,7 @@
                     "VoiceID": 305,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Auto-Scooter Gebiet bestätigt."
+                    "Text": "Auto-Scooter-Gebiet bestätigt."
                 }
             ]
         },
@@ -1225,7 +1225,7 @@
                     "VoiceID": 294,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey-hey! wir haben keine Zeit zum ausruhen!"
+                    "Text": "Hey-hey! Wir haben keine Zeit zum Ausruhen!"
                 },
                 {
                     "VoiceID": 295,
@@ -1249,7 +1249,7 @@
                     "VoiceID": 298,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Was ein großes Haus!"
+                    "Text": "So ein großes Haus!"
                 },
                 {
                     "VoiceID": 299,
@@ -1265,13 +1265,13 @@
                     "VoiceID": 280,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Wir haben keine Zeit zum faulenzen!"
+                    "Text": "Wir haben keine Zeit zum Faulenzen!"
                 },
                 {
                     "VoiceID": 281,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Was für eine große Stadt!"
+                    "Text": "Mann, ist das eine große Stadt!"
                 },
                 {
                     "VoiceID": 282,
@@ -1289,7 +1289,7 @@
                     "VoiceID": 284,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich wo Froggy ist."
+                    "Text": "Ich frage mich, wo Froggy ist."
                 },
                 {
                     "VoiceID": 285,
@@ -1305,13 +1305,13 @@
                     "VoiceID": 306,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hier muss es ziemlich einsam werden."
+                    "Text": "Hier muss es ziemlich einsam sein."
                 },
                 {
                     "VoiceID": 307,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Diese Gebiet hat sich ziemlich verändert\nnachdem sie diese Station gebaut haben."
+                    "Text": "Dieses Gebiet hat sich ziemlich verändert\nnachdem hier diese Station gebaut wurde."
                 },
                 {
                     "VoiceID": 308,
@@ -1335,7 +1335,7 @@
                     "VoiceID": 311,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Suche Mystic Ruins..."
+                    "Text": "Suche Mystic Ruins ab..."
                 }
             ]
         },
@@ -1391,7 +1391,7 @@
                     "VoiceID": 319,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Vielleicht geh ich nach Haus..."
+                    "Text": "Vielleicht gehe ich nach Hause..."
                 },
                 {
                     "VoiceID": 320,
@@ -1419,19 +1419,19 @@
                     "VoiceID": 323,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Standort: Ort der Kreation."
+                    "Text": "Standort: Ort der Erschaffung."
                 },
                 {
                     "VoiceID": 324,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich werde mein bestes geben, Sonic."
+                    "Text": "Ich werde mein Bestes geben, Sonic."
                 },
                 {
                     "VoiceID": 325,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Der Ort an dem ich kreiert wurde."
+                    "Text": "Der Ort, an dem ich kreiert wurde."
                 }
             ]
         },
@@ -1459,7 +1459,7 @@
                     "VoiceID": 329,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ehmm... Wo bin ich?"
+                    "Text": "Ähm... wo bin ich?"
                 },
                 {
                     "VoiceID": 330,
@@ -1509,19 +1509,19 @@
                     "VoiceID": 336,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich warum dieser Man sich die Mühe\nmachte Sachen wie diese zu machen."
+                    "Text": "Ich frage mich, warum dieser Mann sich die Mühe\nmachte, Sachen wie diese zu bauen."
                 },
                 {
                     "VoiceID": 337,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Fahre Mission fort."
+                    "Text": "Mission wird fortgesetzt."
                 },
                 {
                     "VoiceID": 338,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ehmm... Wie fliegt dieses Schiff?"
+                    "Text": "Ähm... wie fliegt dieses Schiff?"
                 }
             ]
         },
@@ -1549,19 +1549,19 @@
                     "VoiceID": 342,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Schleiche lieber\ndamit sie uns nicht hören."
+                    "Text": "Schleich lieber,\ndamit sie uns nicht hören."
                 },
                 {
                     "VoiceID": 343,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Fahre Mission fort."
+                    "Text": "Mission wird fortgesetzt."
                 },
                 {
                     "VoiceID": 344,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ehmm... Ausgänge? Ausgänge?"
+                    "Text": "Ähm... Ausgänge? Ausgänge?"
                 }
             ]
         },
@@ -1571,7 +1571,7 @@
                     "VoiceID": 227,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Alles was ich tun muss ist dieser Küste zu folgen!"
+                    "Text": "Ich muss nur dieser Küste folgen!"
                 },
                 {
                     "VoiceID": 228,
@@ -1589,7 +1589,7 @@
                     "VoiceID": 230,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Was ein großer See!"
+                    "Text": "So ein großer See!"
                 }
             ]
         },
@@ -1599,7 +1599,7 @@
                     "VoiceID": 231,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich kann den Wind in der ferne hören."
+                    "Text": "Ich kann den Wind in der Ferne hören."
                 },
                 {
                     "VoiceID": 232,
@@ -1611,19 +1611,19 @@
                     "VoiceID": 233,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich hau hier lieber ab!"
+                    "Text": "Ich haue hier lieber ab!"
                 },
                 {
                     "VoiceID": 234,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wow, es ist ziemlich weit oben!"
+                    "Text": "Wow, ganz schön hoch!"
                 },
                 {
                     "VoiceID": 235,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich frag mich wo Sonic ist."
+                    "Text": "Ich frag mich, wo Sonic ist."
                 }
             ]
         },
@@ -1679,7 +1679,7 @@
                     "VoiceID": 243,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Zeit zum Jammen!"
+                    "Text": "Zeit zu Jammen!"
                 }
             ]
         },
@@ -1689,25 +1689,25 @@
                     "VoiceID": 244,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Dies muss wohl der Eingang\nzum Auto-Scooter Gebiet sein."
+                    "Text": "Dies muss wohl der Eingang\nzum Auto-Scooter-Gebiet sein."
                 },
                 {
                     "VoiceID": 245,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Sieht so aus als wäre keiner hier."
+                    "Text": "Sieht so aus, als wäre keiner hier."
                 },
                 {
                     "VoiceID": 246,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich ob die Fische beißen."
+                    "Text": "Ich frage mich, ob die Fische beißen."
                 },
                 {
                     "VoiceID": 247,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich wo Sonic hin ist."
+                    "Text": "Ich frage mich, wo Sonic hin ist."
                 }
             ]
         },
@@ -1729,13 +1729,13 @@
                     "VoiceID": 250,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey, wir haben keine Zeit zum ausruhen!"
+                    "Text": "Hey, wir haben keine Zeit zum Ausruhen!"
                 },
                 {
                     "VoiceID": 251,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Die Autos sind so langsam!\nDie sehen aus als würden sie sich nicht bewegen."
+                    "Text": "Die Autos sind so langsam!\nSie sehen aus, als würden sie sich nicht bewegen."
                 },
                 {
                     "VoiceID": 252,
@@ -1751,7 +1751,7 @@
                     "VoiceID": 253,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wo ist der Egg-Carrier hin?"
+                    "Text": "Wo ist der Egg Carrier hin?"
                 },
                 {
                     "VoiceID": 254,
@@ -1785,7 +1785,7 @@
                     "VoiceID": 258,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Es ist ziemlich hoch!\nMeine Beine sind am zittern!"
+                    "Text": "Es ist ziemlich hoch!\nMeine Beine zittern!"
                 },
                 {
                     "VoiceID": 259,
@@ -1835,25 +1835,25 @@
                     "VoiceID": 265,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich rieche Öl."
+                    "Text": "Ich rieche Öl..."
                 },
                 {
                     "VoiceID": 266,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey, kleines Vögelchen. Gehts dir gut?"
+                    "Text": "Hey, kleines Vögelchen. Geht’s dir gut?"
                 },
                 {
                     "VoiceID": 267,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wo endet das nur?"
+                    "Text": "Wo endet das bloß?"
                 },
                 {
                     "VoiceID": 268,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Warts nur ab, Robotnik!"
+                    "Text": "Wart’s nur ab, Robotnik!"
                 },
                 {
                     "VoiceID": 269,
@@ -1875,13 +1875,13 @@
                     "VoiceID": 271,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich frage mich ob es Froggy gut geht."
+                    "Text": "Ich frage mich, ob es Froggy gut geht."
                 },
                 {
                     "VoiceID": 272,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ehmm... In welche Richtung geh ich nun?"
+                    "Text": "Ähm... in welche Richtung gehe ich nun?"
                 },
                 {
                     "VoiceID": 273,
@@ -1897,7 +1897,7 @@
                     "VoiceID": 368,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Er kann nicht unverwundbar sein, oder?"
+                    "Text": "Er kann doch nicht unverwundbar sein, oder?"
                 },
                 {
                     "VoiceID": 369,
@@ -1909,13 +1909,13 @@
                     "VoiceID": 370,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wie gehts, Knuckles?"
+                    "Text": "Wie geht´s, Knuckles?"
                 },
                 {
                     "VoiceID": 371,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey! Dieses mal entkommst du mir nicht!"
+                    "Text": "Hey! Diesmal wirst du mir nicht entkommen!"
                 },
                 {
                     "VoiceID": 372,
@@ -1933,7 +1933,7 @@
                     "VoiceID": 374,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Du hattest deinen Spaß.\nJetzt bin ich dran!"
+                    "Text": "Du hattest deinen Spaß–\njetzt bin ich dran!"
                 }
             ]
         },
@@ -1967,7 +1967,7 @@
                     "VoiceID": 379,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ich weiß dass ich es selbst schaffen kann!"
+                    "Text": "Ich weiß, dass ich es selbst schaffen kann!"
                 }
             ]
         },
@@ -1995,7 +1995,7 @@
                     "VoiceID": 383,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Dieses mal, bist du erledigt!"
+                    "Text": "Dieses Mal, bist du erledigt!"
                 }
             ]
         },
@@ -2005,7 +2005,7 @@
                     "VoiceID": 384,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Du wirst dafür bezahlen\nwas du getan hast!"
+                    "Text": "Du wirst dafür bezahlen,\nwas du getan hast!"
                 }
             ]
         },
@@ -2037,7 +2037,7 @@
                     "VoiceID": 388,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Ich zeig dir was\ndie Chaos Emeralds wirklich tun können!"
+                    "Text": "Ich zeig dir, was\ndie Chaos Emeralds wirklich tun können!"
                 },
                 {
                     "VoiceID": 389,
@@ -2065,7 +2065,7 @@
                     "VoiceID": 350,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Denk nur dran, kein kämpfen!"
+                    "Text": "Vergiss nicht: Kein Kämpfen!"
                 }
             ]
         },
@@ -2075,19 +2075,19 @@
                     "VoiceID": 351,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich fühl mich hier wirklich zu hause!"
+                    "Text": "Ich fühle mich hier wirklich zu Hause!"
                 },
                 {
                     "VoiceID": 352,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wie gehts Leute?"
+                    "Text": "Wie geht´s, Leute?"
                 },
                 {
                     "VoiceID": 353,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ihr seid die besten!"
+                    "Text": "Ihr seid die Besten!"
                 }
             ]
         },
@@ -2097,7 +2097,7 @@
                     "VoiceID": 354,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich denk mal hier sind keine Emeralds."
+                    "Text": "Ich denke mal, hier sind keine Emeralds."
                 },
                 {
                     "VoiceID": 355,
@@ -2109,7 +2109,7 @@
                     "VoiceID": 356,
                     "Duration": 270,
                     "Mode": "Gameplay",
-                    "Text": "Dieser Ort erinnert mich an zu hause.\nIch frag mich warum?"
+                    "Text": "Dieser Ort erinnert mich an zu Hause.\nIch frage mich warum?"
                 }
             ]
         },
@@ -2131,7 +2131,7 @@
                     "VoiceID": 359,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Ich will euch nicht kämpfen sehen!"
+                    "Text": "Ich möchte nicht sehen, wie ihr kämpft!"
                 },
                 {
                     "VoiceID": 360,
@@ -2147,7 +2147,7 @@
                     "VoiceID": 361,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Standort: unbekannt."
+                    "Text": "Standort: Unbekannt."
                 },
                 {
                     "VoiceID": 362,
@@ -2223,7 +2223,7 @@
                     "VoiceID": 491,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wir habens geschafft!"
+                    "Text": "Wir haben´s geschafft!"
                 },
                 {
                     "VoiceID": 716,
@@ -2257,7 +2257,7 @@
                     "VoiceID": 766,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich hoffe du weißt was du da tust."
+                    "Text": "Ich hoffe, du weißt, was du da tust."
                 },
                 {
                     "VoiceID": 767,
@@ -2273,13 +2273,13 @@
                     "VoiceID": 530,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Soweit sieht es gut aus!"
+                    "Text": "Bis jetzt sieht alles gut aus!"
                 },
                 {
                     "VoiceID": 531,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hier kommt es nochmal!"
+                    "Text": "Hier kommt es noch einmal!"
                 },
                 {
                     "VoiceID": 532,
@@ -2291,7 +2291,7 @@
                     "VoiceID": 533,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Transformations-Modus: aktiviert!"
+                    "Text": "Transformationsmodus: aktiviert!"
                 },
                 {
                     "VoiceID": 534,
@@ -2367,7 +2367,7 @@
                     "VoiceID": 214,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ich hab ihn!"
+                    "Text": "Ich hab' ihn!"
                 },
                 {
                     "VoiceID": 215,
@@ -2383,7 +2383,7 @@
                     "VoiceID": 216,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Denkst du dass du mit mir mithalten kannst?"
+                    "Text": "Denkst du, dass du mit mir mithalten kannst?"
                 },
                 {
                     "VoiceID": 217,
@@ -2425,7 +2425,7 @@
                     "VoiceID": 223,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ich nehme deren ganzen Stadt mit mir!"
+                    "Text": "Ich nehme ihre ganzen Stadt mit mir!"
                 },
                 {
                     "VoiceID": 224,
@@ -2443,7 +2443,7 @@
                     "VoiceID": 226,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Geb auf, Tails!"
+                    "Text": "Gib auf, Tails!"
                 }
             ]
         },
@@ -2465,25 +2465,25 @@
                     "VoiceID": 1590,
                     "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Final Egg: Level 2 Isolierwand offen."
+                    "Text": "Final Egg – Level 2: Isolierwand offen."
                 },
                 {
                     "VoiceID": 1591,
                     "Duration": 330,
                     "Mode": "Gameplay",
-                    "Text": "Final Egg: Level 2 Isolierwand offen."
+                    "Text": "Final Egg – Level 2: Isolierwand offen."
                 },
                 {
                     "VoiceID": 1592,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Zerstör die Ziele,\nund du bekommst extra Zeit."
+                    "Text": "Zerstöre die Ziele,\nund du bekommst extra Zeit."
                 },
                 {
                     "VoiceID": 1593,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Zerstör das Sonic-Ziel."
+                    "Text": "Zerstöre das Sonic-Ziel."
                 }
             ]
         },
@@ -2505,7 +2505,7 @@
                     "VoiceID": 166,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Geb mir deinen besten Versuch!"
+                    "Text": "Gib mir deinen besten Versuch!"
                 },
                 {
                     "VoiceID": 167,
@@ -2517,7 +2517,7 @@
                     "VoiceID": 168,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Okay, nehm sie hoch!"
+                    "Text": "Okay, nimm sie hoch!"
                 },
                 {
                     "VoiceID": 169,
@@ -2563,7 +2563,7 @@
                     "VoiceID": 175,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Ist nicht wahr! Ich glaub dass nicht!"
+                    "Text": "Ist nicht wahr! Ich glaub das nicht!"
                 },
                 {
                     "VoiceID": 176,
@@ -2575,7 +2575,7 @@
                     "VoiceID": 177,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Ist nicht wahr! Ich glaub dass nicht!"
+                    "Text": "Ist nicht wahr! Ich glaub das nicht!"
                 },
                 {
                     "VoiceID": 178,
@@ -2587,7 +2587,7 @@
                     "VoiceID": 1902,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Whoo-ha-ha! Sehen wir mal ob du\nes hier durch schaffst, Sonic!"
+                    "Text": "Whoo-ha-ha! Sehen wir mal, ob du\nes hier durchschaffst, Sonic!"
                 },
                 {
                     "VoiceID": 1903,
@@ -2639,13 +2639,13 @@
                     "VoiceID": 1573,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Keine Züge sind im Moment in Betrieb."
+                    "Text": "Zurzeit sind keine Züge in Betrieb."
                 },
                 {
                     "VoiceID": 1574,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Keine Züge sind im Moment in Betrieb."
+                    "Text": "Zurzeit sind keine Züge in Betrieb."
                 }
             ]
         },
@@ -2683,7 +2683,7 @@
                     "VoiceID": 1657,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Keine Züge sind im Moment in Betrieb."
+                    "Text": "Zurzeit sind keine Züge in Betrieb."
                 }
             ]
         },
@@ -2711,7 +2711,7 @@
                     "VoiceID": 1841,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Hey, gib Gas!"
+                    "Text": "Hey, gib mal Gummi!"
                 },
                 {
                     "VoiceID": 1842,
@@ -2723,7 +2723,7 @@
                     "VoiceID": 1843,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "Hey, mit dir Spiel ich ein anderes mal!"
+                    "Text": "Hey, mit dir spiele ich ein anderes Mal!"
                 },
                 {
                     "VoiceID": 1844,
@@ -2775,19 +2775,19 @@
                     "VoiceID": 1805,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich has geschafft, Sonic!"
+                    "Text": "Ich hab´s geschafft, Sonic!"
                 },
                 {
                     "VoiceID": 1806,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Alles klar, Ich habs geschafft!"
+                    "Text": "Alles klar, Ich hab´s geschafft!"
                 },
                 {
                     "VoiceID": 1807,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Das war nicht zu schlecht."
+                    "Text": "Das war gar nicht so miserabel."
                 },
                 {
                     "VoiceID": 1808,
@@ -2821,7 +2821,7 @@
                     "VoiceID": 1791,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich kann dass besser."
+                    "Text": "Ich kann das besser."
                 },
                 {
                     "VoiceID": 1792,
@@ -2833,7 +2833,7 @@
                     "VoiceID": 1793,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ist dass alles was du drauf hast?"
+                    "Text": "Ist das alles, was du drauf hast?"
                 },
                 {
                     "VoiceID": 1794,
@@ -2937,7 +2937,7 @@
                     "VoiceID": 1750,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Froggy! Gehts dir gut?"
+                    "Text": "Froggy! Geht´s dir gut?"
                 },
                 {
                     "VoiceID": 1751,
@@ -2949,7 +2949,7 @@
                     "VoiceID": 1758,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich hab einen Fisch!"
+                    "Text": "Ich hab' einen Fisch!"
                 },
                 {
                     "VoiceID": 1759,
@@ -3045,7 +3045,7 @@
                     "VoiceID": 821,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "Du bist der beste!"
+                    "Text": "Du bist der Beste!"
                 },
                 {
                     "VoiceID": 823,
@@ -3067,7 +3067,7 @@
                     "VoiceID": 1223,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "Dieser Frosch ist der den wir wollen!"
+                    "Text": "Dieser Frosch ist der, den wir wollen!"
                 },
                 {
                     "VoiceID": 1224,
@@ -3079,7 +3079,7 @@
                     "VoiceID": 1225,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "Mein Frosch ist der richtige!"
+                    "Text": "Mein Frosch ist der Richtige!"
                 }
             ]
         },
@@ -3095,7 +3095,7 @@
                     "VoiceID": 1761,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "nun ja. Ist okay."
+                    "Text": "Nun ja. Ist okay."
                 },
                 {
                     "VoiceID": 1745,
@@ -3185,7 +3185,7 @@
                     "VoiceID": 1727,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Warnung: starker Wind nähert sich."
+                    "Text": "Warnung: Starker Wind nähert sich."
                 },
                 {
                     "VoiceID": 1728,
@@ -3275,13 +3275,13 @@
                     "VoiceID": 1825,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ich habs geschafft!"
+                    "Text": "Ich hab´s geschafft!"
                 },
                 {
                     "VoiceID": 1826,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ich hab ihn!"
+                    "Text": "Ich hab' ihn!"
                 },
                 {
                     "VoiceID": 1827,
