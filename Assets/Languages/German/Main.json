@@ -1015,19 +1015,19 @@
                     "VoiceID": 1837,
                     "Duration": 60,
                     "Mode": "Menu",
-                    "Text": "Los geht’s!"
+                    "Text": "Los geht's!"
                 },
                 {
                     "VoiceID": 1800,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Auf geht’s, Sonic!"
+                    "Text": "Auf geht's, Sonic!"
                 },
                 {
                     "VoiceID": 1787,
                     "Duration": 90,
                     "Mode": "Menu",
-                    "Text": "Okay, auf geht’s!"
+                    "Text": "Okay, auf geht's!"
                 },
                 {
                     "VoiceID": 1730,
@@ -1853,7 +1853,7 @@
                     "VoiceID": 268,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wart’s nur ab, Robotnik!"
+                    "Text": "Wart's nur ab, Robotnik!"
                 },
                 {
                     "VoiceID": 269,
@@ -1909,7 +1909,7 @@
                     "VoiceID": 370,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wie geht´s, Knuckles?"
+                    "Text": "Wie geht's, Knuckles?"
                 },
                 {
                     "VoiceID": 371,
@@ -1983,7 +1983,7 @@
                     "VoiceID": 381,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Geb mir den Emerald!"
+                    "Text": "Gib mir den Emerald!"
                 },
                 {
                     "VoiceID": 382,
@@ -2081,7 +2081,7 @@
                     "VoiceID": 352,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Wie geht´s, Leute?"
+                    "Text": "Wie geht's, Leute?"
                 },
                 {
                     "VoiceID": 353,
@@ -2223,7 +2223,7 @@
                     "VoiceID": 491,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Wir haben´s geschafft!"
+                    "Text": "Wir haben's geschafft!"
                 },
                 {
                     "VoiceID": 716,
@@ -2425,7 +2425,7 @@
                     "VoiceID": 223,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Ich nehme ihre ganzen Stadt mit mir!"
+                    "Text": "Ich nehme ihre ganze Stadt mit mir!"
                 },
                 {
                     "VoiceID": 224,
@@ -2735,7 +2735,7 @@
                     "VoiceID": 1845,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Hey, los gehts!"
+                    "Text": "Hey, los geht's!"
                 },
                 {
                     "VoiceID": 1847,
@@ -2775,13 +2775,13 @@
                     "VoiceID": 1805,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Ich hab´s geschafft, Sonic!"
+                    "Text": "Ich hab's geschafft, Sonic!"
                 },
                 {
                     "VoiceID": 1806,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "Alles klar, Ich hab´s geschafft!"
+                    "Text": "Alles klar, Ich hab's geschafft!"
                 },
                 {
                     "VoiceID": 1807,
@@ -2937,7 +2937,7 @@
                     "VoiceID": 1750,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Froggy! Geht´s dir gut?"
+                    "Text": "Froggy! Geht's dir gut?"
                 },
                 {
                     "VoiceID": 1751,
@@ -3275,7 +3275,7 @@
                     "VoiceID": 1825,
                     "Duration": 60,
                     "Mode": "Gameplay",
-                    "Text": "Ich hab´s geschafft!"
+                    "Text": "Ich hab's geschafft!"
                 },
                 {
                     "VoiceID": 1826,
