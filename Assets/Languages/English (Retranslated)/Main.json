@@ -2235,13 +2235,13 @@
                     "VoiceID": 492,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Piece of cake!"
+                    "Text": "That wasn't hard at all!"
                 },
                 {
                     "VoiceID": 717,
                     "Duration": 150,
                     "Mode": "Gameplay",
-                    "Text": "Piece of cake!"
+                    "Text": "That wasn't hard at all!"
                 }
             ]
         },
@@ -2251,13 +2251,13 @@
                     "VoiceID": 765,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "All right, we managed to break through\nthe first line of defense!"
+                    "Text": "Sweet! We've passed\nthe first line of defense!"
                 },
                 {
                     "VoiceID": 766,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "There are more coming!"
+                    "Text": "Here he comes again!"
                 },
                 {
                     "VoiceID": 767,
@@ -2273,13 +2273,13 @@
                     "VoiceID": 530,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "All right, we managed to break through\nthe first line of defense!"
+                    "Text": "Sweet! We've passed\nthe first line of defense!"
                 },
                 {
                     "VoiceID": 531,
                     "Duration": 90,
                     "Mode": "Gameplay",
-                    "Text": "There are more coming!"
+                    "Text": "Here he comes again!"
                 },
                 {
                     "VoiceID": 532,
@@ -2291,7 +2291,7 @@
                     "VoiceID": 533,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "System mode: change!"
+                    "Text": "System mode, change!"
                 },
                 {
                     "VoiceID": 534,
@@ -2303,7 +2303,7 @@
                     "VoiceID": 535,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "All right! Here we go!"
+                    "Text": "Okay, here we go!"
                 }
             ]
         },
@@ -2987,13 +2987,13 @@
                     "VoiceID": 816,
                     "Duration": 30,
                     "Mode": "Gameplay",
-                    "Text": "It's Eggman!"
+                    "Text": "I-It's Eggman!"
                 },
                 {
                     "VoiceID": 818,
                     "Duration": 30,
                     "Mode": "Gameplay",
-                    "Text": "Is it gonna be okay?"
+                    "Text": "Is he gonna be okay?"
                 }
             ]
         },
@@ -3003,13 +3003,13 @@
                     "VoiceID": 821,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "You did it!"
+                    "Text": "Well done!"
                 },
                 {
                     "VoiceID": 822,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "Good job!"
+                    "Text": "Mhm, that's quite a feat."
                 },
                 {
                     "VoiceID": 823,
@@ -3021,13 +3021,13 @@
                     "VoiceID": 824,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "You're so cool!"
+                    "Text": "So cool!"
                 },
                 {
                     "VoiceID": 825,
                     "Duration": 20,
                     "Mode": "Cutscene",
-                    "Text": "You saved the day!"
+                    "Text": "Yay, you did it!"
                 }
             ]
         },
@@ -3037,19 +3037,19 @@
                     "VoiceID": 1223,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "This frog is the one we want!"
+                    "Text": "Mine's the real one!"
                 },
                 {
                     "VoiceID": 1224,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "No, here's the real one!"
+                    "Text": "No, mine is."
                 },
                 {
                     "VoiceID": 1225,
                     "Duration": 20,
                     "Mode": "Gameplay",
-                    "Text": "My frog is the right one!"
+                    "Text": "Mine has a better color."
                 }
             ]
         },
