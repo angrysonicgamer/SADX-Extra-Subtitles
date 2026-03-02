@@ -1,0 +1,3341 @@
+{
+    "Language": "Spanish",
+    "Subtitles": [
+        {
+            "Menu voices: default": [
+                {
+                    "VoiceID": 0,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 1,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 2,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes jugar a través de la historia."
+                },
+                {
+                    "VoiceID": 3,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo de prueba, \ndonde puedes jugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 4,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un personaje."
+                },
+                {
+                    "VoiceID": 5,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Sonic."
+                },
+                {
+                    "VoiceID": 6,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Tails."
+                },
+                {
+                    "VoiceID": 7,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Knuckles."
+                },
+                {
+                    "VoiceID": 8,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Amy."
+                },
+                {
+                    "VoiceID": 9,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con E-102 Gamma."
+                },
+                {
+                    "VoiceID": 10,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Big."
+                },
+                {
+                    "VoiceID": 11,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las etapas de acción."
+                },
+                {
+                    "VoiceID": 12,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Seleccione una etapa."
+                },
+                {
+                    "VoiceID": 13,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un minijuego."
+                },
+                {
+                    "VoiceID": 14,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Esta es la pantalla Opciones. \nPuedes cambiar la configuración aquí."
+                },
+                {
+                    "VoiceID": 15,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Esta es la prueba de sonido. \nPuedes escuchar la música de fondo."
+                },
+                {
+                    "VoiceID": 16,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "La tarjeta de memoria no está lista."
+                },
+                {
+                    "VoiceID": 17,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "No hay espacio libre \nen la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Tikal (alt)": [
+                {
+                    "VoiceID": 18,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 19,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 20,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes jugar a través de la historia."
+                },
+                {
+                    "VoiceID": 21,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo de prueba, \ndonde puedes jugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 22,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Seleccione un personaje."
+                },
+                {
+                    "VoiceID": 23,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Sonic."
+                },
+                {
+                    "VoiceID": 24,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Tails-kun."
+                },
+                {
+                    "VoiceID": 25,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Knuckles."
+                },
+                {
+                    "VoiceID": 26,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Amy."
+                },
+                {
+                    "VoiceID": 27,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con E-102 Gamma."
+                },
+                {
+                    "VoiceID": 28,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Big."
+                },
+                {
+                    "VoiceID": 29,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las etapas de acción. \n¡Haz tu mejor esfuerzo para memorizarlas!"
+                },
+                {
+                    "VoiceID": 30,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿En qué escenario quieres jugar?"
+                },
+                {
+                    "VoiceID": 31,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿A qué minijuego quieres jugar?"
+                },
+                {
+                    "VoiceID": 32,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Esta es la pantalla Opciones.\nPuede cambiar varias configuraciones aquí."
+                },
+                {
+                    "VoiceID": 33,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Esta es la prueba de sonido. \nPuedes escuchar las melodías del juego aquí."
+                },
+                {
+                    "VoiceID": 34,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Parece que no hay tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 35,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "No hay suficiente espacio \nlibre en la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Sonic": [
+                {
+                    "VoiceID": 36,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona tu tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 37,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 38,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Modo aventura.\nPuedes jugar la historia en este modo."
+                },
+                {
+                    "VoiceID": 39,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Modo de prueba.\nPuedes jugar una etapa a la vez"
+                },
+                {
+                    "VoiceID": 40,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona tu personaje."
+                },
+                {
+                    "VoiceID": 41,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Como jugar como yo, Sonic."
+                },
+                {
+                    "VoiceID": 42,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Como jugar con Tails."
+                },
+                {
+                    "VoiceID": 43,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Como jugar con Knuckles."
+                },
+                {
+                    "VoiceID": 44,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Como jugar con Amy."
+                },
+                {
+                    "VoiceID": 45,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Como jugar con E-102 Gamma."
+                },
+                {
+                    "VoiceID": 46,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Como jugar con Big."
+                },
+                {
+                    "VoiceID": 47,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "Como completar el juego. \n¡Debes saberlo o no podrás completar el juego!"
+                },
+                {
+                    "VoiceID": 48,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un escenario."
+                },
+                {
+                    "VoiceID": 49,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un juego."
+                },
+                {
+                    "VoiceID": 50,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Opciones.\nElige las funciones que quieres editar."
+                },
+                {
+                    "VoiceID": 51,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido.\nPuedes escuchar musica genial aquí."
+                },
+                {
+                    "VoiceID": 52,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Asegúrate de que tu tarjeta de \nmemoria esté configurado correctamente."
+                },
+                {
+                    "VoiceID": 53,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "¡Oye! No tienes suficiente espacio \nen la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Tails": [
+                {
+                    "VoiceID": 54,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 55,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Ahora, selecciona un archivo."
+                },
+                {
+                    "VoiceID": 56,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes jugar a través de la historia."
+                },
+                {
+                    "VoiceID": 57,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Prueba, \ndonde puedes jugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 58,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¿Con quién te gustaría jugar?"
+                },
+                {
+                    "VoiceID": 59,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Sonic."
+                },
+                {
+                    "VoiceID": 60,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como yo."
+                },
+                {
+                    "VoiceID": 61,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con."
+                },
+                {
+                    "VoiceID": 62,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Amy."
+                },
+                {
+                    "VoiceID": 63,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con E-102 Gamma."
+                },
+                {
+                    "VoiceID": 64,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Big."
+                },
+                {
+                    "VoiceID": 65,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las fases de acción. \n¡Asegúrate de memorizarlas!"
+                },
+                {
+                    "VoiceID": 66,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¿Qué escenario vas a jugar?"
+                },
+                {
+                    "VoiceID": 67,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¿Qué minijuego vas a jugar?"
+                },
+                {
+                    "VoiceID": 68,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Opciones. \nAquí puedes cambiar varios ajustes."
+                },
+                {
+                    "VoiceID": 69,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nAquí puedes escuchar la música del juego."
+                },
+                {
+                    "VoiceID": 70,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Asegúrate de que tu tarjeta de \nmemoria esté configurada correctamente."
+                },
+                {
+                    "VoiceID": 71,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Parece que no tienes suficiente \nespacio libre en la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Knuckles": [
+                {
+                    "VoiceID": 72,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 73,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 74,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes jugar a través de la historia."
+                },
+                {
+                    "VoiceID": 75,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo donde puedes \njugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 76,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un personaje para jugar."
+                },
+                {
+                    "VoiceID": 77,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Sonic."
+                },
+                {
+                    "VoiceID": 78,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Tails."
+                },
+                {
+                    "VoiceID": 79,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como yo"
+                },
+                {
+                    "VoiceID": 80,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Amy."
+                },
+                {
+                    "VoiceID": 81,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con E-102 Gamma."
+                },
+                {
+                    "VoiceID": 82,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Big."
+                },
+                {
+                    "VoiceID": 83,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las fases de acción. \nLéelas bien y dominarás el juego."
+                },
+                {
+                    "VoiceID": 84,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¿Qué escenario vas a jugar?"
+                },
+                {
+                    "VoiceID": 85,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¿Qué minijuego vas a jugar?"
+                },
+                {
+                    "VoiceID": 86,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Pantalla de opciones. \nAquí puedes cambiar varios ajustes."
+                },
+                {
+                    "VoiceID": 87,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nAquí puedes escuchar la música de fondo."
+                },
+                {
+                    "VoiceID": 88,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Parece que tu tarjeta de memoria no está lista."
+                },
+                {
+                    "VoiceID": 89,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Parece que no tienes suficiente \nespacio libre en la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Amy": [
+                {
+                    "VoiceID": 90,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 91,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 92,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes disfrutar de la historia."
+                },
+                {
+                    "VoiceID": 93,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Prueba, \ndonde puedes jugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 94,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un personaje."
+                },
+                {
+                    "VoiceID": 95,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como mi querido Sonic."
+                },
+                {
+                    "VoiceID": 96,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Tails."
+                },
+                {
+                    "VoiceID": 97,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Knuckles."
+                },
+                {
+                    "VoiceID": 98,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar conmigo."
+                },
+                {
+                    "VoiceID": 99,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con el Sr. Robot."
+                },
+                {
+                    "VoiceID": 100,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con Big."
+                },
+                {
+                    "VoiceID": 101,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las fases de acción. \n¡Asegúrate de memorizarlas!"
+                },
+                {
+                    "VoiceID": 102,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Qué escenario quieres jugar?"
+                },
+                {
+                    "VoiceID": 103,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Qué minijuego quieres jugar?"
+                },
+                {
+                    "VoiceID": 104,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Pantalla de opciones. \nAquí puedes cambiar varios ajustes."
+                },
+                {
+                    "VoiceID": 105,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nAquí puedes escuchar la música del juego."
+                },
+                {
+                    "VoiceID": 106,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                },
+                {
+                    "VoiceID": 107,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "No tienes suficiente espacio \nen la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Gamma": [
+                {
+                    "VoiceID": 108,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 109,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un archivo."
+                },
+                {
+                    "VoiceID": 110,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Modo Aventura."
+                },
+                {
+                    "VoiceID": 111,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "Modo Prueba."
+                },
+                {
+                    "VoiceID": 112,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Selección de personaje."
+                },
+                {
+                    "VoiceID": 113,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: Sonic."
+                },
+                {
+                    "VoiceID": 114,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: Tails."
+                },
+                {
+                    "VoiceID": 115,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: Knuckles."
+                },
+                {
+                    "VoiceID": 116,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: Amy."
+                },
+                {
+                    "VoiceID": 117,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: E-102 Gamma."
+                },
+                {
+                    "VoiceID": 118,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Datos de operación: Big."
+                },
+                {
+                    "VoiceID": 119,
+                    "Duration": 360,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las fases de acción. \n¡Introduce esta información de inmediato!"
+                },
+                {
+                    "VoiceID": 120,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un escenario para jugar."
+                },
+                {
+                    "VoiceID": 121,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Selecciona un minijuego."
+                },
+                {
+                    "VoiceID": 122,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Pantalla de opciones. \nSelecciona un ajuste."
+                },
+                {
+                    "VoiceID": 123,
+                    "Duration": 330,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nSe puede seleccionar la música de fondo."
+                },
+                {
+                    "VoiceID": 124,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Tarjeta de memoria no encontrada."
+                },
+                {
+                    "VoiceID": 125,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "¡Advertencia! \n¡Espacio insuficiente en la tarjeta de memoria!"
+                }
+            ]
+        },
+        {
+            "Menu voices: Big": [
+                {
+                    "VoiceID": 126,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 127,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "¿Qué archivo te gustaría seleccionar?"
+                },
+                {
+                    "VoiceID": 128,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo donde puedes \njugar a través de la historia."
+                },
+                {
+                    "VoiceID": 129,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Puedes jugar una etapa a la vez."
+                },
+                {
+                    "VoiceID": 130,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Con quién te gustaría jugar?"
+                },
+                {
+                    "VoiceID": 131,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como el erizo."
+                },
+                {
+                    "VoiceID": 132,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como el zorro."
+                },
+                {
+                    "VoiceID": 133,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como el equidna."
+                },
+                {
+                    "VoiceID": 134,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como la chica."
+                },
+                {
+                    "VoiceID": 135,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como el robot."
+                },
+                {
+                    "VoiceID": 136,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar como yo."
+                },
+                {
+                    "VoiceID": 137,
+                    "Duration": 330,
+                    "Mode": "Menu",
+                    "Text": "Reglas de las fases de acción. \n¡Asegúrate de memorizarlas!"
+                },
+                {
+                    "VoiceID": 138,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Dónde te gustaría jugar?"
+                },
+                {
+                    "VoiceID": 139,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Qué te gustaría jugar?"
+                },
+                {
+                    "VoiceID": 140,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "Opciones. \nParece que puedes cambiar algo."
+                },
+                {
+                    "VoiceID": 141,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nAquí puedes escuchar la música."
+                },
+                {
+                    "VoiceID": 142,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                },
+                {
+                    "VoiceID": 143,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "No tienes suficiente espacio \nen la tarjeta de memoria."
+                }
+            ]
+        },
+        {
+            "Menu voices: Eggman": [
+                {
+                    "VoiceID": 144,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "Selecciona una tarjeta de memoria."
+                },
+                {
+                    "VoiceID": 145,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "¡Perfecto! Ahora, selecciona un archivo."
+                },
+                {
+                    "VoiceID": 146,
+                    "Duration": 270,
+                    "Mode": "Menu",
+                    "Text": "Este es el modo Aventura, \ndonde puedes luchar contra mí."
+                },
+                {
+                    "VoiceID": 147,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Practica en el modo Prueba."
+                },
+                {
+                    "VoiceID": 148,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Con quién te gustaría jugar?"
+                },
+                {
+                    "VoiceID": 149,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con ese maldito erizo, Sonic."
+                },
+                {
+                    "VoiceID": 150,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con ese chico zorro, Tails."
+                },
+                {
+                    "VoiceID": 151,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con ese tonto, Knuckles."
+                },
+                {
+                    "VoiceID": 152,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con esa niñita, Amy."
+                },
+                {
+                    "VoiceID": 153,
+                    "Duration": 240,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con mi sirviente, \nE-102 Gamma."
+                },
+                {
+                    "VoiceID": 154,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "Cómo jugar con ese gato gordo, \nBig o como sea."
+                },
+                {
+                    "VoiceID": 155,
+                    "Duration": 480,
+                    "Mode": "Menu",
+                    "Text": "Explicación de las reglas de las fases de acción. \n¡Termina de leer y empieza el juego de una vez!"
+                },
+                {
+                    "VoiceID": 156,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Qué escenario vas a jugar?"
+                },
+                {
+                    "VoiceID": 157,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¿Qué minijuego vas a jugar?"
+                },
+                {
+                    "VoiceID": 158,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "Pantalla de opciones. \nEntonces, cambia cualquier ajuste que quieras."
+                },
+                {
+                    "VoiceID": 159,
+                    "Duration": 300,
+                    "Mode": "Menu",
+                    "Text": "Prueba de sonido. \nAquí puedes escuchar varias canciones."
+                },
+                {
+                    "VoiceID": 160,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                },
+                {
+                    "VoiceID": 161,
+                    "Duration": 210,
+                    "Mode": "Menu",
+                    "Text": "La memoria de tu tarjeta de memoria \nestá siendo usada para otra cosa."
+                }
+            ]
+        },
+        {
+            "Character select lines": [
+                {
+                    "VoiceID": 1837,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¡Vamos por ellos!"
+                },
+                {
+                    "VoiceID": 1800,
+                    "Duration": 120,
+                    "Mode": "Menu",
+                    "Text": "¡Sonic! ¡Ahí voy!"
+                },
+                {
+                    "VoiceID": 1787,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¡Muy bien! ¡Vamos!"
+                },
+                {
+                    "VoiceID": 1730,
+                    "Duration": 90,
+                    "Mode": "Menu",
+                    "Text": "¡Ahora me toca a mí!"
+                },
+                {
+                    "VoiceID": 1767,
+                    "Duration": 150,
+                    "Mode": "Menu",
+                    "Text": "Preparativos completos."
+                },
+                {
+                    "VoiceID": 1744,
+                    "Duration": 180,
+                    "Mode": "Menu",
+                    "Text": "¡Froggy, espérame!"
+                }
+            ]
+        },
+        {
+            "Common idle lines": [
+                {
+                    "VoiceID": 390,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Tengo que irme pronto..."
+                },
+                {
+                    "VoiceID": 392,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Tengo que apurarme!"
+                },
+                {
+                    "VoiceID": 393,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Aaah, estoy cansada!"
+                },
+                {
+                    "VoiceID": 394,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Preparativos de combate completos."
+                },
+                {
+                    "VoiceID": 395,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Me está dando hambre."
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (station area)": [
+                {
+                    "VoiceID": 288,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¿Así que esta estación \nes el centro de la ciudad?"
+                },
+                {
+                    "VoiceID": 289,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Los ferrocarriles también son geniales!"
+                },
+                {
+                    "VoiceID": 290,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Así que esto es station square?"
+                },
+                {
+                    "VoiceID": 291,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué bonitas son las ciudades con vista al mar!"
+                },
+                {
+                    "VoiceID": 292,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Me pregunto si también \nhabrá peces aquí..."
+                },
+                {
+                    "VoiceID": 293,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Explorando Station Square..."
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (city hall area)": [
+                {
+                    "VoiceID": 274,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Esta área también ha cambiado mucho..."
+                },
+                {
+                    "VoiceID": 275,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Tengo hambre..."
+                },
+                {
+                    "VoiceID": 276,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Me siento incómodo en la ciudad."
+                },
+                {
+                    "VoiceID": 277,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Debería ir de compras?"
+                },
+                {
+                    "VoiceID": 278,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Todos parecen estar tan ocupados."
+                },
+                {
+                    "VoiceID": 279,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Lecturas de formas de vida humana confirmadas."
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (sewers)": [
+                {
+                    "VoiceID": 286,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Este lugar me hace perecer una rata."
+                },
+                {
+                    "VoiceID": 287,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Está tan oscuro aquí!"
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (Twinkle Park entrance)": [
+                {
+                    "VoiceID": 300,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Lugares como este no son lo mío..."
+                },
+                {
+                    "VoiceID": 301,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "No creo que pueda entrar \nal parque de diversiones."
+                },
+                {
+                    "VoiceID": 302,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Qué es este lugar?"
+                },
+                {
+                    "VoiceID": 303,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "No sé por qué, pero esto me esta emocionando..."
+                },
+                {
+                    "VoiceID": 304,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¿Twinkle Park?"
+                },
+                {
+                    "VoiceID": 305,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Circuito de karts descubierto."
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (hotel)": [
+                {
+                    "VoiceID": 294,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey, hey! ¡No es momento de descansar!"
+                },
+                {
+                    "VoiceID": 295,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Un hotel, ¿huh...? Me da un poco de envidia..."
+                },
+                {
+                    "VoiceID": 296,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Hmph, un hotel de lujo?"
+                },
+                {
+                    "VoiceID": 297,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Me encantaría alojarme en un hotel como este..."
+                },
+                {
+                    "VoiceID": 298,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué casa tan grande!"
+                },
+                {
+                    "VoiceID": 299,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Modo combate desactivado."
+                }
+            ]
+        },
+        {
+            "Idle: Station Square (casino/station)": [
+                {
+                    "VoiceID": 280,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Eh, eh... no es momento para distraerse."
+                },
+                {
+                    "VoiceID": 281,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué enorme es esta ciudad!"
+                },
+                {
+                    "VoiceID": 282,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "esta ciudad sí que es animada."
+                },
+                {
+                    "VoiceID": 283,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Esta ciudad nunca cambia!"
+                },
+                {
+                    "VoiceID": 284,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Froggy, ¿dónde estas?"
+                },
+                {
+                    "VoiceID": 285,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Confirmado tren con destino a Mystic Ruins."
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (station area)": [
+                {
+                    "VoiceID": 306,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Este lugar es tan tranquilo..."
+                },
+                {
+                    "VoiceID": 307,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "desde que construyeron la estación \nesta zona ha cambiado mucho..."
+                },
+                {
+                    "VoiceID": 308,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Debo restaurar la Master Emerald cuanto antes..."
+                },
+                {
+                    "VoiceID": 309,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "La verdad, este tipo de lugares no son de mi agrado..."
+                },
+                {
+                    "VoiceID": 310,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Me pregunto dónde estará Froggy..."
+                },
+                {
+                    "VoiceID": 311,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Explorando Mystic Ruins..."
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (Angel Island)": [
+                {
+                    "VoiceID": 312,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Entonces, este es Angel Island."
+                },
+                {
+                    "VoiceID": 313,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Tengo que darme prisa y traer \nde vuelta esta isla al cielo..."
+                },
+                {
+                    "VoiceID": 314,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Desembarcando en Angel Island."
+                }
+            ]
+        },
+        {
+            "Idle: Mystic Ruins (jungle)": [
+                {
+                    "VoiceID": 315,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡esto está mucho mejor!"
+                },
+                {
+                    "VoiceID": 316,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Por dónde vine?"
+                },
+                {
+                    "VoiceID": 317,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Siento... que esto me resulta familiar..."
+                },
+                {
+                    "VoiceID": 318,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Este lugar es increíble!"
+                },
+                {
+                    "VoiceID": 319,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "creo que debería irme a casa..."
+                },
+                {
+                    "VoiceID": 320,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "Aumento de temperatura. \nModo de enfriamiento forzado 1: inicio."
+                }
+            ]
+        },
+        {
+            "Idle: Final Egg entrance": [
+                {
+                    "VoiceID": 321,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Entonces, ¿esta es la base de Eggman?"
+                },
+                {
+                    "VoiceID": 322,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Así que esta es la fortaleza de Eggman!"
+                },
+                {
+                    "VoiceID": 323,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Esta es... su base?"
+                },
+                {
+                    "VoiceID": 324,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Sonic... ¡daré lo mejor de mí!"
+                },
+                {
+                    "VoiceID": 325,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "El lugar donde fui creado."
+                }
+            ]
+        },
+        {
+            "Idle: Past (normal)": [
+                {
+                    "VoiceID": 326,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Qué es este lugar?"
+                },
+                {
+                    "VoiceID": 327,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Dónde estoy?"
+                },
+                {
+                    "VoiceID": 328,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Ay... ¿Dónde estoy?"
+                },
+                {
+                    "VoiceID": 329,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Umm... ¿Dónde estoy?"
+                },
+                {
+                    "VoiceID": 330,
+                    "Duration": 330,
+                    "Mode": "Gameplay",
+                    "Text": "No se encontraron datos correspondientes. \nNo se puede determinar la ubicación actual."
+                }
+            ]
+        },
+        {
+            "Idle: Past (fire)": [
+                {
+                    "VoiceID": 331,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Esto es terrible!"
+                },
+                {
+                    "VoiceID": 332,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¿Por qué...?"
+                }
+            ]
+        },
+        {
+            "Idle: Egg Carrier (outside)": [
+                {
+                    "VoiceID": 333,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Pff, esto es increible..."
+                },
+                {
+                    "VoiceID": 334,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vaya, esta nave es increíble!"
+                },
+                {
+                    "VoiceID": 335,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Y pensar que una cosa así \npudiera volar en el cielo..."
+                },
+                {
+                    "VoiceID": 336,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¿Por qué crearía algo así?"
+                },
+                {
+                    "VoiceID": 337,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Continuando mi misión..."
+                },
+                {
+                    "VoiceID": 338,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Eh ¿cómo es que vuela esto?"
+                }
+            ]
+        },
+        {
+            "Idle: Egg Carrier (inside)": [
+                {
+                    "VoiceID": 339,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Vaya forma de presumir sus \nexcentricidades aqui adentro."
+                },
+                {
+                    "VoiceID": 340,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Algún día yo también construiré una nave así!"
+                },
+                {
+                    "VoiceID": 341,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Donde está la salida?"
+                },
+                {
+                    "VoiceID": 342,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Caminemos con cautela \npara que no nos vean."
+                },
+                {
+                    "VoiceID": 343,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Continuando mi Misión..."
+                },
+                {
+                    "VoiceID": 344,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Umm... ¿Salida? ¿Salida? Umm..."
+                }
+            ]
+        },
+        {
+            "Idle: Emerald Coast": [
+                {
+                    "VoiceID": 227,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Solo tengo que ir a lo largo de la costa"
+                },
+                {
+                    "VoiceID": 228,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Se confirma la lectura de la forma de vida de la rana."
+                },
+                {
+                    "VoiceID": 229,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Que bien se siente el viento!"
+                },
+                {
+                    "VoiceID": 230,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué lago más grande!"
+                }
+            ]
+        },
+        {
+            "Idle: Windy Valley": [
+                {
+                    "VoiceID": 231,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Puedo escuchar el viento a la distancia."
+                },
+                {
+                    "VoiceID": 232,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Confirmada la presencia de E-103."
+                },
+                {
+                    "VoiceID": 233,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Tenemos que salir de aquí rápido!"
+                },
+                {
+                    "VoiceID": 234,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Vaya, si que he llegado bastante alto..."
+                },
+                {
+                    "VoiceID": 235,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Sonic... ¿a dónde se habrá ido?"
+                }
+            ]
+        },
+        {
+            "Idle: Casinopolis": [
+                {
+                    "VoiceID": 236,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Ah, conque pinball ¿eh?"
+                },
+                {
+                    "VoiceID": 237,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Qué lugar tan ostentoso."
+                },
+                {
+                    "VoiceID": 238,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué mal huele!... \n¿Esto es un basurero?"
+                }
+            ]
+        },
+        {
+            "Idle: Icecap": [
+                {
+                    "VoiceID": 239,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Ufff... ¡Vaya que hace frío por aquí!"
+                },
+                {
+                    "VoiceID": 240,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Parece como un reino de hielo..."
+                },
+                {
+                    "VoiceID": 241,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡El hielo se ve delicioso!"
+                },
+                {
+                    "VoiceID": 242,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Haré algunos movimientos geniales!"
+                },
+                {
+                    "VoiceID": 243,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Es hora de deslizarse \nhacia abajo, supongo."
+                }
+            ]
+        },
+        {
+            "Idle: Twinkle Park": [
+                {
+                    "VoiceID": 244,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Esta parece ser la entrada \nal circuito de karts."
+                },
+                {
+                    "VoiceID": 245,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Parece que no hay nadie por aquí."
+                },
+                {
+                    "VoiceID": 246,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Estoy deseando \nver qué puedo pescar."
+                },
+                {
+                    "VoiceID": 247,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Me pregunto a dónde fue Sonic..."
+                }
+            ]
+        },
+        {
+            "Idle: Speed Highway": [
+                {
+                    "VoiceID": 248,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Muy bien... ¡Adelante, a toda velocidad!"
+                },
+                {
+                    "VoiceID": 249,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Dónde está Eggman?"
+                },
+                {
+                    "VoiceID": 250,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Oye, oye, ¡no hay tiempo para jugar!"
+                },
+                {
+                    "VoiceID": 251,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Los coches parecen no moverse!"
+                },
+                {
+                    "VoiceID": 252,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Las piezas de Esmeralda deben \nestar en algún lugar de esta ciudad."
+                }
+            ]
+        },
+        {
+            "Idle: Red Mountain": [
+                {
+                    "VoiceID": 253,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿A dónde fue el Egg Carrier?"
+                },
+                {
+                    "VoiceID": 254,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "Eeh ... Estoy acabado si caigo en la lava."
+                },
+                {
+                    "VoiceID": 255,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Confirmada la presencia de E-104."
+                },
+                {
+                    "VoiceID": 256,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Si me caigo de este acantilado, estoy perdido."
+                }
+            ]
+        },
+        {
+            "Idle: Sky Deck": [
+                {
+                    "VoiceID": 257,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Uff, si me caigo, estoy acabado."
+                },
+                {
+                    "VoiceID": 258,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Uf, está altísimo ¡Me tiemblan las piernas!"
+                },
+                {
+                    "VoiceID": 259,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "¡Diablos! ¡Qué viento más molesto!"
+                },
+                {
+                    "VoiceID": 260,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Oye, oye, ¿qué le pasa a esta nave?"
+                },
+                {
+                    "VoiceID": 261,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Bien... ¿Por dónde empiezo a buscar?"
+                }
+            ]
+        },
+        {
+            "Idle: Lost World": [
+                {
+                    "VoiceID": 262,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Este sitio está muy tranquilo..."
+                },
+                {
+                    "VoiceID": 263,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Qué... es este lugar...?"
+                },
+                {
+                    "VoiceID": 264,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Las piezas de la Esmeralda \ndeberían estar en esta habitación."
+                }
+            ]
+        },
+        {
+            "Idle: Final Egg": [
+                {
+                    "VoiceID": 265,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Puaj... Qué olor tan horrible a aceite..."
+                },
+                {
+                    "VoiceID": 266,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos pajarito! ¡Sigamos adelante!"
+                },
+                {
+                    "VoiceID": 267,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿A dónde nos lleva esto?"
+                },
+                {
+                    "VoiceID": 268,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Solo espera, Eggman!"
+                },
+                {
+                    "VoiceID": 269,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Erizo azul: enemigo."
+                }
+            ]
+        },
+        {
+            "Idle: Hot Shelter": [
+                {
+                    "VoiceID": 270,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ese Eggman es realmente de lo peor!"
+                },
+                {
+                    "VoiceID": 271,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Me pregunto si Froggy estara bien."
+                },
+                {
+                    "VoiceID": 272,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Jo...! ¿Y ahora a hacia donde voy?"
+                },
+                {
+                    "VoiceID": 273,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Presencia de E-105 Confirmada."
+                }
+            ]
+        },
+        {
+            "Idle: Sonic's bosses": [
+                {
+                    "VoiceID": 368,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¿Quién es este tipo? ¿Acaso es inmortal?"
+                },
+                {
+                    "VoiceID": 369,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡No importa lo que hagas, es inútil!"
+                },
+                {
+                    "VoiceID": 370,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Knuckles? ¿Qué te pasa?"
+                },
+                {
+                    "VoiceID": 371,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Oye! ¡Esta vez no escaparás!"
+                },
+                {
+                    "VoiceID": 372,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡No está tan mal! ¡Nada mal!"
+                },
+                {
+                    "VoiceID": 373,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Dónde está su punto débil?"
+                },
+                {
+                    "VoiceID": 374,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Se acabaron los juegos, Eggman!"
+                }
+            ]
+        },
+        {
+            "Idle: Tails' bosses": [
+                {
+                    "VoiceID": 375,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡No voy a perder!"
+                },
+                {
+                    "VoiceID": 376,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡E-espera!"
+                },
+                {
+                    "VoiceID": 377,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Eres un monstruo de agua!"
+                },
+                {
+                    "VoiceID": 378,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Hay algo diferente en este robot."
+                },
+                {
+                    "VoiceID": 379,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Puedo hacerlo yo solo!"
+                }
+            ]
+        },
+        {
+            "Idle: Knuckles' bosses": [
+                {
+                    "VoiceID": 380,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Te devolveré el favor!"
+                },
+                {
+                    "VoiceID": 381,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Devuélveme la esmeralda!"
+                },
+                {
+                    "VoiceID": 382,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡No sabes cuándo rendirte, bastardo!"
+                },
+                {
+                    "VoiceID": 383,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Esta vez... ¡Acabaré contigo!"
+                }
+            ]
+        },
+        {
+            "Idle: Amy's boss (Zero)": [
+                {
+                    "VoiceID": 384,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡No dejaré que te salgas con la tuya!"
+                }
+            ]
+        },
+        {
+            "Idle: Gamma's bosses": [
+                {
+                    "VoiceID": 385,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Objetivo confirmado.."
+                },
+                {
+                    "VoiceID": 386,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Erizo azul: enemigo."
+                },
+                {
+                    "VoiceID": 387,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Beta!"
+                }
+            ]
+        },
+        {
+            "Idle: Super Sonic": [
+                {
+                    "VoiceID": 388,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Te mostraré el verdadero \npoder de las Esmeraldas!"
+                },
+                {
+                    "VoiceID": 389,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Ese es su núcleo?"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Sonic)": [
+                {
+                    "VoiceID": 348,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Qué lugar más tranquilo...!"
+                },
+                {
+                    "VoiceID": 349,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hola! ¿Se han portado bien?"
+                },
+                {
+                    "VoiceID": 350,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey chicos! ¡No peleen!"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Tails)": [
+                {
+                    "VoiceID": 351,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Me siento aliviado cuando vengo aquí."
+                },
+                {
+                    "VoiceID": 352,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¿Cómo están chicos?"
+                },
+                {
+                    "VoiceID": 353,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Yo también los amo a todos!"
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Knuckles)": [
+                {
+                    "VoiceID": 354,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Supongo que no hay Esmeraldas aquí..."
+                },
+                {
+                    "VoiceID": 355,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Estos pequeños... \nsiento como si ya los conociera de alguna parte..."
+                },
+                {
+                    "VoiceID": 356,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Estar aquí me recuerda a \nmi tierra natal por alguna razón..."
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Amy)": [
+                {
+                    "VoiceID": 357,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "Aaah... Este lugar es tan agradable..."
+                },
+                {
+                    "VoiceID": 358,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "oooouaahhhh... Tengo sueño..."
+                },
+                {
+                    "VoiceID": 359,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Chicos! ¡No peleen, por favor!"
+                },
+                {
+                    "VoiceID": 360,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Ojalá Sonic estuviera aquí conmigo..."
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Gamma)": [
+                {
+                    "VoiceID": 361,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¿Qué es este lugar?"
+                },
+                {
+                    "VoiceID": 362,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Modo combate desactivado."
+                },
+                {
+                    "VoiceID": 363,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Detectando lecturas de seres vivos."
+                }
+            ]
+        },
+        {
+            "Idle: Chao Garden (Big)": [
+                {
+                    "VoiceID": 364,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Me siento muy bien."
+                },
+                {
+                    "VoiceID": 365,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Estan bien chicos?"
+                },
+                {
+                    "VoiceID": 366,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Tengo hambre..."
+                },
+                {
+                    "VoiceID": 367,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Hmm... ¡Quiero ir a pescar!"
+                }
+            ]
+        },
+        {
+            "Idle: Sand Hill": [
+                {
+                    "VoiceID": 345,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Diablos! ¡Me entró arena en los ojos!"
+                },
+                {
+                    "VoiceID": 346,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Esta arena es tan suave y fácil de deslizar!"
+                }
+            ]
+        },
+        {
+            "Idle: Hedgehog Hammer": [
+                {
+                    "VoiceID": 347,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "E-eh, ¿dónde estoy?"
+                }
+            ]
+        },
+        {
+            "Sky Chase 1 (before Egg Cannon fires)": [
+                {
+                    "VoiceID": 491,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo hicimos!"
+                },
+                {
+                    "VoiceID": 716,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo hicimos!"
+                },
+                {
+                    "VoiceID": 492,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Eso fue pan comido!"
+                },
+                {
+                    "VoiceID": 717,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Eso fue pan comido!"
+                }
+            ]
+        },
+        {
+            "Sky Chase 2 (before transformation)": [
+                {
+                    "VoiceID": 765,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Genial! ¡Hemos superado la \nprimera línea de defensa!"
+                },
+                {
+                    "VoiceID": 766,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Aquí viene de nuevo!"
+                },
+                {
+                    "VoiceID": 767,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sí, lo sé!"
+                }
+            ]
+        },
+        {
+            "Sky Chase 2 (transformation alt lines)": [
+                {
+                    "VoiceID": 530,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Genial! ¡Hemos superado \nla primera línea de defensa!"
+                },
+                {
+                    "VoiceID": 531,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Aquí viene de nuevo!"
+                },
+                {
+                    "VoiceID": 532,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sí, lo sé!"
+                },
+                {
+                    "VoiceID": 533,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Modo del sistema, cambio!"
+                },
+                {
+                    "VoiceID": 534,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Whooooa!"
+                },
+                {
+                    "VoiceID": 535,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Bueno, aquí vamos."
+                }
+            ]
+        },
+        {
+            "Tails' stages - Sonic's voices": [
+                {
+                    "VoiceID": 205,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos, Tails!"
+                },
+                {
+                    "VoiceID": 206,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey-hey-hey!"
+                },
+                {
+                    "VoiceID": 207,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Buen trabajo Tails! ¡Sigue así!"
+                },
+                {
+                    "VoiceID": 208,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡O-oye, Tails!"
+                },
+                {
+                    "VoiceID": 209,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo lograste!"
+                },
+                {
+                    "VoiceID": 210,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos!"
+                },
+                {
+                    "VoiceID": 211,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Tails, voy primero!"
+                },
+                {
+                    "VoiceID": 212,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Tails, date prisa!"
+                },
+                {
+                    "VoiceID": 213,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hurra!"
+                },
+                {
+                    "VoiceID": 214,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo tengo!"
+                },
+                {
+                    "VoiceID": 215,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Tails, no tienes anillos! \n¡Ten cuidado!"
+                }
+            ]
+        },
+        {
+            "Speed Highway (Tails) - Eggman's voices": [
+                {
+                    "VoiceID": 216,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¿Crees que puedes seguirme el ritmo?"
+                },
+                {
+                    "VoiceID": 217,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Te tengo, Tails!"
+                },
+                {
+                    "VoiceID": 218,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¿Qué? ¿Logró alcanzarme?"
+                },
+                {
+                    "VoiceID": 219,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Maldito seas, pequeño zorro!"
+                },
+                {
+                    "VoiceID": 220,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "Ta... Tails! ¡Espérame!"
+                },
+                {
+                    "VoiceID": 221,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Mua-ja-ja-ja-ja-ja-ja-ja-ja!"
+                },
+                {
+                    "VoiceID": 222,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Adiós, Tails!"
+                },
+                {
+                    "VoiceID": 223,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Voy a destruir toda esta ciudad!"
+                },
+                {
+                    "VoiceID": 224,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ja! ¡Ni en cien años lograras vencerme!"
+                },
+                {
+                    "VoiceID": 225,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡La victoria es mia! \n¡Mua-ja-ja-ja-ja-ja-ja-ja!"
+                },
+                {
+                    "VoiceID": 226,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ahora, ríndete, Tails!"
+                }
+            ]
+        },
+        {
+            "Final Egg": [
+                {
+                    "VoiceID": 1588,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "¡Emergencia! ¡Emergencia! \n¡Eliminen a los intrusos inmediatamente!"
+                },
+                {
+                    "VoiceID": 1589,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "¡Emergencia! ¡Emergencia! \n¡Eliminen a los intrusos inmediatamente!"
+                },
+                {
+                    "VoiceID": 1590,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Final Egg: Mamparo de nivel 2 abierto."
+                },
+                {
+                    "VoiceID": 1591,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Final Egg: Mamparo de nivel 2 abierto."
+                },
+                {
+                    "VoiceID": 1592,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Destruye los objetivos y \nobtendrás tiempo extra."
+                },
+                {
+                    "VoiceID": 1593,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Destruye al objetivo Sonic!"
+                }
+            ]
+        },
+        {
+            "Bosses: vs character": [
+                {
+                    "VoiceID": 166,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Nada mal, Sonic!"
+                },
+                {
+                    "VoiceID": 167,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Nada mal, Knuckles!"
+                },
+                {
+                    "VoiceID": 168,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Nada mal, Tails!"
+                },
+                {
+                    "VoiceID": 169,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Las órdenes son absolutas."
+                },
+                {
+                    "VoiceID": 170,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Él es...fuerte..."
+                }
+            ]
+        },
+        {
+            "Bosses: Eggman": [
+                {
+                    "VoiceID": 171,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Máxima potencia!"
+                },
+                {
+                    "VoiceID": 172,
+                    "Duration": 30,
+                    "Mode": "Gameplay",
+                    "Text": "¡Auch!"
+                },
+                {
+                    "VoiceID": 174,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Toma esto!"
+                },
+                {
+                    "VoiceID": 176,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Pero si serás...!"
+                },
+                {
+                    "VoiceID": 177,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¿Q-qué...?"
+                },
+                {
+                    "VoiceID": 1902,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "¡Mua-ja-ja-ja-ja-ja-ja! \n¡Sonic, intenta alcanzarme!"
+                },
+                {
+                    "VoiceID": 1903,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sonic, toma esto!"
+                }
+            ]
+        },
+        {
+            "Announcers: Station Square": [
+                {
+                    "VoiceID": 1567,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Estimados pasajeros: Por favor, \ntomen asiento y esperen la salida."
+                },
+                {
+                    "VoiceID": 1568,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Estimados pasajeros: Por favor, \ntomen asiento y esperen la salida."
+                },
+                {
+                    "VoiceID": 1569,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "El tren con destino a \nMystic Ruins partirá pronto."
+                }, 
+                {
+                    "VoiceID": 1570,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "El tren con destino a \nMystic Ruins partirá pronto."
+                },
+                {
+                    "VoiceID": 1571,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "Pronto llegará el tren. \n¡Por favor, retroceda!"
+                },
+                {
+                    "VoiceID": 1572,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "Pronto llegará el tren. \n¡Por favor, retroceda!"
+                },
+                {
+                    "VoiceID": 1573,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "No hay trenes en servicio actualmente."
+                },
+                {
+                    "VoiceID": 1574,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "No hay trenes en servicio actualmente."
+                }
+            ]
+        },
+        {
+            "Announcer: Twinkle Park entrance": [
+                {
+                    "VoiceID": 1575,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Bienvenido a Twinkle Park!"
+                }
+            ]
+        },
+        {
+            "Announcers: Mystic Ruins": [
+                {
+                    "VoiceID": 1654,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Estimados pasajeros: Por favor, \ntomen asiento y esperen la salida."
+                },
+                {
+                    "VoiceID": 1655,
+                    "Duration": 270,
+                    "Mode": "Gameplay",
+                    "Text": "El tren con destino a \nStation Square partirá pronto."
+                },
+                {
+                    "VoiceID": 1656,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "Pronto llegará el tren. \n¡Por favor, retroceda!"
+                },
+                {
+                    "VoiceID": 1657,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "No hay trenes en servicio actualmente."
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Sonic": [
+                {
+                    "VoiceID": 1838,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Siií!"
+                },
+                {
+                    "VoiceID": 1839,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Yahuu!"
+                },
+                {
+                    "VoiceID": 1840,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Siií!"
+                },
+                {
+                    "VoiceID": 1841,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey, súbele el ritmo!"
+                },
+                {
+                    "VoiceID": 1842,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Que genial!"
+                },
+                {
+                    "VoiceID": 1843,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey chico! \n¡Ya jugare contigo en otro momento!"
+                },
+                {
+                    "VoiceID": 1844,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sí! ¡Está bien!"
+                },
+                {
+                    "VoiceID": 1845,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Oye, suéltame!"
+                },
+                {
+                    "VoiceID": 1847,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡No!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Tails": [
+                {
+                    "VoiceID": 1801,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sí!"
+                },
+                {
+                    "VoiceID": 1802,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hyahoo!"
+                },
+                {
+                    "VoiceID": 1803,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sí!"
+                },
+                {
+                    "VoiceID": 1804,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Ufff, apenas lo logré."
+                },
+                {
+                    "VoiceID": 1805,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo hice, Sonic!"
+                },
+                {
+                    "VoiceID": 1806,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Yo también me he hecho fuerte!"
+                },
+                {
+                    "VoiceID": 1807,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Bueno, supongo que eso está bien."
+                },
+                {
+                    "VoiceID": 1808,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡O-oye!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Knuckles": [
+                {
+                    "VoiceID": 1788,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Excelente!"
+                },
+                {
+                    "VoiceID": 1790,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Las Halle!"
+                },
+                {
+                    "VoiceID": 1791,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Hmph, tardó un poco."
+                },
+                {
+                    "VoiceID": 1792,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Eso fue fácil."
+                },
+                {
+                    "VoiceID": 1793,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Hmph, perro que ladra no muerde."
+                },
+                {
+                    "VoiceID": 1794,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Bueno, eso está bien."
+                },
+                {
+                    "VoiceID": 1795,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Maldita sea!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Amy": [
+                {
+                    "VoiceID": 1731,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo hice!"
+                },
+                {
+                    "VoiceID": 1732,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Yaaay!"
+                },
+                {
+                    "VoiceID": 1733,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Siiií!"
+                },
+                {
+                    "VoiceID": 1734,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Uff, Eso estuvo cerca..."
+                },
+                {
+                    "VoiceID": 1735,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Si me lo propongo, yo también puedo!"
+                },
+                {
+                    "VoiceID": 1736,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Estoy a salvo!"
+                },
+                {
+                    "VoiceID": 1737,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Yaaay! ¡Soy la mejor!"
+                },
+                {
+                    "VoiceID": 1738,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Oye, ¡Suéltame!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Big": [
+                {
+                    "VoiceID": 1334,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Ooooh, se escapó otra vez..."
+                },
+                {
+                    "VoiceID": 1747,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Froggy!"
+                },
+                {
+                    "VoiceID": 1748,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "La próxima vez haré \nlo mejor que pueda."
+                },
+                {
+                    "VoiceID": 1749,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Gran captura! ¡Gran captura!"
+                },
+                {
+                    "VoiceID": 1750,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¿Estás bien, Froggy?"
+                },
+                {
+                    "VoiceID": 1751,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Fue una buena pesca!"
+                },
+                {
+                    "VoiceID": 1758,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo atrapé! ¡Lo atrapé!"
+                },
+                {
+                    "VoiceID": 1759,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ya está aquí!"
+                }
+            ]
+        },
+        {
+            "Gameplay voices: Gamma": [
+                {
+                    "VoiceID": 1768,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Recorrido finalizado."
+                },
+                {
+                    "VoiceID": 1770,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Misión cumplida."
+                },
+                {
+                    "VoiceID": 1771,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "E-101 Beta: rescate completo."
+                },
+                {
+                    "VoiceID": 1772,
+                    "Duration": 240,
+                    "Mode": "Gameplay",
+                    "Text": "Captura de la rana completada"
+                },
+                {
+                    "VoiceID": 1773,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "E-105 Zeta: rescate completo."
+                },
+                {
+                    "VoiceID": 1774,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "E-104 Epsilon: rescate completo."
+                },
+                {
+                    "VoiceID": 1775,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "E-103 Delta: rescate completo."
+                },
+                {
+                    "VoiceID": 1777,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Escape imposible."
+                },
+                {
+                    "VoiceID": 1778,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Misión fallida."
+                },
+                {
+                    "VoiceID": 1786,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Unidad incapacitada."
+                }
+            ]
+        },
+        {
+            "Cutscene: before Egg Walker": [
+                {
+                    "VoiceID": 816,
+                    "Duration": 30,
+                    "Mode": "Gameplay",
+                    "Text": "¡E-Es Eggman!"
+                },
+                {
+                    "VoiceID": 818,
+                    "Duration": 30,
+                    "Mode": "Gameplay",
+                    "Text": "¿Estará bien?"
+                }
+            ]
+        },
+        {
+            "Cutscene: after Egg Walker": [
+                {
+                    "VoiceID": 821,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "¡Bien hecho!"
+                },
+                {
+                    "VoiceID": 822,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "Mhm, eso es toda una hazaña."
+                },
+                {
+                    "VoiceID": 823,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "¡Nos salvaste!"
+                },
+                {
+                    "VoiceID": 824,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "¡Qué genial!"
+                },
+                {
+                    "VoiceID": 825,
+                    "Duration": 20,
+                    "Mode": "Cutscene",
+                    "Text": "Yay, ¡Lo lograste!"
+                }
+            ]
+        },
+        {
+            "Cutscene: after Emerald Coast (Gamma)": [
+                {
+                    "VoiceID": 1223,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "¡La mia es la verdadera!"
+                },
+                {
+                    "VoiceID": 1224,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "No, la mia lo es"
+                },
+                {
+                    "VoiceID": 1225,
+                    "Duration": 20,
+                    "Mode": "Gameplay",
+                    "Text": "El mío tiene mejor color."
+                }
+            ]
+        },
+        {
+            "Beta restores: Big's unused fishing lines": [
+                {
+                    "VoiceID": 1763,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Es pequeño..."
+                },
+                {
+                    "VoiceID": 1761,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Este esta bien"
+                },
+                {
+                    "VoiceID": 1745,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Uno grande!"
+                },
+                {
+                    "VoiceID": 1753,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "No es bueno."
+                },
+                {
+                    "VoiceID": 1756,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "No es bueno."
+                },
+                {
+                    "VoiceID": 1876,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Muy bien! ¡Una vez más!"
+                },
+                {
+                    "VoiceID": 1877,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Casi lo consigo!\nBueno, una vez más."
+                }
+            ]
+        },
+        {
+            "Beta restores: Final Egg 1 (Sonic) intercom": [
+                {
+                    "VoiceID": 1706,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "¡Alerta de intruso! ¡Alerta de intruso! \n¡Egg Keepers, preséntense a sus puestos de batalla!"
+                },
+                {
+                    "VoiceID": 1707,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "¡Alerta de intruso! ¡Alerta de intruso! \n¡Egg Keepers, preséntense a sus puestos de batalla!"
+                }
+            ]
+        },
+        {
+            "Beta restores: Final Egg (Amy) Eggman's taunts": [
+                {
+                    "VoiceID": 1984,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ja-ja-ja-ja-ja! ¡Camino equivocado!"
+                },
+                {
+                    "VoiceID": 1985,
+                    "Duration": 180,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ja-ja-ja-ja-ja! ¡Camino equivocado otravez!"
+                },
+                {
+                    "VoiceID": 1986,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "¡Ja-ja-ja-ja-ja! ¡Ríndete ya!"
+                }
+            ]
+        },
+        {
+            "Beta restores: Sky Deck unused lines": [
+                {
+                    "VoiceID": 1704,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "¡Emergencia! ¡Emergencia! \n¡Eliminen a los intrusos inmediatamente!"
+                },
+                {
+                    "VoiceID": 1705,
+                    "Duration": 420,
+                    "Mode": "Gameplay",
+                    "Text": "¡Emergencia! ¡Emergencia! \n¡Eliminen a los intrusos inmediatamente!"
+                },
+                {
+                    "VoiceID": 1727,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "Se acerca un fuerte viento.\nSe acerca un fuerte viento."
+                },
+                {
+                    "VoiceID": 1728,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Alerta de viento fuerte cancelada."
+                },
+                {
+                    "VoiceID": 1723,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "Descendiendo hacia las nubes.\nReduzca la velocidad de la nave."
+                },
+                {
+                    "VoiceID": 1724,
+                    "Duration": 360,
+                    "Mode": "Gameplay",
+                    "Text": "Descendiendo hacia las nubes.\nReduzca la velocidad de la nave."
+                },
+                {
+                    "VoiceID": 1725,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "¡Sube! ¡A toda velocidad!"
+                },
+                {
+                    "VoiceID": 1726,
+                    "Duration": 300,
+                    "Mode": "Gameplay",
+                    "Text": "¡Erizo insolente! \n¡Te voy a quitar de encima!"
+                }
+            ]
+        },
+        {
+            "Beta restores: vs E-101 mk.2 unused line": [
+                {
+                    "VoiceID": 1681,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Detente, Beta!"
+                }
+            ]
+        },
+        {
+            "Beta restores: characters taking damage with no rings": [
+                {
+                    "VoiceID": 1809,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "Sonic..."
+                },
+                {
+                    "VoiceID": 1796,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¿Se acabó...?"
+                },
+                {
+                    "VoiceID": 1740,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Oh no!"
+                },
+                {
+                    "VoiceID": 1755,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "¡No es bueno!"
+                }
+            ]
+        },
+        {
+            "Beta restores: Tails' stages alt Sonic's voices": [
+                {
+                    "VoiceID": 1823,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo lograste!"
+                },
+                {
+                    "VoiceID": 1824,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo tienes!"
+                },
+                {
+                    "VoiceID": 1825,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo logré!"
+                },
+                {
+                    "VoiceID": 1826,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Lo tengo!"
+                },
+                {
+                    "VoiceID": 1827,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Bien hecho!"
+                },
+                {
+                    "VoiceID": 1828,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hey-hey-hey!"
+                },
+                {
+                    "VoiceID": 1829,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos!"
+                },
+                {
+                    "VoiceID": 1830,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Gane!"
+                },
+                {
+                    "VoiceID": 1831,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos!"
+                },
+                {
+                    "VoiceID": 1832,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Aguanta ahí!"
+                },
+                {
+                    "VoiceID": 1833,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Espera-espera-espera!"
+                },
+                {
+                    "VoiceID": 1834,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Aguanta!"
+                },
+                {
+                    "VoiceID": 1835,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Hurra!"
+                },
+                {
+                    "VoiceID": 1836,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Oki-doki!"
+                }
+            ]
+        },
+        {
+            "Beta restores: Perfect Chaos unused Tikal's cheers": [
+                {
+                    "VoiceID": 1713,
+                    "Duration": 150,
+                    "Mode": "Gameplay",
+                    "Text": "¿Sonic...?\nYa veo..."
+                },
+                {
+                    "VoiceID": 1714,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Apuesto por tu valentía."
+                },
+                {
+                    "VoiceID": 1716,
+                    "Duration": 210,
+                    "Mode": "Gameplay",
+                    "Text": "Necesitas anillos para permanecer como Super Sonic.\n¡Ten cuidado!"
+                }
+            ]
+        }
+    ]
+}
