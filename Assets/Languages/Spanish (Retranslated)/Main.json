@@ -1,5 +1,5 @@
 {
-    "Language": "Spanish",
+    "Language": "Spanish (Retranslated)",
     "Subtitles": [
         {
             "Menu voices: default": [
@@ -663,7 +663,7 @@
                     "VoiceID": 106,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                    "Text": "¿Tu tarjeta de memoria\nestá configurada correctamente?"
                 },
                 {
                     "VoiceID": 107,
@@ -887,7 +887,7 @@
                     "VoiceID": 142,
                     "Duration": 210,
                     "Mode": "Menu",
-                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                    "Text": "¿Tu tarjeta de memoria\nestá configurada correctamente?"
                 },
                 {
                     "VoiceID": 143,
@@ -999,7 +999,7 @@
                     "VoiceID": 160,
                     "Duration": 150,
                     "Mode": "Menu",
-                    "Text": "¿Tu tarjeta de memoria está configurada correctamente?"
+                    "Text": "¿Tu tarjeta de memoria\nestá configurada correctamente?"
                 },
                 {
                     "VoiceID": 161,
@@ -1203,7 +1203,7 @@
                     "VoiceID": 303,
                     "Duration": 120,
                     "Mode": "Gameplay",
-                    "Text": "No sé por qué, pero esto me esta emocionando..."
+                    "Text": "No sé por qué,\npero esto me esta emocionando..."
                 },
                 {
                     "VoiceID": 304,
@@ -1323,7 +1323,7 @@
                     "VoiceID": 309,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "La verdad, este tipo de lugares no son de mi agrado..."
+                    "Text": "La verdad, este tipo de lugares\nno son de mi agrado..."
                 },
                 {
                     "VoiceID": 310,
@@ -1577,7 +1577,7 @@
                     "VoiceID": 228,
                     "Duration": 180,
                     "Mode": "Gameplay",
-                    "Text": "Se confirma la lectura de la forma de vida de la rana."
+                    "Text": "Se confirma la lectura\nde la forma de vida de la rana."
                 },
                 {
                     "VoiceID": 229,
@@ -3333,7 +3333,7 @@
                     "VoiceID": 1716,
                     "Duration": 210,
                     "Mode": "Gameplay",
-                    "Text": "Necesitas anillos para permanecer como Super Sonic.\n¡Ten cuidado!"
+                    "Text": "Necesitas anillos para permanecer\ncomo Super Sonic. ¡Ten cuidado!"
                 }
             ]
         }

@@ -17,4 +17,5 @@ public:
 
 	void Load(const char* language, int codepage);
 	void LoadRetranslated(const char* language, int codepage);
+	void LoadSE(const char* language, int codepage);
 };

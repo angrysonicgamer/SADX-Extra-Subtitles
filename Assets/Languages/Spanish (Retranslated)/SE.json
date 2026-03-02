@@ -1,0 +1,91 @@
+{
+    "Language": "Spanish",    
+    "Subtitles": [
+        {
+            "Sonic": [
+                {
+                    "VoiceID": 1227,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Listo!"
+                },
+                {
+                    "VoiceID": 1228,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡Vamos!"
+                }
+            ],
+            "Knuckles": [
+                {
+                    "VoiceID": 1261,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "¡No puedo!"
+                },
+                {
+                    "VoiceID": 1268,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Dos más!"
+                },
+                {
+                    "VoiceID": 1269,
+                    "Duration": 90,
+                    "Mode": "Gameplay",
+                    "Text": "¡Una más!"
+                }
+            ],
+            "Gamma": [
+                {
+                    "VoiceID": 1299,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Recoger."
+                },
+                {
+                    "VoiceID": 1300,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Poner."
+                },
+                {
+                    "VoiceID": 1301,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Lanzar."
+                },
+                {
+                    "VoiceID": 1302,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Empujar."
+                },
+                {
+                    "VoiceID": 1303,
+                    "Duration": 60,
+                    "Mode": "Gameplay",
+                    "Text": "Jalar."
+                },
+                {
+                    "VoiceID": 1304,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Cambio de modo."
+                },
+                {
+                    "VoiceID": 1305,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "No queda tiempo."
+                },
+                {
+                    "VoiceID": 1306,
+                    "Duration": 120,
+                    "Mode": "Gameplay",
+                    "Text": "Ítem obtenido."
+                }
+            ]
+        }
+    ]
+}

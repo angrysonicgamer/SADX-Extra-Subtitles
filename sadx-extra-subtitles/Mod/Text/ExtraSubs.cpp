@@ -224,21 +224,26 @@ void LoadText()
 	DebugMessage::Loading();
 	
 	Subtitles[Languages_Japanese].Load("Japanese", ShiftJIS);
+	Subtitles[Languages_Japanese].LoadSE("Japanese", ShiftJIS);
 	
 	// the game uses Japanese encoding for English text
 	Subtitles[Languages_English].Load("English", ShiftJIS);
+	Subtitles[Languages_English].LoadSE("English", ShiftJIS);
 	Subtitles[Languages_English].LoadRetranslated("English (Retranslated)", ShiftJIS);
 	
 	Subtitles[Languages_French].Load("French", Windows1252);
+	Subtitles[Languages_French].LoadSE("French", Windows1252);
 	Subtitles[Languages_French].LoadRetranslated("French (Retranslated)", Windows1252);
 
 	// German is currently without retranslated variant
 	Subtitles[Languages_German].Load("German", Windows1252);
+	Subtitles[Languages_German].LoadSE("German", Windows1252);
 	//Subtitles[Languages_German].LoadRetranslated("German (Retranslated)", Windows1252);
 	
 	// Spanish currently has only retranslated variant
 	//Subtitles[Languages_Spanish].Load("Spanish", Windows1252);
 	Subtitles[Languages_Spanish].LoadRetranslated("Spanish (Retranslated)", Windows1252);
+	Subtitles[Languages_Spanish].LoadSE("Spanish (Retranslated)", Windows1252);
 
 	DebugMessage::Finished();
 }
