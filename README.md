@@ -13,11 +13,12 @@ Subtitles will be displayed for the following:
 * some unused voices triggered by [Fixes, Adds and Beta Restores](https://gamebanana.com/mods/49976) (e.g. Tikal's cheers at the beginning of Perfect Chaos boss battle)
 * limited number of voices stored in soundbanks: Sonic's light dash voices, Knuckles' hunting voices, Gamma's gameplay voices (experimental)
 
-Currently supported languages:
+The mod now supports all languages in the game:
 * English (2 sets: matching English dub and retranslated from Japanese by me)
 * French (2 sets, translated by [Kesnos](https://github.com/Kesnos-ho))
+* Spanish (retranslated set, translated by [AcaciaBanana](https://gamebanana.com/members/2345224))
 * German (single set, translated by [Lukas 3 AIR](https://gamebanana.com/members/1800311))
-* Japanese (experimental)
+* Japanese (hopefully correct)
 
 ## Usage
 
