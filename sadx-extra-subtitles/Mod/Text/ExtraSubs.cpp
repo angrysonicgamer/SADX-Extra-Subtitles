@@ -118,10 +118,26 @@ void SetSubtitlesMode() // this will be a single option for multiple languages
 	bool useRetranslatedSubs = Config::SubtitlesMode == "AlwaysRetranslated" || Config::SubtitlesMode == "Auto" && VoiceLanguage == Languages_Japanese;
 
 	for (int lang = Languages_English; lang <= Languages_German; lang++)
-	{
-		MainSet[lang] = useRetranslatedSubs && !Subtitles[lang].MainRetranslated.empty() ? &Subtitles[lang].MainRetranslated : &Subtitles[lang].Main;
-		SkyChase1[lang] = useRetranslatedSubs && !Subtitles[lang].SkyChase1Retranslated.empty() ? &Subtitles[lang].SkyChase1Retranslated : &Subtitles[lang].SkyChase1;
-		SkyChase2[lang] = useRetranslatedSubs && !Subtitles[lang].SkyChase2Retranslated.empty() ? &Subtitles[lang].SkyChase2Retranslated : &Subtitles[lang].SkyChase2;
+	{		
+		MainSet[lang] = useRetranslatedSubs ? &Subtitles[lang].MainRetranslated : &Subtitles[lang].Main;
+		SkyChase1[lang] = useRetranslatedSubs ? &Subtitles[lang].SkyChase1Retranslated : &Subtitles[lang].SkyChase1;
+		SkyChase2[lang] = useRetranslatedSubs ? &Subtitles[lang].SkyChase2Retranslated : &Subtitles[lang].SkyChase2;
+
+		// In case if only one variant exists for a language
+		
+		if (!Subtitles[lang].Main.empty() && Subtitles[lang].MainRetranslated.empty()) // only main set exists
+		{
+			MainSet[lang] = &Subtitles[lang].Main;
+			SkyChase1[lang] = &Subtitles[lang].SkyChase1;
+			SkyChase2[lang] = &Subtitles[lang].SkyChase2;
+		}
+
+		if (Subtitles[lang].Main.empty() && !Subtitles[lang].MainRetranslated.empty()) // only retranslated set exists
+		{
+			MainSet[lang] = &Subtitles[lang].MainRetranslated;
+			SkyChase1[lang] = &Subtitles[lang].SkyChase1Retranslated;
+			SkyChase2[lang] = &Subtitles[lang].SkyChase2Retranslated;
+		}
 	}
 }
 
@@ -216,13 +232,13 @@ void LoadText()
 	Subtitles[Languages_French].Load("French", Windows1252);
 	Subtitles[Languages_French].LoadRetranslated("French (Retranslated)", Windows1252);
 
-	// German is without retranslated variant, Spanish is not currently supported, waiting for contributions
-	
+	// German is currently without retranslated variant
 	Subtitles[Languages_German].Load("German", Windows1252);
 	//Subtitles[Languages_German].LoadRetranslated("German (Retranslated)", Windows1252);
 	
+	// Spanish currently has only retranslated variant
 	//Subtitles[Languages_Spanish].Load("Spanish", Windows1252);
-	//Subtitles[Languages_Spanish].LoadRetranslated("Spanish (Retranslated)", Windows1252);
+	Subtitles[Languages_Spanish].LoadRetranslated("Spanish (Retranslated)", Windows1252);
 
 	DebugMessage::Finished();
 }
