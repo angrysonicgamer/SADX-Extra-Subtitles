@@ -12,6 +12,7 @@ void LoadedSubtitles::Load(const char* language, int codepage)
 		SkyChase1 = Json::ReadArray(language, "SkyChase1", codepage);
 		SkyChase2 = Json::ReadArray(language, "SkyChase2", codepage);
 		TwinklePark = Json::ReadArray(language, "TwinklePark", codepage);
+		SE = Json::ReadExtraSubs(language, "SE", codepage);
 
 		DebugMessage::Success(language);
 	}
@@ -28,6 +29,8 @@ void LoadedSubtitles::LoadRetranslated(const char* language, int codepage)
 		MainRetranslated = Json::ReadExtraSubs(language, "Main", codepage);
 		SkyChase1Retranslated = Json::ReadArray(language, "SkyChase1", codepage);
 		SkyChase2Retranslated = Json::ReadArray(language, "SkyChase2", codepage);
+		TwinklePark = Json::ReadArray(language, "TwinklePark", codepage);
+		SE = Json::ReadExtraSubs(language, "SE", codepage);
 
 		DebugMessage::Success(language);
 	}
@@ -35,9 +38,4 @@ void LoadedSubtitles::LoadRetranslated(const char* language, int codepage)
 	{
 		DebugMessage::Error(language);
 	}
-}
-
-void LoadedSubtitles::LoadSE(const char* language, int codepage)
-{
-	SE = Json::ReadExtraSubs(language, "SE", codepage);
 }
